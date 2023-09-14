@@ -1,5 +1,5 @@
 ---
 title: "BonÀrea"
-url: /lleida/bonarea/
+url: /lleida/bonarea-carrer-de-jeroni-pujades/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /lleida/consum/
+url: /lleida/consum-carrer-del-centre/
 shop: supermercado
 ---

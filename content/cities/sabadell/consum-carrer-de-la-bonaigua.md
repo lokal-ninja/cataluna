@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /sabadell/consum/
+url: /sabadell/consum-carrer-de-la-bonaigua/
 shop: supermercado
 ---

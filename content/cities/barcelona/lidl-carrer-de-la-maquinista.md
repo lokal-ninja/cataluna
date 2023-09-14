@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /barcelona/lidl/
+url: /barcelona/lidl-carrer-de-la-maquinista/
 shop: supermercado
 ---

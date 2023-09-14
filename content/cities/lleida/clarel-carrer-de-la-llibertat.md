@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
-url: /lleida/clarel/
+url: /lleida/clarel-carrer-de-la-llibertat/
 shop: farmacia
 ---

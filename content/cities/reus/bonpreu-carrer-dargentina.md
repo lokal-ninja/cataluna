@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
-url: /reus/bonpreu/
+url: /reus/bonpreu-carrer-dargentina/
 shop: supermercado
 ---

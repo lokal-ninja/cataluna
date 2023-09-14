@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
-url: /lleida/caprabo/
+url: /lleida/caprabo-placa-de-joan-xxiii/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /barcelona/mediamarkt/
+url: /barcelona/mediamarkt-carrer-de-fontanella/
 shop: electrónica
 ---

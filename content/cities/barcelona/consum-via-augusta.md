@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /barcelona/consum/
+url: /barcelona/consum-via-augusta/
 shop: supermercado
 ---

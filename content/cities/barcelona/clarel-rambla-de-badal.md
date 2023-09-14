@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
-url: /barcelona/clarel/
+url: /barcelona/clarel-rambla-de-badal/
 shop: farmacia
 ---

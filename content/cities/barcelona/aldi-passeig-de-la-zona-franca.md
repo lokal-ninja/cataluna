@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /barcelona/aldi/
+url: /barcelona/aldi-passeig-de-la-zona-franca/
 shop: supermercado
 ---

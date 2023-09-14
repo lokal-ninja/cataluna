@@ -1,5 +1,5 @@
 ---
 title: "Condis"
-url: /barcelona/condis/
+url: /barcelona/condis-carrer-del-doctor-pi-i-molist/
 shop: supermercado
 ---

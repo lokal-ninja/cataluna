@@ -1,5 +1,5 @@
 ---
 title: "Michelangelo"
-url: /cambrils/michelangelo/
+url: /cambrils/michelangelo-avinguda-de-la-diputacio/
 shop: supermercado
 ---

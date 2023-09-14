@@ -1,5 +1,5 @@
 ---
 title: "MDL"
-url: /badalona/mdl/
+url: /badalona/mdl-2/
 shop: panadería
 ---

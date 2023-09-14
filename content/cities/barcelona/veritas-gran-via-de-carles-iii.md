@@ -1,5 +1,5 @@
 ---
 title: "Veritas"
-url: /barcelona/veritas/
+url: /barcelona/veritas-gran-via-de-carles-iii/
 shop: supermercado
 ---

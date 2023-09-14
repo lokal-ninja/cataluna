@@ -1,5 +1,5 @@
 ---
 title: "Michelangelo"
-url: /salou/michelangelo/
+url: /salou/michelangelo-carrer-del-prat-den-carbo/
 shop: supermercado
 ---

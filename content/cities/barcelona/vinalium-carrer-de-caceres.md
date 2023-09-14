@@ -1,5 +1,5 @@
 ---
 title: "Vinalium"
-url: /barcelona/vinalium/
+url: /barcelona/vinalium-carrer-de-caceres/
 shop: alcohol
 ---

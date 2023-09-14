@@ -1,5 +1,5 @@
 ---
 title: "Druni"
-url: /lleida/druni/
+url: /lleida/druni-carrer-major/
 shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /girona/consum/
+url: /girona/consum-carrer-migdia/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /vic/lidl/
+url: /vic/lidl-carretera-de-la-guixa/
 shop: supermercado
 ---

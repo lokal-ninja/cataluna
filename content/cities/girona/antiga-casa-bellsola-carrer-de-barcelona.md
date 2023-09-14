@@ -1,5 +1,5 @@
 ---
 title: "Antiga Casa Bellsolà"
-url: /girona/antiga-casa-bellsola/
+url: /girona/antiga-casa-bellsola-carrer-de-barcelona/
 shop: panadería
 ---

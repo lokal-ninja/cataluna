@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /barcelona/consum/
+url: /barcelona/consum-carrer-de-villarroel/
 shop: supermercado
 ---

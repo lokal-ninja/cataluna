@@ -1,5 +1,5 @@
 ---
 title: "Granel"
-url: /barcelona/granel/
+url: /barcelona/granel-travessera-de-gracia/
 shop: comodidad
 ---

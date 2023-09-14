@@ -1,5 +1,5 @@
 ---
 title: "Beep"
-url: /reus/beep/
+url: /reus/beep-avinguda-de-la-salle/
 shop: ordenador
 ---

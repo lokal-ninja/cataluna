@@ -1,5 +1,5 @@
 ---
 title: "Condis"
-url: /ripollet/condis/
+url: /ripollet/condis-carrer-de-sant-josep/
 shop: supermercado
 ---

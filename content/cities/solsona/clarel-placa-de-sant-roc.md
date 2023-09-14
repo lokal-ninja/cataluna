@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
-url: /solsona/clarel/
+url: /solsona/clarel-placa-de-sant-roc/
 shop: farmacia
 ---

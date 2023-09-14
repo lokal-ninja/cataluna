@@ -1,5 +1,5 @@
 ---
 title: "Condis"
-url: /lhospitalet-de-llobregat/condis/
+url: /lhospitalet-de-llobregat/condis-rambla-de-la-marina/
 shop: supermercado
 ---

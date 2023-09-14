@@ -1,5 +1,5 @@
 ---
 title: "Loterías y Apuestas del Estado"
-url: /barcelona/loterias-y-apuestas-del-estado/
+url: /barcelona/loterias-y-apuestas-del-estado-travessera-de-gracia/
 shop: lotería
 ---

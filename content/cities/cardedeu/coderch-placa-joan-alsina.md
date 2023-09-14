@@ -1,5 +1,5 @@
 ---
 title: "Coderch"
-url: /cardedeu/coderch/
+url: /cardedeu/coderch-placa-joan-alsina/
 shop: material de oficina
 ---

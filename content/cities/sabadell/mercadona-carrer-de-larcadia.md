@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /sabadell/mercadona/
+url: /sabadell/mercadona-carrer-de-larcadia/
 shop: supermercado
 ---

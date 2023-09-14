@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
-url: /barcelona/springfield/
+url: /barcelona/springfield-passeig-de-fabra-i-puig/
 shop: ropa
 ---

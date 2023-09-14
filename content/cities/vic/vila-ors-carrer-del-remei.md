@@ -1,5 +1,5 @@
 ---
 title: "Vila Ors"
-url: /vic/vila-ors/
+url: /vic/vila-ors-carrer-del-remei/
 shop: bicicleta
 ---

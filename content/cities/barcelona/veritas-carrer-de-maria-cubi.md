@@ -1,5 +1,5 @@
 ---
 title: "Veritas"
-url: /barcelona/veritas/
+url: /barcelona/veritas-carrer-de-maria-cubi/
 shop: supermercado
 ---

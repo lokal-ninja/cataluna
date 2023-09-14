@@ -1,5 +1,5 @@
 ---
 title: "Condis"
-url: /montgat/condis/
+url: /montgat/condis-carretera-de-mataro/
 shop: supermercado
 ---

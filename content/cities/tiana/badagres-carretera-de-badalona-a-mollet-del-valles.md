@@ -1,5 +1,5 @@
 ---
 title: "Badagres"
-url: /tiana/badagres/
+url: /tiana/badagres-carretera-de-badalona-a-mollet-del-valles/
 shop: comercio
 ---

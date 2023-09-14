@@ -1,5 +1,5 @@
 ---
 title: "Paloma"
-url: /barcelona/paloma/
+url: /barcelona/paloma-carrer-del-clot/
 shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /badalona/dia/
+url: /badalona/dia-carrer-de-pau-piferrer/
 shop: supermercado
 ---

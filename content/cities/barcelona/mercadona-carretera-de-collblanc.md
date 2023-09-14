@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /barcelona/mercadona/
+url: /barcelona/mercadona-carretera-de-collblanc/
 shop: supermercado
 ---

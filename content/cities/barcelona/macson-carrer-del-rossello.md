@@ -1,5 +1,5 @@
 ---
 title: "Macson"
-url: /barcelona/macson/
+url: /barcelona/macson-carrer-del-rossello/
 shop: ropa
 ---

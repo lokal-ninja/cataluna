@@ -1,5 +1,5 @@
 ---
 title: "Badia"
-url: /lleida/badia/
+url: /lleida/badia-carrer-de-reus/
 shop: frutería
 ---

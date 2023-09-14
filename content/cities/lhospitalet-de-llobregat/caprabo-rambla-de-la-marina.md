@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
-url: /lhospitalet-de-llobregat/caprabo/
+url: /lhospitalet-de-llobregat/caprabo-rambla-de-la-marina/
 shop: supermercado
 ---

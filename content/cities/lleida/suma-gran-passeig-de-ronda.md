@@ -1,5 +1,5 @@
 ---
 title: "Suma"
-url: /lleida/suma/
+url: /lleida/suma-gran-passeig-de-ronda/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /badalona/mercadona/
+url: /badalona/mercadona-carrer-de-la-seu-durgell/
 shop: supermercado
 ---

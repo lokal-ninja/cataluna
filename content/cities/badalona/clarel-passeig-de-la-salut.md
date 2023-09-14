@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
-url: /badalona/clarel/
+url: /badalona/clarel-passeig-de-la-salut/
 shop: farmacia
 ---

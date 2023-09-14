@@ -1,5 +1,5 @@
 ---
 title: "Cal Fruitós"
-url: /barcelona/cal-fruitos/
+url: /barcelona/cal-fruitos-carrer-de-bilbao/
 shop: frutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Workcenter"
-url: /barcelona/workcenter/
+url: /barcelona/workcenter-carrer-de-balmes/
 shop: copyshop
 ---

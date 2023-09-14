@@ -1,5 +1,5 @@
 ---
 title: "Veritas"
-url: /barcelona/veritas/
+url: /barcelona/veritas-travessera-de-les-corts/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
-url: /barcelona/sephora/
+url: /barcelona/sephora-avinguda-diagonal/
 shop: cosméticos
 ---

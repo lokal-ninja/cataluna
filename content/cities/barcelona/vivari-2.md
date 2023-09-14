@@ -1,5 +1,5 @@
 ---
 title: "Vivari"
-url: /barcelona/vivari/
+url: /barcelona/vivari-2/
 shop: panadería
 ---

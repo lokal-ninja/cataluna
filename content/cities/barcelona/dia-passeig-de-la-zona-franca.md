@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /barcelona/dia/
+url: /barcelona/dia-passeig-de-la-zona-franca/
 shop: supermercado
 ---

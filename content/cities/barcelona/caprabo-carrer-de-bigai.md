@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
-url: /barcelona/caprabo/
+url: /barcelona/caprabo-carrer-de-bigai/
 shop: supermercado
 ---

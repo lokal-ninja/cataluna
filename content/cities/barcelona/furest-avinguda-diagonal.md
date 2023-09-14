@@ -1,5 +1,5 @@
 ---
 title: "Furest"
-url: /barcelona/furest/
+url: /barcelona/furest-avinguda-diagonal/
 shop: ropa
 ---

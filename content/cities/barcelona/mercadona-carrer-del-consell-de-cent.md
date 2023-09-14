@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /barcelona/mercadona/
+url: /barcelona/mercadona-carrer-del-consell-de-cent/
 shop: supermercado
 ---

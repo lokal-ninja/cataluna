@@ -1,5 +1,5 @@
 ---
 title: "Condis"
-url: /barcelona/condis/
+url: /barcelona/condis-passeig-de-la-zona-franca/
 shop: supermercado
 ---

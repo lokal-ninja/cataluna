@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /barcelona/aldi/
+url: /barcelona/aldi-placa-de-joan-pelegri/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Condis"
-url: /barcelona/condis/
+url: /barcelona/condis-carrer-dels-madrazo/
 shop: supermercado
 ---

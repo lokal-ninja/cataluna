@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /reus/dia/
+url: /reus/dia-avinguda-de-pere-el-cerimonios/
 shop: supermercado
 ---

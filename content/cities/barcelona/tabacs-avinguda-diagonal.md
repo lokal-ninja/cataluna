@@ -1,5 +1,5 @@
 ---
 title: "Tabacs"
-url: /barcelona/tabacs/
+url: /barcelona/tabacs-avinguda-diagonal/
 shop: tabaco
 ---

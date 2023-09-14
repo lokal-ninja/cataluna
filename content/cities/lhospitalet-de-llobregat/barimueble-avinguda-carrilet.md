@@ -1,5 +1,5 @@
 ---
 title: "Barimueble"
-url: /lhospitalet-de-llobregat/barimueble/
+url: /lhospitalet-de-llobregat/barimueble-avinguda-carrilet/
 shop: muebles
 ---

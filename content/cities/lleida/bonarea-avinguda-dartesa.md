@@ -1,5 +1,5 @@
 ---
 title: "BonÀrea"
-url: /lleida/bonarea/
+url: /lleida/bonarea-avinguda-dartesa/
 shop: supermercado
 ---

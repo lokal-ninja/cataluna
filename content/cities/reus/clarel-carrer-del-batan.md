@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
-url: /reus/clarel/
+url: /reus/clarel-carrer-del-batan/
 shop: farmacia
 ---
