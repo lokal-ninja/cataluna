@@ -1,6 +1,6 @@
 ---
 title: Vilafranca del Penedès
 url: /vilafranca-del-penedes/
-latitude: 41.338
-longitude: 1.684
+latitude: 41.351
+longitude: 1.705
 ---

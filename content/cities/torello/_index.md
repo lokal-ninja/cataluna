@@ -1,6 +1,6 @@
 ---
 title: Torelló
 url: /torello/
-latitude: 42.04
-longitude: 2.273
+latitude: 42.05
+longitude: 2.263
 ---
