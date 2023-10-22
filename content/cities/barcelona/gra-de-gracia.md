@@ -1,5 +1,5 @@
 ---
-title: "Gra de gràcia"
+title: "Gra de Gracia"
 url: /barcelona/gra-de-gracia/
 shop: supermercado
 ---

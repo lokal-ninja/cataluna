@@ -1,6 +1,6 @@
 ---
 title: Platja d'Aro
 url: /platja-daro/
-latitude: 41.815
-longitude: 3.05
+latitude: 41.821
+longitude: 3.069
 ---
