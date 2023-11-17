@@ -1,5 +1,5 @@
 ---
-title: "MOTOS ULLASTRES"
+title: "Motos Ullastres"
 url: /banyoles/motos-ullastres/
 shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
-title: "FULL EQUIP SPORTS"
+title: "Full Equip Sports"
 url: /igualada/full-equip-sports/
 shop: bicicleta
 ---

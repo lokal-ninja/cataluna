@@ -1,5 +1,5 @@
 ---
-title: "PASSION BIKE"
+title: "Passion Bike"
 url: /rubi/passion-bike/
 shop: bicicleta
 ---

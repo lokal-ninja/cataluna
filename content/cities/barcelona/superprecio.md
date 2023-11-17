@@ -1,5 +1,5 @@
 ---
 title: "Superprecio"
 url: /barcelona/superprecio/
-shop: supermercado
+shop: comodidad
 ---

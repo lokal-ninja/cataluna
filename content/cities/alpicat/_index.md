@@ -1,6 +1,6 @@
 ---
 title: Alpicat
 url: /alpicat/
-latitude: 41.656
-longitude: 0.558
+latitude: 41.663
+longitude: 0.557
 ---
