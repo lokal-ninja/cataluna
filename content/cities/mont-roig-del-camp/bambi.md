@@ -1,5 +1,5 @@
 ---
 title: "Bambi"
 url: /mont-roig-del-camp/bambi/
-shop: general
+shop: tienda de variedades
 ---
