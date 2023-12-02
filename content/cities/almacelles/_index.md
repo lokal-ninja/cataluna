@@ -1,6 +1,6 @@
 ---
 title: Almacelles
 url: /almacelles/
-latitude: 41.727
-longitude: 0.436
+latitude: 41.734
+longitude: 0.435
 ---
