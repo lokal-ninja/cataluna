@@ -1,6 +1,6 @@
 ---
 title: Barcelona
 url: /barcelona/
-latitude: 41.394
-longitude: 2.151
+latitude: 41.392
+longitude: 2.165
 ---

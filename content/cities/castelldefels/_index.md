@@ -1,6 +1,6 @@
 ---
 title: Castelldefels
 url: /castelldefels/
-latitude: 41.27
-longitude: 1.979
+latitude: 41.266
+longitude: 1.971
 ---
