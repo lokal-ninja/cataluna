@@ -1,6 +1,6 @@
 ---
-title: l'Hospitalet de Llobregat
+title: L'Hospitalet de Llobregat
 url: /lhospitalet-de-llobregat/
-latitude: 41.364
-longitude: 2.128
+latitude: 41.378
+longitude: 2.121
 ---
