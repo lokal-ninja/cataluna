@@ -1,6 +1,6 @@
 ---
 title: Montblanc
 url: /montblanc/
-latitude: 41.374
-longitude: 1.165
+latitude: 41.377
+longitude: 1.162
 ---
