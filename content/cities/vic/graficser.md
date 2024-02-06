@@ -1,5 +1,5 @@
 ---
 title: "Graficser"
 url: /vic/graficser/
-shop: general
+shop: copyshop
 ---
