@@ -1,11 +1,11 @@
-id: 2336858873
+id: 2336852452
 type: node
-latitude: 42.16788
-longitude: 0.89514
+latitude: 42.1678
+longitude: 0.89515
 postcode: "25620"
 city: Tremp
-street: ""
-housenumber: Doctor Roure, 24
-phone: ""
-opening_hours: ""
-website: "https://www.potxo.net/"
+street: "Carrer del Doctor Roure"
+housenumber: 24
+phone: "+34 973 65 02 32"
+opening_hours: "Mo-Sa 10:00–13:30, 17:00–20:00"
+website: "https://calcats-prats-casa-potxo.business.site/"
