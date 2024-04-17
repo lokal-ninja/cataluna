@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /tarragona/spar-carrer-vint/
+url: /gandesa/spar/
 shop: supermercado
 ---
