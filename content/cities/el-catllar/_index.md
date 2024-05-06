@@ -1,6 +1,6 @@
 ---
 title: el Catllar
 url: /el-catllar/
-latitude: 41.175
-longitude: 1.326
+latitude: 41.176
+longitude: 1.327
 ---
