@@ -1,5 +1,5 @@
 ---
-title: "OUtLET"
+title: "Outlet"
 url: /mont-roig-del-camp/outlet/
-shop: supermercado
+shop: tienda de variedades
 ---
