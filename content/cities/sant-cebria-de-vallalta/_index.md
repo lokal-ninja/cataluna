@@ -1,6 +1,6 @@
 ---
-title: Sant Cebria de Vallalta
+title: Sant Cebrià de Vallalta
 url: /sant-cebria-de-vallalta/
-latitude: 41.616
-longitude: 2.606
+latitude: 41.62
+longitude: 2.604
 ---
