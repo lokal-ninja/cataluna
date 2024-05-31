@@ -1,6 +1,6 @@
 ---
-title: Cabrera de Mar
+title: Cabrera de Mar,
 url: /cabrera-de-mar/
-latitude: 41.522
-longitude: 2.403
+latitude: 41.521
+longitude: 2.402
 ---
