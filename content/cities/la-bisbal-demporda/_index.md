@@ -1,6 +1,6 @@
 ---
-title: La Bisbal d'Empordà
+title: la Bisbal d'Empordà
 url: /la-bisbal-demporda/
-latitude: 41.958
-longitude: 3.037
+latitude: 41.967
+longitude: 3.031
 ---
