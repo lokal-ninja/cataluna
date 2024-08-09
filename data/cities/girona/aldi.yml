@@ -1,11 +1,11 @@
-id: 422484576
-type: way
-latitude: 41.98255
-longitude: 2.81019
-postcode: ""
+id: 3050723784
+type: node
+latitude: 41.96614
+longitude: 2.80753
+postcode: "17005"
 city: Girona
-street: "Avinguda de Josep Tarradellas"
-housenumber: 11-13
+street: "Plaça de Salt"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.aldi.es/"
+opening_hours: ""
+website: "https://www.aldi.es"
