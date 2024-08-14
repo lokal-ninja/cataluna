@@ -1,6 +1,6 @@
 ---
 title: Olot
 url: /olot/
-latitude: 42.173
-longitude: 2.482
+latitude: 42.177
+longitude: 2.491
 ---
