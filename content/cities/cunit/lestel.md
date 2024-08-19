@@ -1,5 +1,5 @@
 ---
 title: "L'Estel"
 url: /cunit/lestel/
-shop: libros
+shop: material de oficina
 ---
