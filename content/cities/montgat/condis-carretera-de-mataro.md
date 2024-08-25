@@ -1,5 +1,5 @@
 ---
 title: "Condis"
-url: /montgat/condis-rambla-del-turo/
+url: /montgat/condis-carretera-de-mataro/
 shop: supermercado
 ---
