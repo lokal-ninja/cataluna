@@ -1,5 +1,5 @@
 ---
 title: "Natàlia"
 url: /la-selva-del-camp/natalia/
-shop: peluquería
+shop: Friseur
 ---

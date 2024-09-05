@@ -1,5 +1,5 @@
 ---
 title: "Famaliving"
 url: /lleida/famaliving/
-shop: muebles
+shop: Möbel
 ---

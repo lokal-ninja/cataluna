@@ -1,5 +1,5 @@
 ---
 title: "Pastisseria Sant Isidori"
 url: /mollerussa/pastisseria-sant-isidori/
-shop: pastelería
+shop: Konditorei
 ---

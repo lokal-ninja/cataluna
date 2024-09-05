@@ -1,5 +1,5 @@
 ---
 title: "Eurocity"
 url: /barcelona/eurocity/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /lleida/consum-carrer-denric-pubill-lo-parrano/
-shop: supermercado
+shop: Supermarkt
 ---

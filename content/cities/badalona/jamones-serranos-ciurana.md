@@ -1,5 +1,5 @@
 ---
 title: "Jamones Serranos Ciurana"
 url: /badalona/jamones-serranos-ciurana/
-shop: carnicero
+shop: Metzgerei
 ---

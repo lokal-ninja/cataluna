@@ -1,5 +1,5 @@
 ---
 title: "Coaliment"
 url: /castelldefels/coaliment/
-shop: supermercado
+shop: Supermarkt
 ---

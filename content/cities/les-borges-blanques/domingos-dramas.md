@@ -1,5 +1,5 @@
 ---
 title: "Domingos Dramas"
 url: /les-borges-blanques/domingos-dramas/
-shop: peluquería
+shop: Friseur
 ---

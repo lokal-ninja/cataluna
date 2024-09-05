@@ -1,5 +1,5 @@
 ---
 title: "Punt Fresc"
 url: /ripollet/punt-fresc/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leon"
 url: /tarragona/leon/
-shop: frutería
+shop: Gemüse & Obst
 ---

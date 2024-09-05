@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /granollers/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La balear"
 url: /badalona/la-balear/
-shop: cosméticos
+shop: Kosmetik
 ---

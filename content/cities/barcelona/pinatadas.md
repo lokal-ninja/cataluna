@@ -1,5 +1,5 @@
 ---
 title: "Piñatadas"
 url: /barcelona/pinatadas/
-shop: juguetes
+shop: Spielzeug
 ---

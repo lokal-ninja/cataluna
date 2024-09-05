@@ -1,5 +1,5 @@
 ---
 title: "LaRoig"
 url: /reus/laroig/
-shop: zapatos
+shop: Schuhe
 ---

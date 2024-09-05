@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /la-roca-del-valles/columbia/
-shop: ropa
+shop: Kleidung
 ---

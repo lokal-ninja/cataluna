@@ -1,5 +1,5 @@
 ---
 title: "Forn Sant Esteve"
 url: /baga/forn-sant-esteve/
-shop: panadería
+shop: Bäckerei
 ---

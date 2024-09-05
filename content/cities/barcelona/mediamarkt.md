@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
 url: /barcelona/mediamarkt/
-shop: electrónica
+shop: Elektronik
 ---

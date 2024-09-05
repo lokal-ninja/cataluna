@@ -1,5 +1,5 @@
 ---
 title: "L'Oceller"
 url: /lleida/loceller/
-shop: floristería
+shop: Blumen
 ---

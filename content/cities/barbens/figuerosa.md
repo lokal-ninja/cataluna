@@ -1,5 +1,5 @@
 ---
 title: "Figuerosa"
 url: /barbens/figuerosa/
-shop: panadería
+shop: Bäckerei
 ---

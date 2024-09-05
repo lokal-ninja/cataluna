@@ -1,5 +1,5 @@
 ---
 title: "Jofré"
 url: /reus/jofre/
-shop: ropa
+shop: Kleidung
 ---

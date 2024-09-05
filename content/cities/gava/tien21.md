@@ -1,5 +1,5 @@
 ---
 title: "Tien21"
 url: /gava/tien21/
-shop: electrónica
+shop: Elektronik
 ---

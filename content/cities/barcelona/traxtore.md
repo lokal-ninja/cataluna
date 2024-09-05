@@ -1,5 +1,5 @@
 ---
 title: "Traxtore"
 url: /barcelona/traxtore/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gotta"
 url: /lleida/gotta-avinguda-de-lalcalde-porqueres/
-shop: perfumería
+shop: Parfümerie
 ---

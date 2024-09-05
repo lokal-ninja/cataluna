@@ -1,5 +1,5 @@
 ---
 title: "Electrónica Olmos"
 url: /cornella-de-llobregat/electronica-olmos/
-shop: hifi
+shop: Hifi
 ---

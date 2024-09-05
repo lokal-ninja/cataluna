@@ -1,5 +1,5 @@
 ---
 title: "Ramos"
 url: /badalona/ramos/
-shop: frutería
+shop: Gemüse & Obst
 ---

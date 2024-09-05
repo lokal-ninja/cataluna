@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /vic/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

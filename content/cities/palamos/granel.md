@@ -1,5 +1,5 @@
 ---
 title: "Granel"
 url: /palamos/granel/
-shop: comodidad
+shop: Lebensmittel
 ---

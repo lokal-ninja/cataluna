@@ -1,5 +1,5 @@
 ---
 title: "Rin"
 url: /badalona/rin/
-shop: panadería
+shop: Bäckerei
 ---

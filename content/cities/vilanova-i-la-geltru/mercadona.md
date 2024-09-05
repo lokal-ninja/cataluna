@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /vilanova-i-la-geltru/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Passaró"
 url: /lleida/passaro/
-shop: peluquería
+shop: Friseur
 ---

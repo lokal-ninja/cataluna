@@ -1,5 +1,5 @@
 ---
 title: "Garriga"
 url: /la-selva-del-camp/garriga/
-shop: hardware
+shop: Eisenwaren
 ---

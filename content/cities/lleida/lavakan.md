@@ -1,5 +1,5 @@
 ---
 title: "LavaKan"
 url: /lleida/lavakan/
-shop: peluquería canina
+shop: Tiersalon
 ---

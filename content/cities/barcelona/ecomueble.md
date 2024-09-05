@@ -1,5 +1,5 @@
 ---
 title: "Ecomueble"
 url: /barcelona/ecomueble/
-shop: muebles
+shop: Möbel
 ---

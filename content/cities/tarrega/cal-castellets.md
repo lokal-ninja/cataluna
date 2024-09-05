@@ -1,5 +1,5 @@
 ---
 title: "Cal Castellets"
 url: /tarrega/cal-castellets/
-shop: panadería
+shop: Bäckerei
 ---

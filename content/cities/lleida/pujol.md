@@ -1,5 +1,5 @@
 ---
 title: "Pujol"
 url: /lleida/pujol/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Triomf"
 url: /barcelona/triomf/
-shop: confitería
+shop: Süßwaren
 ---

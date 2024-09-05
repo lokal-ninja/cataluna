@@ -1,5 +1,5 @@
 ---
 title: "Lorena"
 url: /reus/lorena/
-shop: zapatos
+shop: Schuhe
 ---

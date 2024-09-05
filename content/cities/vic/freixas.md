@@ -1,5 +1,5 @@
 ---
 title: "Freixas"
 url: /vic/freixas/
-shop: peluquería
+shop: Friseur
 ---

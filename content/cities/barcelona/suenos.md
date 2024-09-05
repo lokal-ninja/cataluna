@@ -1,5 +1,5 @@
 ---
 title: "Sueños"
 url: /barcelona/suenos/
-shop: cama
+shop: Betten
 ---

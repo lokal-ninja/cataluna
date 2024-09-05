@@ -1,5 +1,5 @@
 ---
 title: "Pretty"
 url: /reus/pretty/
-shop: ropa
+shop: Kleidung
 ---

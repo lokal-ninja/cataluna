@@ -1,5 +1,5 @@
 ---
 title: "Model"
 url: /girona/model/
-shop: peluquería
+shop: Friseur
 ---

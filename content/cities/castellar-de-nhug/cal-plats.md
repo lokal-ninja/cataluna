@@ -1,5 +1,5 @@
 ---
 title: "Cal Plats"
 url: /castellar-de-nhug/cal-plats/
-shop: panadería
+shop: Bäckerei
 ---

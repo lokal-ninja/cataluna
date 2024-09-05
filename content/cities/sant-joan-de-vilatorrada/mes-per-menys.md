@@ -1,5 +1,5 @@
 ---
 title: "Més per Menys"
 url: /sant-joan-de-vilatorrada/mes-per-menys/
-shop: teléfono móvil
+shop: Handy
 ---

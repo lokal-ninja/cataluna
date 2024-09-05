@@ -1,5 +1,5 @@
 ---
 title: "Tintoreria"
 url: /lleida/tintoreria/
-shop: lavandería
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fetzig Estilistes"
 url: /vic/fetzig-estilistes/
-shop: peluquería
+shop: Friseur
 ---

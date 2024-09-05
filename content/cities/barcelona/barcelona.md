@@ -1,5 +1,5 @@
 ---
 title: "Barcelona"
 url: /barcelona/barcelona/
-shop: comodidad
+shop: Lebensmittel
 ---

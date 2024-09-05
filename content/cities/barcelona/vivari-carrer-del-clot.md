@@ -1,5 +1,5 @@
 ---
 title: "Vivari"
 url: /barcelona/vivari-carrer-del-clot/
-shop: panadería
+shop: Bäckerei
 ---

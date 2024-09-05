@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /reus/clarel/
-shop: farmacia
+shop: Drogerie
 ---

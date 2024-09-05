@@ -1,5 +1,5 @@
 ---
 title: "Peixateria La Mediterranea"
 url: /vallirana/peixateria-la-mediterranea/
-shop: marisco
+shop: Fisch
 ---

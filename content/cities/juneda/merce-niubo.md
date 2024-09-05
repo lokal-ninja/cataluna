@@ -1,5 +1,5 @@
 ---
 title: "Mercé Niubó"
 url: /juneda/merce-niubo/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beep"
 url: /reus/beep/
-shop: electrónica
+shop: Elektronik
 ---

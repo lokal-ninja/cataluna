@@ -1,5 +1,5 @@
 ---
 title: "Castañer"
 url: /barcelona/castaner/
-shop: zapatos
+shop: Schuhe
 ---

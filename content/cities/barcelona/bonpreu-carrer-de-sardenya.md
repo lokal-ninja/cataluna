@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /barcelona/bonpreu-carrer-de-sardenya/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conesa"
 url: /barcelona/conesa/
-shop: regalo
+shop: Andenken
 ---

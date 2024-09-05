@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /lleida/consum/
-shop: supermercado
+shop: Supermarkt
 ---

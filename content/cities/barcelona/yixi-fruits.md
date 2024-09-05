@@ -1,5 +1,5 @@
 ---
 title: "Yixi Fruits"
 url: /barcelona/yixi-fruits/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superstar"
 url: /lleida/superstar/
-shop: comodidad
+shop: Lebensmittel
 ---

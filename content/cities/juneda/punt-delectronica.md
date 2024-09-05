@@ -1,5 +1,5 @@
 ---
 title: "Punt d'Electrònica"
 url: /juneda/punt-delectronica/
-shop: electrónica
+shop: Elektronik
 ---

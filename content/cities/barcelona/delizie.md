@@ -1,5 +1,5 @@
 ---
 title: "Delizie"
 url: /barcelona/delizie/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Culinarium"
 url: /lleida/culinarium/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

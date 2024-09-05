@@ -1,5 +1,5 @@
 ---
 title: "Alonso"
 url: /barcelona/alonso/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabac"
 url: /bellvis/tabac/
-shop: tabaco
+shop: Tabak
 ---

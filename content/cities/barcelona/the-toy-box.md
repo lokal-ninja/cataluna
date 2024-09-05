@@ -1,5 +1,5 @@
 ---
 title: "The Toy Box"
 url: /barcelona/the-toy-box/
-shop: ropa
+shop: Kleidung
 ---

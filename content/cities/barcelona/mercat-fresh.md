@@ -1,5 +1,5 @@
 ---
 title: "Mercat Fresh"
 url: /barcelona/mercat-fresh/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Enrich"
 url: /barcelona/enrich/
-shop: panadería
+shop: Bäckerei
 ---

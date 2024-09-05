@@ -1,5 +1,5 @@
 ---
 title: "Mobles El Cisne"
 url: /barcelona/mobles-el-cisne/
-shop: muebles
+shop: Möbel
 ---

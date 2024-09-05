@@ -1,5 +1,5 @@
 ---
 title: "Santafé"
 url: /barcelona/santafe/
-shop: peluquería
+shop: Friseur
 ---

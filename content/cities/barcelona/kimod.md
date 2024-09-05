@@ -1,5 +1,5 @@
 ---
 title: "Kimod"
 url: /barcelona/kimod/
-shop: ropa
+shop: Kleidung
 ---

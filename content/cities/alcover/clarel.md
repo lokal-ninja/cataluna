@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /alcover/clarel/
-shop: farmacia
+shop: Drogerie
 ---

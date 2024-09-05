@@ -1,5 +1,5 @@
 ---
 title: "MacxiPa"
 url: /barcelona/macxipa-carrer-dels-alts-forns/
-shop: panadería
+shop: Bäckerei
 ---

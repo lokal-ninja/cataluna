@@ -1,5 +1,5 @@
 ---
 title: "Eukarya"
 url: /vic/eukarya/
-shop: chocolate
+shop: Schokolade
 ---

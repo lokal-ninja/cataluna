@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /tarragona/zeeman/
-shop: ropa
+shop: Kleidung
 ---

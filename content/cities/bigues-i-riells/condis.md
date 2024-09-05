@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /bigues-i-riells/condis/
-shop: supermercado
+shop: Supermarkt
 ---

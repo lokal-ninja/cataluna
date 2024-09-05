@@ -1,5 +1,5 @@
 ---
 title: "Avirex"
 url: /barcelona/avirex/
-shop: ropa
+shop: Kleidung
 ---

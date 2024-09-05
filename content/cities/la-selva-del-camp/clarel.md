@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /la-selva-del-camp/clarel/
-shop: farmacia
+shop: Drogerie
 ---

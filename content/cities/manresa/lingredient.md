@@ -1,5 +1,5 @@
 ---
 title: "L'ingredient"
 url: /manresa/lingredient/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarnAyaan"
 url: /barcelona/carnayaan/
-shop: carnicero
+shop: Metzgerei
 ---

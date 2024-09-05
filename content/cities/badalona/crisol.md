@@ -1,5 +1,5 @@
 ---
 title: "Crisol"
 url: /badalona/crisol/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kap’s"
 url: /reus/kaps/
-shop: peluquería
+shop: Friseur
 ---

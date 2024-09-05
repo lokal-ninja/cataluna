@@ -1,5 +1,5 @@
 ---
 title: "Toscano"
 url: /sant-feliu-de-llobregat/toscano/
-shop: frutería
+shop: Gemüse & Obst
 ---

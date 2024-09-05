@@ -1,5 +1,5 @@
 ---
 title: "Bienester"
 url: /reus/bienester/
-shop: masaje
+shop: Massage
 ---

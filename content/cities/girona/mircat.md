@@ -1,5 +1,5 @@
 ---
 title: "Mircat"
 url: /girona/mircat/
-shop: mascotas
+shop: Tiere
 ---

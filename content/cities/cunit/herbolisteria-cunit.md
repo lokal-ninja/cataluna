@@ -1,5 +1,5 @@
 ---
 title: "Herbolistería Cunit"
 url: /cunit/herbolisteria-cunit/
-shop: herbolario
+shop: Kräuter
 ---

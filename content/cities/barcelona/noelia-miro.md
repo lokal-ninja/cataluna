@@ -1,5 +1,5 @@
 ---
 title: "Noelia Miro"
 url: /barcelona/noelia-miro/
-shop: peluquería
+shop: Friseur
 ---

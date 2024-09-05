@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
 url: /lleida/mediamarkt/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Serendípia"
 url: /bossost/serendipia/
-shop: cosméticos
+shop: Kosmetik
 ---

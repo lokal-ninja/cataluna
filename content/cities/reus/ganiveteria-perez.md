@@ -1,5 +1,5 @@
 ---
 title: "Ganiveteria Perez"
 url: /reus/ganiveteria-perez/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

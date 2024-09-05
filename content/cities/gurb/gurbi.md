@@ -1,5 +1,5 @@
 ---
 title: "Gurbi"
 url: /gurb/gurbi/
-shop: panadería
+shop: Bäckerei
 ---

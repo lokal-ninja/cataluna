@@ -1,5 +1,5 @@
 ---
 title: "fesnet"
 url: /igualada/fesnet/
-shop: lavandería
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pepco"
 url: /girona/pepco/
-shop: ropa
+shop: Kleidung
 ---

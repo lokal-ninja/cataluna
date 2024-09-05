@@ -1,5 +1,5 @@
 ---
 title: "Openfresc"
 url: /lleida/openfresc/
-shop: supermercado
+shop: Supermarkt
 ---

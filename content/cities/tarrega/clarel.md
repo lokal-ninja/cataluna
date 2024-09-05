@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /tarrega/clarel/
-shop: farmacia
+shop: Drogerie
 ---

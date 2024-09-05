@@ -1,5 +1,5 @@
 ---
 title: "Lina"
 url: /barcelona/lina/
-shop: frutería
+shop: Gemüse & Obst
 ---

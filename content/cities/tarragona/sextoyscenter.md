@@ -1,5 +1,5 @@
 ---
 title: "SexToysCenter"
 url: /tarragona/sextoyscenter/
-shop: erótico
+shop: Erotik
 ---

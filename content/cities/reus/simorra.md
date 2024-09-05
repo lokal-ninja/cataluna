@@ -1,5 +1,5 @@
 ---
 title: "Simorra"
 url: /reus/simorra/
-shop: ropa
+shop: Kleidung
 ---

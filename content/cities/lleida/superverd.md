@@ -1,5 +1,5 @@
 ---
 title: "Superverd"
 url: /lleida/superverd/
-shop: frutería
+shop: Gemüse & Obst
 ---

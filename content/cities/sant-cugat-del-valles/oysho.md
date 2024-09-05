@@ -1,5 +1,5 @@
 ---
 title: "Oysho"
 url: /sant-cugat-del-valles/oysho/
-shop: ropa
+shop: Kleidung
 ---

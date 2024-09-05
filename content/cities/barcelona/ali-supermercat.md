@@ -1,5 +1,5 @@
 ---
 title: "Ali Súpermercat"
 url: /barcelona/ali-supermercat/
-shop: comodidad
+shop: Lebensmittel
 ---

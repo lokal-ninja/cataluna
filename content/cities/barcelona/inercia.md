@@ -1,5 +1,5 @@
 ---
 title: "Inercia"
 url: /barcelona/inercia/
-shop: deportes
+shop: Sport
 ---

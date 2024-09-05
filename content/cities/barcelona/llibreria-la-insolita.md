@@ -1,5 +1,5 @@
 ---
 title: "Llibreria La Insòlita"
 url: /barcelona/llibreria-la-insolita/
-shop: libros
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Can Martori"
 url: /amer/can-martori/
-shop: pastelería
+shop: Konditorei
 ---

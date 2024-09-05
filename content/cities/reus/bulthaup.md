@@ -1,5 +1,5 @@
 ---
 title: "bulthaup"
 url: /reus/bulthaup/
-shop: cocina
+shop: Küchen
 ---

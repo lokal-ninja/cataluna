@@ -1,5 +1,5 @@
 ---
 title: "Còsmik"
 url: /barcelona/cosmik/
-shop: electrónica
+shop: Elektronik
 ---

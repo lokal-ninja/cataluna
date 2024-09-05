@@ -1,5 +1,5 @@
 ---
 title: "Montserrat"
 url: /empuriabrava/montserrat/
-shop: supermercado
+shop: Supermarkt
 ---

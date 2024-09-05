@@ -1,5 +1,5 @@
 ---
 title: "BeerStore"
 url: /barcelona/beerstore/
-shop: alcohol
+shop: Spirituosen
 ---

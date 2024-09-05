@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /reus/spar-passeig-de-sunyer/
-shop: supermercado
+shop: Supermarkt
 ---

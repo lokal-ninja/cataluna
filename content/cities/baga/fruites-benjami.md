@@ -1,5 +1,5 @@
 ---
 title: "Fruites Benjamí"
 url: /baga/fruites-benjami/
-shop: comodidad
+shop: Lebensmittel
 ---

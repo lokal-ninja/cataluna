@@ -1,5 +1,5 @@
 ---
 title: "Tinuc"
 url: /cunit/tinuc/
-shop: ropa
+shop: Kleidung
 ---

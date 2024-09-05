@@ -1,5 +1,5 @@
 ---
 title: "Garola"
 url: /reus/garola/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Pastisset"
 url: /empuriabrava/el-pastisset/
-shop: panadería
+shop: Bäckerei
 ---

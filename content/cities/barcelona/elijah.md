@@ -1,5 +1,5 @@
 ---
 title: "Elijah"
 url: /barcelona/elijah/
-shop: peluquería
+shop: Friseur
 ---

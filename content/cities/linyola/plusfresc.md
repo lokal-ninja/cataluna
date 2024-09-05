@@ -1,5 +1,5 @@
 ---
 title: "Plusfresc"
 url: /linyola/plusfresc/
-shop: supermercado
+shop: Supermarkt
 ---

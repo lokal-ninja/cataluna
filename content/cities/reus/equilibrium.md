@@ -1,5 +1,5 @@
 ---
 title: "equilibrium"
 url: /reus/equilibrium/
-shop: cosméticos
+shop: Kosmetik
 ---

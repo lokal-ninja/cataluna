@@ -1,5 +1,5 @@
 ---
 title: "Salón Zakaria"
 url: /badalona/salon-zakaria/
-shop: peluquería
+shop: Friseur
 ---

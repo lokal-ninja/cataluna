@@ -1,5 +1,5 @@
 ---
 title: "La Sirena"
 url: /barcelona/la-sirena-carrer-de-carreras-i-candi/
-shop: alimentos congelados
+shop: Tiefkühl
 ---

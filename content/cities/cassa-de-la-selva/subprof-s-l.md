@@ -1,5 +1,5 @@
 ---
 title: "Subprof S.L."
 url: /cassa-de-la-selva/subprof-s-l/
-shop: pesca
+shop: Angeln
 ---

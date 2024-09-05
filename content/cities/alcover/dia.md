@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /alcover/dia/
-shop: supermercado
+shop: Supermarkt
 ---

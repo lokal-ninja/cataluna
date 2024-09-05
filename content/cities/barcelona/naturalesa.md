@@ -1,5 +1,5 @@
 ---
 title: "Naturalesa"
 url: /barcelona/naturalesa/
-shop: frutería
+shop: Gemüse & Obst
 ---

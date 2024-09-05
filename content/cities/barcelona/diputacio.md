@@ -1,5 +1,5 @@
 ---
 title: "Diputació"
 url: /barcelona/diputacio/
-shop: comodidad
+shop: Lebensmittel
 ---

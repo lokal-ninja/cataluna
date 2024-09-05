@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /girona/aldi/
-shop: supermercado
+shop: Supermarkt
 ---

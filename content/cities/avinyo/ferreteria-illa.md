@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Illa"
 url: /avinyo/ferreteria-illa/
-shop: hardware
+shop: Eisenwaren
 ---

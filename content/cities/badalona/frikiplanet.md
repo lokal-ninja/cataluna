@@ -1,5 +1,5 @@
 ---
 title: "Frikiplanet"
 url: /badalona/frikiplanet/
-shop: libros
+shop: Bücher
 ---

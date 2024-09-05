@@ -1,5 +1,5 @@
 ---
 title: "Sorli"
 url: /manlleu/sorli/
-shop: supermercado
+shop: Supermarkt
 ---

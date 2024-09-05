@@ -1,5 +1,5 @@
 ---
 title: "Vilardosa"
 url: /cervera/vilardosa/
-shop: panadería
+shop: Bäckerei
 ---

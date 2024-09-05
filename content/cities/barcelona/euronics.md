@@ -1,5 +1,5 @@
 ---
 title: "Euronics"
 url: /barcelona/euronics/
-shop: electrónica
+shop: Elektronik
 ---

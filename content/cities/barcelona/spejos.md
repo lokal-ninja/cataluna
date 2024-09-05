@@ -1,5 +1,5 @@
 ---
 title: "SPEJOS"
 url: /barcelona/spejos/
-shop: peluquería
+shop: Friseur
 ---

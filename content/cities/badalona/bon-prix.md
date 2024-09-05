@@ -1,5 +1,5 @@
 ---
 title: "Bon Prix"
 url: /badalona/bon-prix/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moira"
 url: /lleida/moira/
-shop: artesanía
+shop: Basteln
 ---

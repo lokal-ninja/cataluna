@@ -1,5 +1,5 @@
 ---
 title: "SEI"
 url: /el-masnou/sei/
-shop: ropa
+shop: Kleidung
 ---

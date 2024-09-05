@@ -1,5 +1,5 @@
 ---
 title: "Remolins"
 url: /la-selva-del-camp/remolins/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alcer"
 url: /barcelona/alcer/
-shop: hardware
+shop: Eisenwaren
 ---

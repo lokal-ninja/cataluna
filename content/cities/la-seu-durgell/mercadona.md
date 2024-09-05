@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /la-seu-durgell/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

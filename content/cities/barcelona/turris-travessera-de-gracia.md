@@ -1,5 +1,5 @@
 ---
 title: "turris"
 url: /barcelona/turris-travessera-de-gracia/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Floristeria Contxa Marquez"
 url: /barcelona/floristeria-contxa-marquez/
-shop: floristería
+shop: Blumen
 ---

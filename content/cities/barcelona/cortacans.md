@@ -1,5 +1,5 @@
 ---
 title: "Cortacans"
 url: /barcelona/cortacans/
-shop: comodidad
+shop: Lebensmittel
 ---

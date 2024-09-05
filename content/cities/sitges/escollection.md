@@ -1,5 +1,5 @@
 ---
 title: "ESCOLLECTION"
 url: /sitges/escollection/
-shop: ropa
+shop: Kleidung
 ---

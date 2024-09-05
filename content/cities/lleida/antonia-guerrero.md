@@ -1,5 +1,5 @@
 ---
 title: "Antonia Guerrero"
 url: /lleida/antonia-guerrero/
-shop: peluquería
+shop: Friseur
 ---

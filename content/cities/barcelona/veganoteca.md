@@ -1,5 +1,5 @@
 ---
 title: "Veganoteca"
 url: /barcelona/veganoteca/
-shop: comodidad
+shop: Lebensmittel
 ---

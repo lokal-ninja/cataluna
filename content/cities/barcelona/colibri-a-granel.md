@@ -1,5 +1,5 @@
 ---
 title: "Colibrí a granel"
 url: /barcelona/colibri-a-granel/
-shop: supermercado
+shop: Supermarkt
 ---

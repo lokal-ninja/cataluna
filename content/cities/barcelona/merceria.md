@@ -1,5 +1,5 @@
 ---
 title: "Mercería"
 url: /barcelona/merceria/
-shop: coser
+shop: Nähzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
 url: /barcelona/caprabo-carrer-de-corsega/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Balaguera"
 url: /bossost/balaguera/
-shop: cannabis
+shop: Hanf
 ---

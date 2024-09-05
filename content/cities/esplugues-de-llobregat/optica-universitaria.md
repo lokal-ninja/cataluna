@@ -1,5 +1,5 @@
 ---
 title: "Òptica Universitària"
 url: /esplugues-de-llobregat/optica-universitaria/
-shop: óptico
+shop: Optiker
 ---

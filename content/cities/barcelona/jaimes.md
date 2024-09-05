@@ -1,5 +1,5 @@
 ---
 title: "Jaimes"
 url: /barcelona/jaimes/
-shop: libros
+shop: Bücher
 ---

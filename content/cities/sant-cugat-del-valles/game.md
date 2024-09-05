@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /sant-cugat-del-valles/game/
-shop: videojuegos
+shop: Videospiele
 ---

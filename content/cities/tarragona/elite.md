@@ -1,5 +1,5 @@
 ---
 title: "Elite"
 url: /tarragona/elite/
-shop: peluquería
+shop: Friseur
 ---

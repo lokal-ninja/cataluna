@@ -1,5 +1,5 @@
 ---
 title: "Pere Tena"
 url: /mollerussa/pere-tena/
-shop: joyería
+shop: Schmuck
 ---

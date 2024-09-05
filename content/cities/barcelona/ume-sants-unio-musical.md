@@ -1,5 +1,5 @@
 ---
 title: "UME Sants - Unió Musical"
 url: /barcelona/ume-sants-unio-musical/
-shop: instrumento musical
+shop: Instrumente
 ---

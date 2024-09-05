@@ -1,5 +1,5 @@
 ---
 title: "La Llum"
 url: /manresa/la-llum/
-shop: tatuaje
+shop: Tattoo
 ---

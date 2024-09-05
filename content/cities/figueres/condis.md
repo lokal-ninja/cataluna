@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /figueres/condis/
-shop: supermercado
+shop: Supermarkt
 ---

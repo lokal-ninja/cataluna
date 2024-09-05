@@ -1,5 +1,5 @@
 ---
 title: "Tramas"
 url: /lleida/tramas/
-shop: ropa
+shop: Kleidung
 ---

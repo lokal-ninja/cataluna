@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /blanes/aldi/
-shop: supermercado
+shop: Supermarkt
 ---

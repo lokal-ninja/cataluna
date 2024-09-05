@@ -1,5 +1,5 @@
 ---
 title: "La tienda scum"
 url: /barcelona/la-tienda-scum/
-shop: juegos
+shop: Spiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /blanes/decathlon/
-shop: deportes
+shop: Sport
 ---

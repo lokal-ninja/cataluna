@@ -1,5 +1,5 @@
 ---
 title: "Aqua"
 url: /reus/aqua/
-shop: peluquería
+shop: Friseur
 ---

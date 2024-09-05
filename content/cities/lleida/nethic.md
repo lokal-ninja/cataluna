@@ -1,5 +1,5 @@
 ---
 title: "Nethic"
 url: /lleida/nethic/
-shop: lavandería
+shop: Wäscherei
 ---

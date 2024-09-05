@@ -1,5 +1,5 @@
 ---
 title: "Macxipa"
 url: /badalona/macxipa/
-shop: panadería
+shop: Bäckerei
 ---

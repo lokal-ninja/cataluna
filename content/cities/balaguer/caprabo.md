@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
 url: /balaguer/caprabo/
-shop: supermercado
+shop: Supermarkt
 ---

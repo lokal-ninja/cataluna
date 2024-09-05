@@ -1,5 +1,5 @@
 ---
 title: "BonÀrea"
 url: /balaguer/bonarea/
-shop: supermercado
+shop: Supermarkt
 ---

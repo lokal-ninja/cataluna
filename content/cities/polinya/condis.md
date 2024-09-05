@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /polinya/condis/
-shop: supermercado
+shop: Supermarkt
 ---

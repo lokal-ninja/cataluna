@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /cambrils/mercadona-carrer-de-francesc-perez-dolz/
-shop: supermercado
+shop: Supermarkt
 ---

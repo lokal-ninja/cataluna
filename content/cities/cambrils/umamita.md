@@ -1,5 +1,5 @@
 ---
 title: "Umamita"
 url: /cambrils/umamita/
-shop: pastelería
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KTM"
 url: /tarragona/ktm/
-shop: motocicleta
+shop: Motorrad
 ---

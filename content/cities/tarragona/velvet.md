@@ -1,5 +1,5 @@
 ---
 title: "velvet"
 url: /tarragona/velvet/
-shop: pastelería
+shop: Konditorei
 ---

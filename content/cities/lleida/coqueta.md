@@ -1,5 +1,5 @@
 ---
 title: "Coqueta"
 url: /lleida/coqueta/
-shop: tienda
+shop: Modehaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Juguetecnic"
 url: /barcelona/juguetecnic/
-shop: modelo
+shop: Modellbau
 ---

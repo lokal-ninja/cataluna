@@ -1,5 +1,5 @@
 ---
 title: "Era Mola III"
 url: /bossost/era-mola-iii/
-shop: general
+shop: Allgemein
 ---

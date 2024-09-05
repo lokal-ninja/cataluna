@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lescala/aldi/
-shop: supermercado
+shop: Supermarkt
 ---

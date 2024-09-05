@@ -1,5 +1,5 @@
 ---
 title: "BMVIC"
 url: /vic/bmvic/
-shop: coche
+shop: Autohaus
 ---

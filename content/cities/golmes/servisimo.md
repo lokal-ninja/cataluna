@@ -1,5 +1,5 @@
 ---
 title: "Servisimó"
 url: /golmes/servisimo/
-shop: coche
+shop: Autohaus
 ---

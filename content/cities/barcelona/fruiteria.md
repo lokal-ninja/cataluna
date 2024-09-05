@@ -1,5 +1,5 @@
 ---
 title: "Fruiteria"
 url: /barcelona/fruiteria/
-shop: frutería
+shop: Gemüse & Obst
 ---

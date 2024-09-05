@@ -1,5 +1,5 @@
 ---
 title: "Xiroi"
 url: /manresa/xiroi/
-shop: tienda
+shop: Modehaus
 ---

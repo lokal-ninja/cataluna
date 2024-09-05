@@ -1,5 +1,5 @@
 ---
 title: "Awami"
 url: /badalona/awami/
-shop: frutería
+shop: Gemüse & Obst
 ---

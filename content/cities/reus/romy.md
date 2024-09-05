@@ -1,5 +1,5 @@
 ---
 title: "Romy"
 url: /reus/romy/
-shop: floristería
+shop: Blumen
 ---

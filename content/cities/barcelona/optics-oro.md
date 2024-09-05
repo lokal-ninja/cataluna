@@ -1,5 +1,5 @@
 ---
 title: "Optics Oró"
 url: /barcelona/optics-oro/
-shop: óptico
+shop: Optiker
 ---

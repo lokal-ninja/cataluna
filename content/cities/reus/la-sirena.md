@@ -1,5 +1,5 @@
 ---
 title: "La Sirena"
 url: /reus/la-sirena/
-shop: alimentos congelados
+shop: Tiefkühl
 ---

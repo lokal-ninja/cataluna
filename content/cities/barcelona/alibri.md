@@ -1,5 +1,5 @@
 ---
 title: "Alibri"
 url: /barcelona/alibri/
-shop: libros
+shop: Bücher
 ---

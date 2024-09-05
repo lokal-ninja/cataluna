@@ -1,5 +1,5 @@
 ---
 title: "Raisa"
 url: /amposta/raisa/
-shop: supermercado
+shop: Supermarkt
 ---

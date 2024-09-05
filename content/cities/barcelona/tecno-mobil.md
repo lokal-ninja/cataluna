@@ -1,5 +1,5 @@
 ---
 title: "Tecno Mòbil"
 url: /barcelona/tecno-mobil/
-shop: electrónica
+shop: Elektronik
 ---

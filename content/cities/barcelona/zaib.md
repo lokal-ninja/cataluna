@@ -1,5 +1,5 @@
 ---
 title: "Zaib"
 url: /barcelona/zaib/
-shop: peluquería
+shop: Friseur
 ---

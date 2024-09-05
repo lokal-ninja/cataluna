@@ -1,5 +1,5 @@
 ---
 title: "Quemposo"
 url: /calaf/quemposo/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /amposta/spar/
-shop: supermercado
+shop: Supermarkt
 ---

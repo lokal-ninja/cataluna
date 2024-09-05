@@ -1,5 +1,5 @@
 ---
 title: "Batabat"
 url: /reus/batabat/
-shop: regalo
+shop: Andenken
 ---

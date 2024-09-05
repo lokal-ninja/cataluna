@@ -1,5 +1,5 @@
 ---
 title: "Fondevila Artesants"
 url: /barcelona/fondevila-artesants/
-shop: carnicero
+shop: Metzgerei
 ---

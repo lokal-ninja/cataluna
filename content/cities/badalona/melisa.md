@@ -1,5 +1,5 @@
 ---
 title: "Melisa"
 url: /badalona/melisa/
-shop: peluquería
+shop: Friseur
 ---

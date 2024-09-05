@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /barcelona/fnac/
-shop: libros
+shop: Bücher
 ---

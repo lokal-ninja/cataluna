@@ -1,5 +1,5 @@
 ---
 title: "Textura"
 url: /reus/textura/
-shop: general
+shop: Allgemein
 ---

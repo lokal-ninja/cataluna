@@ -1,5 +1,5 @@
 ---
 title: "Amelia Patchwork"
 url: /cabrils/amelia-patchwork/
-shop: tela
+shop: Textil
 ---

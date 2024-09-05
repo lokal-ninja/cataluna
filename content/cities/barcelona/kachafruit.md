@@ -1,5 +1,5 @@
 ---
 title: "Kachafruit"
 url: /barcelona/kachafruit/
-shop: supermercado
+shop: Supermarkt
 ---

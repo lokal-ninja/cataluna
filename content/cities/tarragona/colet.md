@@ -1,5 +1,5 @@
 ---
 title: "Colet"
 url: /tarragona/colet/
-shop: carnicero
+shop: Metzgerei
 ---

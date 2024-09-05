@@ -1,5 +1,5 @@
 ---
 title: "Primaprix"
 url: /vic/primaprix/
-shop: supermercado
+shop: Supermarkt
 ---

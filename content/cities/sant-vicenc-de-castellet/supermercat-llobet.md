@@ -1,5 +1,5 @@
 ---
 title: "Supermercat Llobet"
 url: /sant-vicenc-de-castellet/supermercat-llobet/
-shop: supermercado
+shop: Supermarkt
 ---

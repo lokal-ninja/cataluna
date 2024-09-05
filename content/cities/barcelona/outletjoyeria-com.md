@@ -1,5 +1,5 @@
 ---
 title: "outletjoyeria.com"
 url: /barcelona/outletjoyeria-com/
-shop: joyería
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /barcelona/consum/
-shop: supermercado
+shop: Supermarkt
 ---

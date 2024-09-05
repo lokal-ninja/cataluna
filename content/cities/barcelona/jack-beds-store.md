@@ -1,5 +1,5 @@
 ---
 title: "Jack Beds Store"
 url: /barcelona/jack-beds-store/
-shop: cama
+shop: Betten
 ---

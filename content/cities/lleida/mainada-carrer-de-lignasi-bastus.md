@@ -1,5 +1,5 @@
 ---
 title: "Mainada"
 url: /lleida/mainada-carrer-de-lignasi-bastus/
-shop: ropa
+shop: Kleidung
 ---

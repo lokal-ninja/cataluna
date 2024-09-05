@@ -1,5 +1,5 @@
 ---
 title: "Guiu"
 url: /mollerussa/guiu/
-shop: panadería
+shop: Bäckerei
 ---

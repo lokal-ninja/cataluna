@@ -1,5 +1,5 @@
 ---
 title: "Fred Vilafranca"
 url: /vilafranca-del-penedes/fred-vilafranca/
-shop: aparato
+shop: Haushaltsgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abacus"
 url: /lleida/abacus/
-shop: libros
+shop: Bücher
 ---

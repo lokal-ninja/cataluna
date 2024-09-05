@@ -1,5 +1,5 @@
 ---
 title: "DormiTECH"
 url: /barcelona/dormitech/
-shop: cama
+shop: Betten
 ---

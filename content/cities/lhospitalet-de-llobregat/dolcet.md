@@ -1,5 +1,5 @@
 ---
 title: "Dolcet"
 url: /lhospitalet-de-llobregat/dolcet/
-shop: óptico
+shop: Optiker
 ---

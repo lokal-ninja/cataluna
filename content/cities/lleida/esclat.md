@@ -1,5 +1,5 @@
 ---
 title: "Esclat"
 url: /lleida/esclat/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mundibike"
 url: /navarcles/mundibike/
-shop: bicicleta
+shop: Fahrrad
 ---

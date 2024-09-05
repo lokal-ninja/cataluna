@@ -1,5 +1,5 @@
 ---
 title: "Pastisseria Santa Gemma (TANCAT/CLOSED)"
 url: /barcelona/pastisseria-santa-gemma-tancat-closed/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
 url: /sant-cugat-del-valles/mediamarkt/
-shop: electrónica
+shop: Elektronik
 ---

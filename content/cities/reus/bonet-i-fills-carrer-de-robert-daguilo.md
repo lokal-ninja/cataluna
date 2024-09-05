@@ -1,5 +1,5 @@
 ---
 title: "Bonet i fills"
 url: /reus/bonet-i-fills-carrer-de-robert-daguilo/
-shop: carnicero
+shop: Metzgerei
 ---

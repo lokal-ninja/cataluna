@@ -1,5 +1,5 @@
 ---
 title: "Textura"
 url: /lleida/textura/
-shop: ropa
+shop: Kleidung
 ---

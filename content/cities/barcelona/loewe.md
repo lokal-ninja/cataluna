@@ -1,5 +1,5 @@
 ---
 title: "Loewe"
 url: /barcelona/loewe/
-shop: ropa
+shop: Kleidung
 ---

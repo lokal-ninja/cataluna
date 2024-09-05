@@ -1,5 +1,5 @@
 ---
 title: "El Jardín"
 url: /reus/el-jardin/
-shop: comercio
+shop: Baustoffe
 ---

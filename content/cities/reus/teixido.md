@@ -1,5 +1,5 @@
 ---
 title: "Teixidó"
 url: /reus/teixido/
-shop: ropa
+shop: Kleidung
 ---

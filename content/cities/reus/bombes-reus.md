@@ -1,5 +1,5 @@
 ---
 title: "Bombes Reus"
 url: /reus/bombes-reus/
-shop: hardware
+shop: Eisenwaren
 ---

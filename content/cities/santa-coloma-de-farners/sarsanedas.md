@@ -1,5 +1,5 @@
 ---
 title: "Sarsanedas"
 url: /santa-coloma-de-farners/sarsanedas/
-shop: cama
+shop: Betten
 ---

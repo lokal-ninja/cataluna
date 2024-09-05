@@ -1,5 +1,5 @@
 ---
 title: "Bonfill"
 url: /tarragona/bonfill/
-shop: peluquería
+shop: Friseur
 ---

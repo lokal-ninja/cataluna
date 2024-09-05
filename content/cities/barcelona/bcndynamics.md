@@ -1,5 +1,5 @@
 ---
 title: "BCNdynamics"
 url: /barcelona/bcndynamics/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Badellibres"
 url: /cardedeu/badellibres/
-shop: libros
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pessics"
 url: /artes/pessics/
-shop: pastelería
+shop: Konditorei
 ---

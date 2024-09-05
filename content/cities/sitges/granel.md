@@ -1,5 +1,5 @@
 ---
 title: "Granel"
 url: /sitges/granel/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Internet Blau.net"
 url: /lestartit/internet-blau-net/
-shop: ordenador
+shop: Computer
 ---

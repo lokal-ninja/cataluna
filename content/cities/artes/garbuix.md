@@ -1,5 +1,5 @@
 ---
 title: "Garbuix"
 url: /artes/garbuix/
-shop: panadería
+shop: Bäckerei
 ---

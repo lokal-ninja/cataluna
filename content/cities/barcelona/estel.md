@@ -1,5 +1,5 @@
 ---
 title: "Estel"
 url: /barcelona/estel/
-shop: regalo
+shop: Andenken
 ---

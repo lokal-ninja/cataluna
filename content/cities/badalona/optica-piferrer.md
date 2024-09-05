@@ -1,5 +1,5 @@
 ---
 title: "Optica Piferrer"
 url: /badalona/optica-piferrer/
-shop: óptico
+shop: Optiker
 ---

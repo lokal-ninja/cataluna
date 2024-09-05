@@ -1,5 +1,5 @@
 ---
 title: "Benavent"
 url: /granollers/benavent/
-shop: aparato
+shop: Haushaltsgeräte
 ---

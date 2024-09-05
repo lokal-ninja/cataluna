@@ -1,5 +1,5 @@
 ---
 title: "Superestalvi"
 url: /barcelona/superestalvi/
-shop: supermercado
+shop: Supermarkt
 ---

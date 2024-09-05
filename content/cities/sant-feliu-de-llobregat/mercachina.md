@@ -1,5 +1,5 @@
 ---
 title: "MercaChina"
 url: /sant-feliu-de-llobregat/mercachina/
-shop: regalo
+shop: Andenken
 ---

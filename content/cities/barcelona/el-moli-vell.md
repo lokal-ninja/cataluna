@@ -1,5 +1,5 @@
 ---
 title: "El Molí Vell"
 url: /barcelona/el-moli-vell/
-shop: panadería
+shop: Bäckerei
 ---

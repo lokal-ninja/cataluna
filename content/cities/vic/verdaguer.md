@@ -1,5 +1,5 @@
 ---
 title: "Verdaguer"
 url: /vic/verdaguer/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reverter"
 url: /girona/reverter/
-shop: pastelería
+shop: Konditorei
 ---

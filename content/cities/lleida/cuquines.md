@@ -1,5 +1,5 @@
 ---
 title: "Cuquines"
 url: /lleida/cuquines/
-shop: ropa
+shop: Kleidung
 ---

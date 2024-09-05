@@ -1,5 +1,5 @@
 ---
 title: "Fauna Tropical"
 url: /les-borges-blanques/fauna-tropical/
-shop: mascotas
+shop: Tiere
 ---

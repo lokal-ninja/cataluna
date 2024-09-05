@@ -1,5 +1,5 @@
 ---
 title: "Presno"
 url: /barcelona/presno/
-shop: ropa
+shop: Kleidung
 ---

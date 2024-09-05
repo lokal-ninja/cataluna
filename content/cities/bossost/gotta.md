@@ -1,5 +1,5 @@
 ---
 title: "Gotta"
 url: /bossost/gotta/
-shop: perfumería
+shop: Parfümerie
 ---

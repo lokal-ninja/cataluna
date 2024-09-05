@@ -1,5 +1,5 @@
 ---
 title: "Omega"
 url: /reus/omega/
-shop: comercio
+shop: Baustoffe
 ---

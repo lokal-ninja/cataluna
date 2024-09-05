@@ -1,5 +1,5 @@
 ---
 title: "Turisport"
 url: /amposta/turisport/
-shop: bicicleta
+shop: Fahrrad
 ---

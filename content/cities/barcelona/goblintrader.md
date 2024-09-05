@@ -1,5 +1,5 @@
 ---
 title: "GoblinTrader"
 url: /barcelona/goblintrader/
-shop: juguetes
+shop: Spielzeug
 ---

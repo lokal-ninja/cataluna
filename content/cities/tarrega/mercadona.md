@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /tarrega/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

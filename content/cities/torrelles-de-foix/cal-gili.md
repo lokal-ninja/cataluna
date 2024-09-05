@@ -1,5 +1,5 @@
 ---
 title: "Cal Gili"
 url: /torrelles-de-foix/cal-gili/
-shop: farmacia
+shop: Drogerie
 ---

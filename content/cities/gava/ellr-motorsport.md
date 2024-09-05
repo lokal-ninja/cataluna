@@ -1,5 +1,5 @@
 ---
 title: "ELLR motorsport"
 url: /gava/ellr-motorsport/
-shop: general
+shop: Allgemein
 ---

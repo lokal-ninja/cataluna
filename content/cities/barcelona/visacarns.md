@@ -1,5 +1,5 @@
 ---
 title: "Visacarns"
 url: /barcelona/visacarns/
-shop: carnicero
+shop: Metzgerei
 ---

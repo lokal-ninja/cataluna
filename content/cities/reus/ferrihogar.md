@@ -1,5 +1,5 @@
 ---
 title: "Ferrihogar"
 url: /reus/ferrihogar/
-shop: hardware
+shop: Eisenwaren
 ---

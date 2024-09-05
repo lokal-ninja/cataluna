@@ -1,5 +1,5 @@
 ---
 title: "Corona"
 url: /tremp/corona/
-shop: hardware
+shop: Eisenwaren
 ---

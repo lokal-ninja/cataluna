@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /el-masnou/condis/
-shop: supermercado
+shop: Supermarkt
 ---

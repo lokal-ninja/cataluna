@@ -1,5 +1,5 @@
 ---
 title: "Fina Perruquers"
 url: /lestartit/fina-perruquers/
-shop: peluquería
+shop: Friseur
 ---

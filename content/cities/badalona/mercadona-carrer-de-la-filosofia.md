@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /badalona/mercadona-carrer-de-la-filosofia/
-shop: supermercado
+shop: Supermarkt
 ---

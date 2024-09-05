@@ -1,5 +1,5 @@
 ---
 title: "EDOS"
 url: /badalona/edos/
-shop: muebles
+shop: Möbel
 ---

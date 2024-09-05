@@ -1,5 +1,5 @@
 ---
 title: "Lluel"
 url: /castelltercol/lluel/
-shop: carnicero
+shop: Metzgerei
 ---

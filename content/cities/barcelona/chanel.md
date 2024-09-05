@@ -1,5 +1,5 @@
 ---
 title: "Chanel"
 url: /barcelona/chanel/
-shop: ropa
+shop: Kleidung
 ---

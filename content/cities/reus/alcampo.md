@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /reus/alcampo/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casas Outlet"
 url: /barcelona/casas-outlet/
-shop: zapatos
+shop: Schuhe
 ---

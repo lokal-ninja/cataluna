@@ -1,5 +1,5 @@
 ---
 title: "La Llama Store"
 url: /barcelona/la-llama-store/
-shop: libros
+shop: Bücher
 ---

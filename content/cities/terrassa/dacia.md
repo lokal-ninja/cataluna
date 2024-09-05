@@ -1,5 +1,5 @@
 ---
 title: "Dacia"
 url: /terrassa/dacia/
-shop: coche
+shop: Autohaus
 ---

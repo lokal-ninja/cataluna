@@ -1,5 +1,5 @@
 ---
 title: "Stigma"
 url: /barcelona/stigma/
-shop: peluquería
+shop: Friseur
 ---

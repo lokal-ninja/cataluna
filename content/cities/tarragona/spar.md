@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tarragona/spar/
-shop: comodidad
+shop: Lebensmittel
 ---

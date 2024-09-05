@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /barcelona/dia-carrer-del-llobregos/
-shop: supermercado
+shop: Supermarkt
 ---

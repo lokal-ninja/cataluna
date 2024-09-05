@@ -1,5 +1,5 @@
 ---
 title: "elements"
 url: /reus/elements/
-shop: cocina
+shop: Küchen
 ---

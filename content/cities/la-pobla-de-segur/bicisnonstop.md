@@ -1,5 +1,5 @@
 ---
 title: "Bicisnonstop"
 url: /la-pobla-de-segur/bicisnonstop/
-shop: bicicleta
+shop: Fahrrad
 ---

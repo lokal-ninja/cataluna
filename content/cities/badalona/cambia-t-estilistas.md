@@ -1,5 +1,5 @@
 ---
 title: "Cambia-T Estilistas"
 url: /badalona/cambia-t-estilistas/
-shop: peluquería
+shop: Friseur
 ---

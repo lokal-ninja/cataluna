@@ -1,5 +1,5 @@
 ---
 title: "Arnall"
 url: /palamos/arnall/
-shop: carnicero
+shop: Metzgerei
 ---

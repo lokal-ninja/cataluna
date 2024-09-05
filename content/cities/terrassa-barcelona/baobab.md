@@ -1,5 +1,5 @@
 ---
 title: "Baobab"
 url: /terrassa-barcelona/baobab/
-shop: general
+shop: Allgemein
 ---

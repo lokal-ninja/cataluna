@@ -1,5 +1,5 @@
 ---
 title: "Pelopelu"
 url: /barcelona/pelopelu/
-shop: peluquería
+shop: Friseur
 ---

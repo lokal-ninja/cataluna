@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /centelles/bonpreu/
-shop: supermercado
+shop: Supermarkt
 ---

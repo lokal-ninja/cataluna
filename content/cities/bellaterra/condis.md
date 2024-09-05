@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /bellaterra/condis/
-shop: supermercado
+shop: Supermarkt
 ---

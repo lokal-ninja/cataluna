@@ -1,5 +1,5 @@
 ---
 title: "Cal Sendra"
 url: /reus/cal-sendra-carrer-de-lhospital/
-shop: charcutería
+shop: Feinkost
 ---

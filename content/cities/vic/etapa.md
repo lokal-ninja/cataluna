@@ -1,5 +1,5 @@
 ---
 title: "Etapa"
 url: /vic/etapa/
-shop: bicicleta
+shop: Fahrrad
 ---

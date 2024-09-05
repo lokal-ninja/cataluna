@@ -1,5 +1,5 @@
 ---
 title: "OKI"
 url: /lleida/oki/
-shop: ropa
+shop: Kleidung
 ---

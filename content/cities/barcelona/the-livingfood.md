@@ -1,5 +1,5 @@
 ---
 title: "The Livingfood"
 url: /barcelona/the-livingfood/
-shop: supermercado
+shop: Supermarkt
 ---

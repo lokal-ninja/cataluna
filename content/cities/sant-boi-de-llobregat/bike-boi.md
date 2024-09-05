@@ -1,5 +1,5 @@
 ---
 title: "Bike Boi"
 url: /sant-boi-de-llobregat/bike-boi/
-shop: bicicleta
+shop: Fahrrad
 ---

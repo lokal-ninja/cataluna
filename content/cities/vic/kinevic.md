@@ -1,5 +1,5 @@
 ---
 title: "Kinevic"
 url: /vic/kinevic/
-shop: general
+shop: Allgemein
 ---

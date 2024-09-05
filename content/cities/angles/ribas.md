@@ -1,5 +1,5 @@
 ---
 title: "Ribas"
 url: /angles/ribas/
-shop: bicicleta
+shop: Fahrrad
 ---

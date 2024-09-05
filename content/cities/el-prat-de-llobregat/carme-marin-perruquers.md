@@ -1,5 +1,5 @@
 ---
 title: "Carme Marín Perruquers"
 url: /el-prat-de-llobregat/carme-marin-perruquers/
-shop: peluquería
+shop: Friseur
 ---

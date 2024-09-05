@@ -1,5 +1,5 @@
 ---
 title: "Bon Area"
 url: /sant-guim-de-freixenet/bon-area/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Afflelou"
 url: /lleida/afflelou/
-shop: óptico
+shop: Optiker
 ---

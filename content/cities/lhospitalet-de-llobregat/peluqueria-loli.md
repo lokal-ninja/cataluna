@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Loli"
 url: /lhospitalet-de-llobregat/peluqueria-loli/
-shop: peluquería
+shop: Friseur
 ---

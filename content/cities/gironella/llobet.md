@@ -1,5 +1,5 @@
 ---
 title: "Llobet"
 url: /gironella/llobet/
-shop: supermercado
+shop: Supermarkt
 ---

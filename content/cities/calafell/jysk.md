@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /calafell/jysk/
-shop: muebles
+shop: Möbel
 ---

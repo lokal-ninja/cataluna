@@ -1,5 +1,5 @@
 ---
 title: "Fleca-Pastisseria Juneda"
 url: /lleida/fleca-pastisseria-juneda/
-shop: panadería
+shop: Bäckerei
 ---

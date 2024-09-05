@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
 url: /badalona/caprabo/
-shop: supermercado
+shop: Supermarkt
 ---

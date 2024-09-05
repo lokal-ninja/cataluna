@@ -1,5 +1,5 @@
 ---
 title: "THES"
 url: /lleida/thes/
-shop: peluquería
+shop: Friseur
 ---

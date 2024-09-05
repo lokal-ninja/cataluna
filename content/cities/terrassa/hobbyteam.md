@@ -1,5 +1,5 @@
 ---
 title: "Hobbyteam."
 url: /terrassa/hobbyteam/
-shop: modelo
+shop: Modellbau
 ---

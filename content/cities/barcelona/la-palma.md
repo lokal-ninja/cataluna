@@ -1,5 +1,5 @@
 ---
 title: "La Palma"
 url: /barcelona/la-palma/
-shop: pastelería
+shop: Konditorei
 ---

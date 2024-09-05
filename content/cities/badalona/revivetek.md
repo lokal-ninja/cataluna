@@ -1,5 +1,5 @@
 ---
 title: "Revivetek"
 url: /badalona/revivetek/
-shop: teléfono móvil
+shop: Handy
 ---

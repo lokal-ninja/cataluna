@@ -1,5 +1,5 @@
 ---
 title: "Timberes Tabak"
 url: /barcelona/timberes-tabak/
-shop: tabaco
+shop: Tabak
 ---

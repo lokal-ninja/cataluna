@@ -1,5 +1,5 @@
 ---
 title: "Queviures soler"
 url: /sant-quinti-de-mediona/queviures-soler/
-shop: comodidad
+shop: Lebensmittel
 ---

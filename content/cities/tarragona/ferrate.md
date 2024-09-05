@@ -1,5 +1,5 @@
 ---
 title: "Ferraté"
 url: /tarragona/ferrate/
-shop: electrónica
+shop: Elektronik
 ---

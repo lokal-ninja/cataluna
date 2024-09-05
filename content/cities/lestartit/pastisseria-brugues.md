@@ -1,5 +1,5 @@
 ---
 title: "Pastisseria Brugués"
 url: /lestartit/pastisseria-brugues/
-shop: panadería
+shop: Bäckerei
 ---

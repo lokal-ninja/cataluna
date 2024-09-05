@@ -1,5 +1,5 @@
 ---
 title: "Cal Fruits"
 url: /reus/cal-fruits/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /salt/kiabi/
-shop: ropa
+shop: Kleidung
 ---

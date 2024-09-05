@@ -1,5 +1,5 @@
 ---
 title: "Metroshop"
 url: /lleida/metroshop/
-shop: ropa
+shop: Kleidung
 ---

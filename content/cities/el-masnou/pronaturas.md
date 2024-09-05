@@ -1,5 +1,5 @@
 ---
 title: "Pronaturas"
 url: /el-masnou/pronaturas/
-shop: herbolario
+shop: Kräuter
 ---

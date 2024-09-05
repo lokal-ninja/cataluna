@@ -1,5 +1,5 @@
 ---
 title: "Customizate"
 url: /badalona/customizate/
-shop: sastre
+shop: Schneiderei
 ---

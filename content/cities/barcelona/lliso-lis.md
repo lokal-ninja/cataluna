@@ -1,5 +1,5 @@
 ---
 title: "Lliso Lis"
 url: /barcelona/lliso-lis/
-shop: panadería
+shop: Bäckerei
 ---

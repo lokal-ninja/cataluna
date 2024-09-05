@@ -1,5 +1,5 @@
 ---
 title: "Fotografies Marta"
 url: /el-masnou/fotografies-marta/
-shop: foto
+shop: Foto
 ---

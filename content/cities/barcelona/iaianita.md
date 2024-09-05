@@ -1,5 +1,5 @@
 ---
 title: "Iaia'Nita"
 url: /barcelona/iaianita/
-shop: panadería
+shop: Bäckerei
 ---

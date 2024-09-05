@@ -1,5 +1,5 @@
 ---
 title: "Isabel home"
 url: /santa-coloma-de-gramenet/isabel-home/
-shop: ropa
+shop: Kleidung
 ---

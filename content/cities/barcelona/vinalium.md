@@ -1,5 +1,5 @@
 ---
 title: "Vinalium"
 url: /barcelona/vinalium/
-shop: alcohol
+shop: Spirituosen
 ---

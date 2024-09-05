@@ -1,5 +1,5 @@
 ---
 title: "Enzo"
 url: /reus/enzo/
-shop: peluquería
+shop: Friseur
 ---

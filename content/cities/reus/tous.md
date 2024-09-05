@@ -1,5 +1,5 @@
 ---
 title: "Tous"
 url: /reus/tous/
-shop: joyería
+shop: Schmuck
 ---

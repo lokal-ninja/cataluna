@@ -1,5 +1,5 @@
 ---
 title: "Electrostocks"
 url: /reus/electrostocks/
-shop: comercio
+shop: Baustoffe
 ---

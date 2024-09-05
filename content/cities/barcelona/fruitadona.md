@@ -1,5 +1,5 @@
 ---
 title: "Fruitadona"
 url: /barcelona/fruitadona/
-shop: frutería
+shop: Gemüse & Obst
 ---

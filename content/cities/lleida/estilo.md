@@ -1,5 +1,5 @@
 ---
 title: "Estilo"
 url: /lleida/estilo/
-shop: ropa
+shop: Kleidung
 ---

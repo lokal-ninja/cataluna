@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /lleida/movistar/
-shop: teléfono móvil
+shop: Handy
 ---

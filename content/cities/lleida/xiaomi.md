@@ -1,5 +1,5 @@
 ---
 title: "Xiaomi"
 url: /lleida/xiaomi/
-shop: teléfono móvil
+shop: Handy
 ---

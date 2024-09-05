@@ -1,5 +1,5 @@
 ---
 title: "Mobles Claverol"
 url: /balaguer/mobles-claverol/
-shop: muebles
+shop: Möbel
 ---

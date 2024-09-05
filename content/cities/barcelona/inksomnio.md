@@ -1,5 +1,5 @@
 ---
 title: "Inksomnio"
 url: /barcelona/inksomnio/
-shop: tatuaje
+shop: Tattoo
 ---

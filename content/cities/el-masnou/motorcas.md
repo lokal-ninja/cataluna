@@ -1,5 +1,5 @@
 ---
 title: "Motorcas"
 url: /el-masnou/motorcas/
-shop: herramientas
+shop: Werkzeuge
 ---

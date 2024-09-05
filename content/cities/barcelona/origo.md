@@ -1,5 +1,5 @@
 ---
 title: "Origo"
 url: /barcelona/origo/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calçats Prats - Casa Potxó"
 url: /tremp/calcats-prats-casa-potxo/
-shop: zapatos
+shop: Schuhe
 ---

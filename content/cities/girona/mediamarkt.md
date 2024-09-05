@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
 url: /girona/mediamarkt/
-shop: electrónica
+shop: Elektronik
 ---

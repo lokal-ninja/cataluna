@@ -1,5 +1,5 @@
 ---
 title: "Destino"
 url: /barcelona/destino/
-shop: ropa
+shop: Kleidung
 ---

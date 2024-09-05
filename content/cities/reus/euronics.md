@@ -1,5 +1,5 @@
 ---
 title: "Euronics"
 url: /reus/euronics/
-shop: electrónica
+shop: Elektronik
 ---

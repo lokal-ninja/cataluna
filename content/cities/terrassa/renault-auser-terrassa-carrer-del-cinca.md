@@ -1,5 +1,5 @@
 ---
 title: "Renault Auser Terrassa"
 url: /terrassa/renault-auser-terrassa-carrer-del-cinca/
-shop: coche
+shop: Autohaus
 ---

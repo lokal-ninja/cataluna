@@ -1,5 +1,5 @@
 ---
 title: "Condis Express Supermercat"
 url: /salt/condis-express-supermercat/
-shop: supermercado
+shop: Supermarkt
 ---

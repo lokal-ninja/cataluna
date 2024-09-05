@@ -1,5 +1,5 @@
 ---
 title: "Fantastica"
 url: /barcelona/fantastica/
-shop: ropa
+shop: Kleidung
 ---

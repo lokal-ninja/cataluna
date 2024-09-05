@@ -1,5 +1,5 @@
 ---
 title: "Dylan"
 url: /barcelona/dylan/
-shop: frutería
+shop: Gemüse & Obst
 ---

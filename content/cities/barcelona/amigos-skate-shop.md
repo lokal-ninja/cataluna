@@ -1,5 +1,5 @@
 ---
 title: "Amigos Skate Shop"
 url: /barcelona/amigos-skate-shop/
-shop: deportes
+shop: Sport
 ---

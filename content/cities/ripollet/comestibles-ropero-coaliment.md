@@ -1,5 +1,5 @@
 ---
 title: "Comestibles Ropero (CoAliment)"
 url: /ripollet/comestibles-ropero-coaliment/
-shop: supermercado
+shop: Supermarkt
 ---

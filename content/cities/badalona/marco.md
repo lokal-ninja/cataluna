@@ -1,5 +1,5 @@
 ---
 title: "Marco"
 url: /badalona/marco/
-shop: carnicero
+shop: Metzgerei
 ---

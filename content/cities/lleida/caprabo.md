@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
 url: /lleida/caprabo/
-shop: supermercado
+shop: Supermarkt
 ---

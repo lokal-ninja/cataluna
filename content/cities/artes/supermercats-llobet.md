@@ -1,5 +1,5 @@
 ---
 title: "Supermercats Llobet"
 url: /artes/supermercats-llobet/
-shop: supermercado
+shop: Supermarkt
 ---

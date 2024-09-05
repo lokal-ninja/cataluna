@@ -1,5 +1,5 @@
 ---
 title: "apassionat"
 url: /ripollet/apassionat/
-shop: panadería
+shop: Bäckerei
 ---

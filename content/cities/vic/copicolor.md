@@ -1,5 +1,5 @@
 ---
 title: "Copicolor"
 url: /vic/copicolor/
-shop: copyshop
+shop: Kopieren
 ---

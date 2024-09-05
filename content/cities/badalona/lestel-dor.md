@@ -1,5 +1,5 @@
 ---
 title: "l'Estel d'or"
 url: /badalona/lestel-dor/
-shop: floristería
+shop: Blumen
 ---

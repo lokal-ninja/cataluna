@@ -1,5 +1,5 @@
 ---
 title: "Virginias"
 url: /reus/virginias/
-shop: confitería
+shop: Süßwaren
 ---

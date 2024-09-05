@@ -1,5 +1,5 @@
 ---
 title: "Desigual"
 url: /barcelona/desigual/
-shop: ropa
+shop: Kleidung
 ---

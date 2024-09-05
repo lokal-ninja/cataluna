@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /vic/condis/
-shop: supermercado
+shop: Supermarkt
 ---

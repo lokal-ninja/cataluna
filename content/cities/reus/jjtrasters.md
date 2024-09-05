@@ -1,5 +1,5 @@
 ---
 title: "JJTrasters"
 url: /reus/jjtrasters/
-shop: alquiler
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Estética Marina"
 url: /lhospitalet-de-llobregat/estetica-marina/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rosistirem"
 url: /barcelona/rosistirem/
-shop: floristería
+shop: Blumen
 ---

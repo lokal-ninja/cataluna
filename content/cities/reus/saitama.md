@@ -1,5 +1,5 @@
 ---
 title: "Saitama"
 url: /reus/saitama/
-shop: panadería
+shop: Bäckerei
 ---

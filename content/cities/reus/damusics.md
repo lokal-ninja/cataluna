@@ -1,5 +1,5 @@
 ---
 title: "DaMusics"
 url: /reus/damusics/
-shop: instrumento musical
+shop: Instrumente
 ---

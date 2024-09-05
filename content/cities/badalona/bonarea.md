@@ -1,5 +1,5 @@
 ---
 title: "BonÀrea"
 url: /badalona/bonarea/
-shop: comodidad
+shop: Lebensmittel
 ---

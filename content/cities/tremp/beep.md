@@ -1,5 +1,5 @@
 ---
 title: "Beep"
 url: /tremp/beep/
-shop: ordenador
+shop: Computer
 ---

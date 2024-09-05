@@ -1,5 +1,5 @@
 ---
 title: "Copitinta"
 url: /granollers/copitinta/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pneumàtics Reus"
 url: /reus/pneumatics-reus/
-shop: neumáticos
+shop: Reifen
 ---

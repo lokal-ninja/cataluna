@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /barcelona/mercadona-carrer-de-los-castillejos/
-shop: supermercado
+shop: Supermarkt
 ---

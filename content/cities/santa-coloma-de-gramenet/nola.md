@@ -1,5 +1,5 @@
 ---
 title: "Nola"
 url: /santa-coloma-de-gramenet/nola/
-shop: ropa
+shop: Kleidung
 ---

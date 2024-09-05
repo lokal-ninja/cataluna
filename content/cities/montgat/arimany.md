@@ -1,5 +1,5 @@
 ---
 title: "Arimany"
 url: /montgat/arimany/
-shop: tabaco
+shop: Tabak
 ---

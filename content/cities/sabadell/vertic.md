@@ -1,5 +1,5 @@
 ---
 title: "Vèrtic"
 url: /sabadell/vertic/
-shop: deportes
+shop: Sport
 ---

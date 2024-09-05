@@ -1,5 +1,5 @@
 ---
 title: "Zhang"
 url: /sant-feliu-de-llobregat/zhang/
-shop: frutería
+shop: Gemüse & Obst
 ---

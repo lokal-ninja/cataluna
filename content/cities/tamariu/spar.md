@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tamariu/spar/
-shop: supermercado
+shop: Supermarkt
 ---

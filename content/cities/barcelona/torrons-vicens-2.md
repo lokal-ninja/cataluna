@@ -1,5 +1,5 @@
 ---
 title: "Torrons Vicens"
 url: /barcelona/torrons-vicens-2/
-shop: pastelería
+shop: Konditorei
 ---

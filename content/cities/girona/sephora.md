@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /girona/sephora/
-shop: cosméticos
+shop: Kosmetik
 ---

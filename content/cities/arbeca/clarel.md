@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /arbeca/clarel/
-shop: farmacia
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /barcelona/lidl-carrer-del-comte-durgell/
-shop: supermercado
+shop: Supermarkt
 ---

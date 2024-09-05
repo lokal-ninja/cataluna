@@ -1,5 +1,5 @@
 ---
 title: "OBBIO"
 url: /barcelona/obbio/
-shop: supermercado
+shop: Supermarkt
 ---

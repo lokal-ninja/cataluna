@@ -1,5 +1,5 @@
 ---
 title: "Greenpeace Gràcia Net"
 url: /barcelona/greenpeace-gracia-net/
-shop: farmacia
+shop: Drogerie
 ---

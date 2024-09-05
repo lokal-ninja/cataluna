@@ -1,5 +1,5 @@
 ---
 title: "Pomés"
 url: /cervera/pomes/
-shop: frutería
+shop: Gemüse & Obst
 ---

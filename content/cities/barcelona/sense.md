@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /barcelona/sense/
-shop: bebidas
+shop: Getränke
 ---

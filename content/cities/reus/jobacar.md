@@ -1,5 +1,5 @@
 ---
 title: "Jobacar"
 url: /reus/jobacar/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MEDIAactive"
 url: /barcelona/mediaactive/
-shop: copyshop
+shop: Kopieren
 ---

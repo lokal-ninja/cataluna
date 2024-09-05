@@ -1,5 +1,5 @@
 ---
 title: "Grans Records"
 url: /lleida/grans-records/
-shop: música
+shop: Musik
 ---

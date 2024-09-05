@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /girona/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

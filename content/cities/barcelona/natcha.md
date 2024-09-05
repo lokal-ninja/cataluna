@@ -1,5 +1,5 @@
 ---
 title: "Natcha"
 url: /barcelona/natcha/
-shop: pastelería
+shop: Konditorei
 ---

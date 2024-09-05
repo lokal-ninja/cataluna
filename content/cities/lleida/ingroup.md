@@ -1,5 +1,5 @@
 ---
 title: "INGROUP"
 url: /lleida/ingroup/
-shop: ordenador
+shop: Computer
 ---

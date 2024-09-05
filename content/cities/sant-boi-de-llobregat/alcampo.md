@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /sant-boi-de-llobregat/alcampo/
-shop: supermercado
+shop: Supermarkt
 ---

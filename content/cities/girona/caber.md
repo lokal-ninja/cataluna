@@ -1,5 +1,5 @@
 ---
 title: "Caber"
 url: /girona/caber/
-shop: hardware
+shop: Eisenwaren
 ---

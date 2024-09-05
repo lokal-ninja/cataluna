@@ -1,5 +1,5 @@
 ---
 title: "Esenzial"
 url: /barcelona/esenzial/
-shop: peluquería
+shop: Friseur
 ---

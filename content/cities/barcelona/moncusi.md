@@ -1,5 +1,5 @@
 ---
 title: "Moncusí"
 url: /barcelona/moncusi/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /lhospitalet-de-llobregat/condis-carrer-de-llevant/
-shop: supermercado
+shop: Supermarkt
 ---

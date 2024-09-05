@@ -1,5 +1,5 @@
 ---
 title: "Italomotor"
 url: /barcelona/italomotor/
-shop: motocicleta
+shop: Motorrad
 ---

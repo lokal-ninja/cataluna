@@ -1,5 +1,5 @@
 ---
 title: "Delaurens"
 url: /bossost/delaurens/
-shop: decoración interior
+shop: Raumausstattung
 ---

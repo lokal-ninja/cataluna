@@ -1,5 +1,5 @@
 ---
 title: "JG Technology"
 url: /la-bisbal-demporda/jg-technology/
-shop: electrónica
+shop: Elektronik
 ---

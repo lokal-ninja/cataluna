@@ -1,5 +1,5 @@
 ---
 title: "Mac"
 url: /golmes/mac/
-shop: muebles
+shop: Möbel
 ---

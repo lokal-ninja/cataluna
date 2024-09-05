@@ -1,5 +1,5 @@
 ---
 title: "Xiaomi Store"
 url: /lhospitalet-de-llobregat/xiaomi-store/
-shop: electrónica
+shop: Elektronik
 ---

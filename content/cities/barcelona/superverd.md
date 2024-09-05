@@ -1,5 +1,5 @@
 ---
 title: "Superverd"
 url: /barcelona/superverd/
-shop: frutería
+shop: Gemüse & Obst
 ---

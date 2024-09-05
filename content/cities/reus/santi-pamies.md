@@ -1,5 +1,5 @@
 ---
 title: "Santi Pàmies"
 url: /reus/santi-pamies/
-shop: joyería
+shop: Schmuck
 ---

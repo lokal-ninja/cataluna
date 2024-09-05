@@ -1,5 +1,5 @@
 ---
 title: "Bolet"
 url: /barcelona/bolet/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barcelona Premium"
 url: /lhospitalet-de-llobregat/barcelona-premium/
-shop: coche
+shop: Autohaus
 ---

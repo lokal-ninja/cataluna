@@ -1,5 +1,5 @@
 ---
 title: "láserum"
 url: /tarragona/laserum/
-shop: cosméticos
+shop: Kosmetik
 ---

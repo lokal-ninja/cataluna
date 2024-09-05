@@ -1,5 +1,5 @@
 ---
 title: "Actual"
 url: /reus/actual/
-shop: ropa
+shop: Kleidung
 ---

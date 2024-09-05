@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /calella/movistar/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pcxaico"
 url: /sant-gregori/pcxaico/
-shop: ordenador
+shop: Computer
 ---

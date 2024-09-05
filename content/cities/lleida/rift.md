@@ -1,5 +1,5 @@
 ---
 title: "Rift"
 url: /lleida/rift/
-shop: frutería
+shop: Gemüse & Obst
 ---

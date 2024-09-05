@@ -1,5 +1,5 @@
 ---
 title: "Maxipa"
 url: /lhospitalet-de-llobregat/maxipa/
-shop: panadería
+shop: Bäckerei
 ---

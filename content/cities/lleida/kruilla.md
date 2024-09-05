@@ -1,5 +1,5 @@
 ---
 title: "Kruïlla"
 url: /lleida/kruilla/
-shop: ropa
+shop: Kleidung
 ---

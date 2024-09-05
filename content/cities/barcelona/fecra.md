@@ -1,5 +1,5 @@
 ---
 title: "FECRA"
 url: /barcelona/fecra/
-shop: hardware
+shop: Eisenwaren
 ---

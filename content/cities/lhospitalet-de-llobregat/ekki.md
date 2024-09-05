@@ -1,5 +1,5 @@
 ---
 title: "Ekki"
 url: /lhospitalet-de-llobregat/ekki/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /barcelona/condis-carrer-del-torrent-de-lolla/
-shop: supermercado
+shop: Supermarkt
 ---

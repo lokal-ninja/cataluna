@@ -1,5 +1,5 @@
 ---
 title: "rené"
 url: /barcelona/rene/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

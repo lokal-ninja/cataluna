@@ -1,5 +1,5 @@
 ---
 title: "Bona Fruita Busquets - Sants"
 url: /barcelona/bona-fruita-busquets-sants/
-shop: frutería
+shop: Gemüse & Obst
 ---

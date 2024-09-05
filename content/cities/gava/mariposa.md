@@ -1,5 +1,5 @@
 ---
 title: "Mariposa"
 url: /gava/mariposa/
-shop: ropa
+shop: Kleidung
 ---

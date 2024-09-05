@@ -1,5 +1,5 @@
 ---
 title: "Corinto"
 url: /rubi/corinto/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esclat"
 url: /sabadell/esclat/
-shop: supermercado
+shop: Supermarkt
 ---

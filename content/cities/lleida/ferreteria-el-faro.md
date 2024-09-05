@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria El Faro"
 url: /lleida/ferreteria-el-faro/
-shop: hardware
+shop: Eisenwaren
 ---

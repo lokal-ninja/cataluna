@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /aiguafreda/condis/
-shop: supermercado
+shop: Supermarkt
 ---

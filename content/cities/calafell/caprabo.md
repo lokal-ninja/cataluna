@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
 url: /calafell/caprabo/
-shop: supermercado
+shop: Supermarkt
 ---
