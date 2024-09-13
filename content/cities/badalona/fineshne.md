@@ -1,5 +1,5 @@
 ---
 title: "Fineshne"
 url: /badalona/fineshne/
-shop: Friseur
+shop: peluquería
 ---

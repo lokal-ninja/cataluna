@@ -1,5 +1,5 @@
 ---
 title: "Tous"
 url: /lleida/tous/
-shop: Schmuck
+shop: joyería
 ---

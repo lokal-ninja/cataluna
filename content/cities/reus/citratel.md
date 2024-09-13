@@ -1,5 +1,5 @@
 ---
 title: "Citratel"
 url: /reus/citratel/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disco100"
 url: /barcelona/disco100/
-shop: Musik
+shop: música
 ---

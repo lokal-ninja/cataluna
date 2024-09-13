@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /barcelona/levis/
-shop: Kleidung
+shop: ropa
 ---

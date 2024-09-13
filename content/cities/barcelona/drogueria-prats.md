@@ -1,5 +1,5 @@
 ---
 title: "Droguería Prats"
 url: /barcelona/drogueria-prats/
-shop: Drogerie
+shop: farmacia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jomar"
 url: /empuriabrava/jomar/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

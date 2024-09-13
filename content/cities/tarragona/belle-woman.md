@@ -1,5 +1,5 @@
 ---
 title: "Belle Woman"
 url: /tarragona/belle-woman/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lametlla/aldi/
-shop: Supermarkt
+shop: supermercado
 ---

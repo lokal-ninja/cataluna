@@ -1,5 +1,5 @@
 ---
 title: "BonÀrea"
 url: /mollerussa/bonarea/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viajes Jaipur"
 url: /barcelona/viajes-jaipur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

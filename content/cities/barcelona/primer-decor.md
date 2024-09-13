@@ -1,5 +1,5 @@
 ---
 title: "Primer decor"
 url: /barcelona/primer-decor/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Enzo"
 url: /tarragona/enzo/
-shop: Friseur
+shop: peluquería
 ---

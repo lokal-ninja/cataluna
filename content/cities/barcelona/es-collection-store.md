@@ -1,5 +1,5 @@
 ---
 title: "ES Collection Store"
 url: /barcelona/es-collection-store/
-shop: Kleidung
+shop: ropa
 ---

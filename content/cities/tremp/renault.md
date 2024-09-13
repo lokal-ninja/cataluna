@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /tremp/renault/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motos Matas"
 url: /sant-feliu-de-pallerols/motos-matas/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GXG"
 url: /lleida/gxg/
-shop: Kleidung
+shop: ropa
 ---

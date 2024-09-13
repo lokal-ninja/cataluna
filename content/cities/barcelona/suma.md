@@ -1,5 +1,5 @@
 ---
 title: "Suma"
 url: /barcelona/suma/
-shop: Supermarkt
+shop: supermercado
 ---

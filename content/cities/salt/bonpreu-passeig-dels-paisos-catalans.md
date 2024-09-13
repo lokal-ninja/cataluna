@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /salt/bonpreu-passeig-dels-paisos-catalans/
-shop: Supermarkt
+shop: supermercado
 ---

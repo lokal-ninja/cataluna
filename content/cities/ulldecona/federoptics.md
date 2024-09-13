@@ -1,5 +1,5 @@
 ---
 title: "Federoptics"
 url: /ulldecona/federoptics/
-shop: Optiker
+shop: óptico
 ---

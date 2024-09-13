@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /lleida/tedi/
-shop: Kramladen
+shop: tienda de variedades
 ---

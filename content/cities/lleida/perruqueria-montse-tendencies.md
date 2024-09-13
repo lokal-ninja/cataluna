@@ -1,5 +1,5 @@
 ---
 title: "Perruqueria Montse Tendències"
 url: /lleida/perruqueria-montse-tendencies/
-shop: Friseur
+shop: peluquería
 ---

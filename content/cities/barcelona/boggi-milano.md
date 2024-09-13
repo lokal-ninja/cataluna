@@ -1,5 +1,5 @@
 ---
 title: "BOGGI Milano"
 url: /barcelona/boggi-milano/
-shop: Kleidung
+shop: ropa
 ---

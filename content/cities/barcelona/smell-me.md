@@ -1,5 +1,5 @@
 ---
 title: "smell me"
 url: /barcelona/smell-me/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

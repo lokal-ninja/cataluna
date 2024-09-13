@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
 url: /tarragona/caprabo/
-shop: Supermarkt
+shop: supermercado
 ---

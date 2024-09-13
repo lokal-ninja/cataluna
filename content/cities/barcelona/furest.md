@@ -1,5 +1,5 @@
 ---
 title: "Furest"
 url: /barcelona/furest/
-shop: Kleidung
+shop: ropa
 ---

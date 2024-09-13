@@ -1,5 +1,5 @@
 ---
 title: "Cèlia"
 url: /cabrils/celia/
-shop: Kleidung
+shop: ropa
 ---

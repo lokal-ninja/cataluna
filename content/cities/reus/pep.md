@@ -1,5 +1,5 @@
 ---
 title: "Pep"
 url: /reus/pep/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

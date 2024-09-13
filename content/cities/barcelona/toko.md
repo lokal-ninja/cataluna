@@ -1,5 +1,5 @@
 ---
 title: "Toko"
 url: /barcelona/toko/
-shop: Supermarkt
+shop: supermercado
 ---

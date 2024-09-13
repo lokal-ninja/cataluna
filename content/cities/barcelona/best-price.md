@@ -1,5 +1,5 @@
 ---
 title: "Best Price"
 url: /barcelona/best-price/
-shop: Lebensmittel
+shop: comodidad
 ---

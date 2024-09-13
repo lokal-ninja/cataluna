@@ -1,5 +1,5 @@
 ---
 title: "Barnasud"
 url: /gava/barnasud/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

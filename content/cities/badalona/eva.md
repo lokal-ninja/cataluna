@@ -1,5 +1,5 @@
 ---
 title: "Eva"
 url: /badalona/eva/
-shop: Schuhe
+shop: zapatos
 ---

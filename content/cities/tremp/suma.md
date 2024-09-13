@@ -1,5 +1,5 @@
 ---
 title: "Suma"
 url: /tremp/suma/
-shop: Supermarkt
+shop: supermercado
 ---

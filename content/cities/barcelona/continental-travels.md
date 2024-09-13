@@ -1,5 +1,5 @@
 ---
 title: "Continental Travels"
 url: /barcelona/continental-travels/
-shop: Reisebüro
+shop: agencia de viajes
 ---

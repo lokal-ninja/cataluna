@@ -1,5 +1,5 @@
 ---
 title: "NatyBlanco"
 url: /barcelona/natyblanco/
-shop: Friseur
+shop: peluquería
 ---

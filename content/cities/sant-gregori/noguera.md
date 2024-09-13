@@ -1,5 +1,5 @@
 ---
 title: "Noguera"
 url: /sant-gregori/noguera/
-shop: Bäckerei
+shop: panadería
 ---

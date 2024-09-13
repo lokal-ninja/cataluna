@@ -1,5 +1,5 @@
 ---
 title: "Motos Parcerisas"
 url: /lleida/motos-parcerisas/
-shop: Motorrad
+shop: motocicleta
 ---

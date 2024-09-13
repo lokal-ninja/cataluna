@@ -1,5 +1,5 @@
 ---
 title: "Llobregat Centre"
 url: /cornella-de-llobregat/llobregat-centre/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

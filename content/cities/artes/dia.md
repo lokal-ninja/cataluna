@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /artes/dia/
-shop: Supermarkt
+shop: supermercado
 ---

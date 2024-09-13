@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /mollerussa/clarel/
-shop: Drogerie
+shop: farmacia
 ---

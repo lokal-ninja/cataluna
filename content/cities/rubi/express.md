@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /rubi/express/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

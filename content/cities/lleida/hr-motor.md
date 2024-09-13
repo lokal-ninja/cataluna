@@ -1,5 +1,5 @@
 ---
 title: "HR Motor"
 url: /lleida/hr-motor/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /sant-cugat-del-valles/calzedonia/
-shop: Kleidung
+shop: ropa
 ---

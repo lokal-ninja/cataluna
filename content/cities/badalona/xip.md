@@ -1,5 +1,5 @@
 ---
 title: "Xip"
 url: /badalona/xip/
-shop: Kleidung
+shop: ropa
 ---

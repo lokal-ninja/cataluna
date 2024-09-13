@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /amposta/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

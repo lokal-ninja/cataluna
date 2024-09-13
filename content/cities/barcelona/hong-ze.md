@@ -1,5 +1,5 @@
 ---
 title: "Hong Ze"
 url: /barcelona/hong-ze/
-shop: Massage
+shop: masaje
 ---

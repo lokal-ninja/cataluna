@@ -1,5 +1,5 @@
 ---
 title: "ApaBCN"
 url: /barcelona/apabcn/
-shop: Immobilien
+shop: agente inmobiliario
 ---

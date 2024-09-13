@@ -1,5 +1,5 @@
 ---
 title: "Basar"
 url: /santa-coloma-de-gramenet/basar/
-shop: Allgemein
+shop: general
 ---

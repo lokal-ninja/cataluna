@@ -1,5 +1,5 @@
 ---
 title: "Pamies Vitae"
 url: /balaguer/pamies-vitae/
-shop: Dorfladen
+shop: tienda rural
 ---

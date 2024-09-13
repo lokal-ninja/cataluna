@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
 url: /girona/bauhaus/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

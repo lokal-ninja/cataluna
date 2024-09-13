@@ -1,5 +1,5 @@
 ---
 title: "Vilà"
 url: /badalona/vila/
-shop: Konditorei
+shop: pastelería
 ---

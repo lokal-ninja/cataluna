@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /la-pobla-de-segur/clarel/
-shop: Drogerie
+shop: farmacia
 ---

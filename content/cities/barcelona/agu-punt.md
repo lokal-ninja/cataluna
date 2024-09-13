@@ -1,5 +1,5 @@
 ---
 title: "Agu-punt"
 url: /barcelona/agu-punt/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

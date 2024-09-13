@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /golmes/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

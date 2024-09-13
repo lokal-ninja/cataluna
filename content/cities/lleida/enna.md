@@ -1,5 +1,5 @@
 ---
 title: "Enna"
 url: /lleida/enna/
-shop: Kosmetik
+shop: cosméticos
 ---

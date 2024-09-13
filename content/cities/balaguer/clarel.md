@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /balaguer/clarel/
-shop: Drogerie
+shop: farmacia
 ---

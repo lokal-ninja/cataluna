@@ -1,5 +1,5 @@
 ---
 title: "AutoBCN.es"
 url: /badalona/autobcn-es/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Rossellón"
 url: /barcelona/auto-rossellon/
-shop: Autoteile
+shop: piezas de automóviles
 ---

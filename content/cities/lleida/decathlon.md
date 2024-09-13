@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /lleida/decathlon/
-shop: Sport
+shop: deportes
 ---

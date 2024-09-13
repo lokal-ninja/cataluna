@@ -1,5 +1,5 @@
 ---
 title: "Estanco"
 url: /barcelona/estanco/
-shop: Tabak
+shop: tabaco
 ---

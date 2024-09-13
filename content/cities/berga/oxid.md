@@ -1,5 +1,5 @@
 ---
 title: "Òxid"
 url: /berga/oxid/
-shop: Kleidung
+shop: ropa
 ---

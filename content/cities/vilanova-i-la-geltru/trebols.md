@@ -1,5 +1,5 @@
 ---
 title: "Trebol's"
 url: /vilanova-i-la-geltru/trebols/
-shop: Friseur
+shop: peluquería
 ---

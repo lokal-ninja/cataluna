@@ -1,5 +1,5 @@
 ---
 title: "Infromàtica Cervelló"
 url: /cervello/infromatica-cervello/
-shop: Computer
+shop: ordenador
 ---

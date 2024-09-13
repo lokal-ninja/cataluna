@@ -1,5 +1,5 @@
 ---
 title: "A Run de Terra"
 url: /barcelona/a-run-de-terra/
-shop: Sport
+shop: deportes
 ---

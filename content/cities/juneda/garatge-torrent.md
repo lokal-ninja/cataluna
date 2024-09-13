@@ -1,5 +1,5 @@
 ---
 title: "Garatge Torrent"
 url: /juneda/garatge-torrent/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

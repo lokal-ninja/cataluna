@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /badalona/condis/
-shop: Supermarkt
+shop: supermercado
 ---

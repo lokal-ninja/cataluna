@@ -1,5 +1,5 @@
 ---
 title: "coso"
 url: /sitges/coso/
-shop: Kleidung
+shop: ropa
 ---

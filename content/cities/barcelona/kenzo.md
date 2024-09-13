@@ -1,5 +1,5 @@
 ---
 title: "KENZO"
 url: /barcelona/kenzo/
-shop: Kleidung
+shop: ropa
 ---

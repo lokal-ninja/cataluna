@@ -1,5 +1,5 @@
 ---
 title: "Montserrat"
 url: /barcelona/montserrat/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plusfresc"
 url: /lleida/plusfresc-placa-de-galicia/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farggi"
 url: /badalona/farggi/
-shop: Bäckerei
+shop: panadería
 ---

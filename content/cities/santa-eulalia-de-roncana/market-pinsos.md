@@ -1,5 +1,5 @@
 ---
 title: "Market Pinsos"
 url: /santa-eulalia-de-roncana/market-pinsos/
-shop: Tiere
+shop: mascotas
 ---

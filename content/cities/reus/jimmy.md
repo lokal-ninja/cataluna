@@ -1,5 +1,5 @@
 ---
 title: "Jimmy"
 url: /reus/jimmy/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seat"
 url: /bigues-i-riells/seat/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

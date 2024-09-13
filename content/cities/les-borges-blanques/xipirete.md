@@ -1,5 +1,5 @@
 ---
 title: "Xipirete"
 url: /les-borges-blanques/xipirete/
-shop: Babysachen
+shop: artículos para bebés
 ---

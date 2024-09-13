@@ -1,5 +1,5 @@
 ---
 title: "Carme"
 url: /barcelona/carme/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

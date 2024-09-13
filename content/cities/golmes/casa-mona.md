@@ -1,5 +1,5 @@
 ---
 title: "Casa Mona"
 url: /golmes/casa-mona/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

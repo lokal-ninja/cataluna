@@ -1,5 +1,5 @@
 ---
 title: "Lavaquial"
 url: /lleida/lavaquial/
-shop: Leerstehend
+shop: vacante
 ---

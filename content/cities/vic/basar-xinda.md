@@ -1,5 +1,5 @@
 ---
 title: "Basar Xinda"
 url: /vic/basar-xinda/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

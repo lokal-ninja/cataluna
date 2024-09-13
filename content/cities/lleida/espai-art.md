@@ -1,5 +1,5 @@
 ---
 title: "Espai-Art"
 url: /lleida/espai-art/
-shop: Kunst
+shop: arte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KIA"
 url: /barcelona/kia/
-shop: Autohaus
+shop: coche
 ---

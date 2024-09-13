@@ -1,5 +1,5 @@
 ---
 title: "Crocs Store Barcelona"
 url: /barcelona/crocs-store-barcelona/
-shop: Schuhe
+shop: zapatos
 ---

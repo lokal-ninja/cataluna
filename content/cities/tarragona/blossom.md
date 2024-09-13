@@ -1,5 +1,5 @@
 ---
 title: "Blossom"
 url: /tarragona/blossom/
-shop: Parfümerie
+shop: perfumería
 ---

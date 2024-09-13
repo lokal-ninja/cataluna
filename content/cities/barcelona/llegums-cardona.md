@@ -1,5 +1,5 @@
 ---
 title: "Llegums Cardona"
 url: /barcelona/llegums-cardona/
-shop: Lebensmittel
+shop: comodidad
 ---

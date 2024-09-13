@@ -1,5 +1,5 @@
 ---
 title: "Factoria Flor"
 url: /lleida/factoria-flor/
-shop: Blumen
+shop: floristería
 ---

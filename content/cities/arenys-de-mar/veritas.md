@@ -1,5 +1,5 @@
 ---
 title: "Veritas"
 url: /arenys-de-mar/veritas/
-shop: Supermarkt
+shop: supermercado
 ---

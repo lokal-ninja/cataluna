@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /cornella-de-llobregat/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

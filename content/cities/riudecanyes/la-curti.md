@@ -1,5 +1,5 @@
 ---
 title: "La Curti"
 url: /riudecanyes/la-curti/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rodi"
 url: /tarrega/rodi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

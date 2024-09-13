@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /palamos/bonpreu/
-shop: Supermarkt
+shop: supermercado
 ---

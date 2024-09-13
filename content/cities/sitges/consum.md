@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /sitges/consum/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parlem Telecom (Sant Andreu)"
 url: /barcelona/parlem-telecom-sant-andreu/
-shop: Handy
+shop: teléfono móvil
 ---

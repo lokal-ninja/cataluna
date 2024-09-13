@@ -1,5 +1,5 @@
 ---
 title: "Bonfill"
 url: /reus/bonfill/
-shop: Friseur
+shop: peluquería
 ---

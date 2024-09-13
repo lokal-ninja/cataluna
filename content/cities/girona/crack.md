@@ -1,5 +1,5 @@
 ---
 title: "Crack"
 url: /girona/crack/
-shop: Raumausstattung
+shop: decoración interior
 ---

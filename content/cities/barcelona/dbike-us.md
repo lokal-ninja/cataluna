@@ -1,5 +1,5 @@
 ---
 title: "DBike-Us"
 url: /barcelona/dbike-us/
-shop: Fahrrad
+shop: bicicleta
 ---

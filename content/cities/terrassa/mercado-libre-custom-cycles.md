@@ -1,5 +1,5 @@
 ---
 title: "Mercado Libre Custom Cycles"
 url: /terrassa/mercado-libre-custom-cycles/
-shop: Motorrad
+shop: motocicleta
 ---

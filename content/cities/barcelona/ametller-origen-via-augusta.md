@@ -1,5 +1,5 @@
 ---
 title: "Ametller Origen"
 url: /barcelona/ametller-origen-via-augusta/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller Brugulat"
 url: /llagostera/taller-brugulat/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

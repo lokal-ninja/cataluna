@@ -1,5 +1,5 @@
 ---
 title: "Xapisteria Polma S.L."
 url: /vilanna/xapisteria-polma-s-l/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /lleida/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

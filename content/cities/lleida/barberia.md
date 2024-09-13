@@ -1,5 +1,5 @@
 ---
 title: "Barberia"
 url: /lleida/barberia/
-shop: Friseur
+shop: peluquería
 ---

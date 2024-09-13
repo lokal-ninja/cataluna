@@ -1,5 +1,5 @@
 ---
 title: "Tallers Joaquim"
 url: /mollerussa/tallers-joaquim/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

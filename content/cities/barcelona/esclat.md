@@ -1,5 +1,5 @@
 ---
 title: "Esclat"
 url: /barcelona/esclat/
-shop: Supermarkt
+shop: supermercado
 ---

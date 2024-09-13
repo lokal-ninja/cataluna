@@ -1,5 +1,5 @@
 ---
 title: "Avalo"
 url: /lleida/avalo/
-shop: Schädlingsbekämpfung
+shop: control de plagas
 ---

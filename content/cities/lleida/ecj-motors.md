@@ -1,5 +1,5 @@
 ---
 title: "ECJ Motors"
 url: /lleida/ecj-motors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

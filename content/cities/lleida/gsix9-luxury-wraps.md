@@ -1,5 +1,5 @@
 ---
 title: "Gsix9 luxury wrap's"
 url: /lleida/gsix9-luxury-wraps/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

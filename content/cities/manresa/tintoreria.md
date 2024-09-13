@@ -1,5 +1,5 @@
 ---
 title: "Tintoreria"
 url: /manresa/tintoreria/
-shop: Wäscherei
+shop: lavandería
 ---

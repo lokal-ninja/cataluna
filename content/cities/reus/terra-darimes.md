@@ -1,5 +1,5 @@
 ---
 title: "Terra d’arimes"
 url: /reus/terra-darimes/
-shop: Kerzen
+shop: velas
 ---

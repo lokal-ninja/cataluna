@@ -1,5 +1,5 @@
 ---
 title: "Duldi"
 url: /castelldefels/duldi/
-shop: Süßwaren
+shop: confitería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pastisseria Santa Clara"
 url: /barcelona/pastisseria-santa-clara/
-shop: Süßwaren
+shop: confitería
 ---

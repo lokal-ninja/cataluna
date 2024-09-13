@@ -1,5 +1,5 @@
 ---
 title: "Massegur"
 url: /llambilles/massegur/
-shop: Dorfladen
+shop: tienda rural
 ---

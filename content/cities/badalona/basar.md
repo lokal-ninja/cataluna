@@ -1,5 +1,5 @@
 ---
 title: "Basar"
 url: /badalona/basar/
-shop: Kramladen
+shop: tienda de variedades
 ---

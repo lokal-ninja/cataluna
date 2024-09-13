@@ -1,5 +1,5 @@
 ---
 title: "Coaliment"
 url: /sant-just-desvern/coaliment/
-shop: Supermarkt
+shop: supermercado
 ---

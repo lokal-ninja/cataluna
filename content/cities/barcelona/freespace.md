@@ -1,5 +1,5 @@
 ---
 title: "FreeSpace"
 url: /barcelona/freespace/
-shop: Mieten
+shop: alquiler
 ---

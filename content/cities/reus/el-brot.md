@@ -1,5 +1,5 @@
 ---
 title: "El Brot"
 url: /reus/el-brot/
-shop: Lebensmittel
+shop: comodidad
 ---

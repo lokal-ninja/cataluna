@@ -1,5 +1,5 @@
 ---
 title: "Centre comercial Sant Cugat"
 url: /sant-cugat-del-valles/centre-comercial-sant-cugat/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

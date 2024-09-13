@@ -1,5 +1,5 @@
 ---
 title: "Lares"
 url: /sant-feliu-de-llobregat/lares/
-shop: Schuhe
+shop: zapatos
 ---

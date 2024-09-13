@@ -1,5 +1,5 @@
 ---
 title: "Ronsol"
 url: /barcelona/ronsol/
-shop: Schreibwaren
+shop: material de oficina
 ---

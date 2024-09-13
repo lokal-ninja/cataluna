@@ -1,5 +1,5 @@
 ---
 title: "Basar Multipreu"
 url: /centelles/basar-multipreu/
-shop: Kramladen
+shop: tienda de variedades
 ---

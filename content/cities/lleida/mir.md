@@ -1,5 +1,5 @@
 ---
 title: "Mir"
 url: /lleida/mir/
-shop: Bäckerei
+shop: panadería
 ---

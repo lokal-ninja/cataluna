@@ -1,5 +1,5 @@
 ---
 title: "Auto Punt"
 url: /lleida/auto-punt/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

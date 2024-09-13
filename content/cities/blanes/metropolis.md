@@ -1,5 +1,5 @@
 ---
 title: "METROPOLIS"
 url: /blanes/metropolis/
-shop: Kleidung
+shop: ropa
 ---

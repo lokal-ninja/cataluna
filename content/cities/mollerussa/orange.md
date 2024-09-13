@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /mollerussa/orange/
-shop: Handy
+shop: teléfono móvil
 ---

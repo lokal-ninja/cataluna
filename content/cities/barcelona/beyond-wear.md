@@ -1,5 +1,5 @@
 ---
 title: "Beyond Wear"
 url: /barcelona/beyond-wear/
-shop: Kleidung
+shop: ropa
 ---

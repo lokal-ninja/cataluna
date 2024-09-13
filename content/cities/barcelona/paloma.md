@@ -1,5 +1,5 @@
 ---
 title: "Paloma"
 url: /barcelona/paloma/
-shop: Tabak
+shop: tabaco
 ---

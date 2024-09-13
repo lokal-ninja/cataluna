@@ -1,5 +1,5 @@
 ---
 title: "Militaria BCN"
 url: /barcelona/militaria-bcn/
-shop: Militär
+shop: militar
 ---

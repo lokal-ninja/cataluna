@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /lleida/rituals/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Vilchez"
 url: /rubi/peluqueria-vilchez/
-shop: Friseur
+shop: peluquería
 ---

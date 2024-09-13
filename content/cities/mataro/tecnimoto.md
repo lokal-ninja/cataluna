@@ -1,5 +1,5 @@
 ---
 title: "Tecnimoto"
 url: /mataro/tecnimoto/
-shop: Motorrad
+shop: motocicleta
 ---

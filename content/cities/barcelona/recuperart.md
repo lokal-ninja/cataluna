@@ -1,5 +1,5 @@
 ---
 title: "Recuperart"
 url: /barcelona/recuperart/
-shop: Kunst
+shop: arte
 ---

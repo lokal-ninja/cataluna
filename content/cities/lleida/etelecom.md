@@ -1,5 +1,5 @@
 ---
 title: "eTelecom"
 url: /lleida/etelecom/
-shop: Handy
+shop: teléfono móvil
 ---

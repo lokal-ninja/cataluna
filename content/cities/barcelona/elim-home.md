@@ -1,5 +1,5 @@
 ---
 title: "Elim Home"
 url: /barcelona/elim-home/
-shop: Kramladen
+shop: tienda de variedades
 ---

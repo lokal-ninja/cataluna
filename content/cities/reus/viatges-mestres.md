@@ -1,5 +1,5 @@
 ---
 title: "Viatges Mestres"
 url: /reus/viatges-mestres/
-shop: Reisebüro
+shop: agencia de viajes
 ---

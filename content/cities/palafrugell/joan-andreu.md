@@ -1,5 +1,5 @@
 ---
 title: "Joan Andreu"
 url: /palafrugell/joan-andreu/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

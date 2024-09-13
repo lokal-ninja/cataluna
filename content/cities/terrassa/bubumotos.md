@@ -1,5 +1,5 @@
 ---
 title: "Bubumotos"
 url: /terrassa/bubumotos/
-shop: Kleidung
+shop: ropa
 ---

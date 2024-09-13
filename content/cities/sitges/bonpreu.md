@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /sitges/bonpreu/
-shop: Supermarkt
+shop: supermercado
 ---

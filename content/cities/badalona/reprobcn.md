@@ -1,5 +1,5 @@
 ---
 title: "reprobcn"
 url: /badalona/reprobcn/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kabukee"
 url: /reus/kabukee/
-shop: Tiersalon
+shop: peluquería canina
 ---

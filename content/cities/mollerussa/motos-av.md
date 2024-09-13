@@ -1,5 +1,5 @@
 ---
 title: "Motos AV"
 url: /mollerussa/motos-av/
-shop: Motorrad
+shop: motocicleta
 ---

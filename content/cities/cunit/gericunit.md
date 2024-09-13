@@ -1,5 +1,5 @@
 ---
 title: "GeriCunit"
 url: /cunit/gericunit/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

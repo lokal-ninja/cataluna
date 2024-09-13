@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /tremp/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

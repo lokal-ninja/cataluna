@@ -1,5 +1,5 @@
 ---
 title: "tafetà"
 url: /reus/tafeta/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tallers Juanito"
 url: /lleida/tallers-juanito/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

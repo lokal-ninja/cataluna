@@ -1,5 +1,5 @@
 ---
 title: "Vidal bobinatjes de motors i bombes"
 url: /reus/vidal-bobinatjes-de-motors-i-bombes/
-shop: Eisenwaren
+shop: hardware
 ---

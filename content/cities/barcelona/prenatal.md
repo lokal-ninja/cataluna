@@ -1,5 +1,5 @@
 ---
 title: "Prénatal"
 url: /barcelona/prenatal/
-shop: Babysachen
+shop: artículos para bebés
 ---

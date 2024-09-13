@@ -1,5 +1,5 @@
 ---
 title: "Lavakan"
 url: /reus/lavakan/
-shop: Tiere
+shop: mascotas
 ---

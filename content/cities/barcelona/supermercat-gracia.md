@@ -1,5 +1,5 @@
 ---
 title: "Supermercat Gracia"
 url: /barcelona/supermercat-gracia/
-shop: Lebensmittel
+shop: comodidad
 ---

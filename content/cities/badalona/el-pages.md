@@ -1,5 +1,5 @@
 ---
 title: "El Pagès"
 url: /badalona/el-pages/
-shop: Bäckerei
+shop: panadería
 ---

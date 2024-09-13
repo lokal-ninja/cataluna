@@ -1,5 +1,5 @@
 ---
 title: "Albiol"
 url: /lhospitalet-de-llobregat/albiol/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Urbà"
 url: /reus/urba/
-shop: Friseur
+shop: peluquería
 ---

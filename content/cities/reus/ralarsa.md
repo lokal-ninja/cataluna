@@ -1,5 +1,5 @@
 ---
 title: "Ralarsa"
 url: /reus/ralarsa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

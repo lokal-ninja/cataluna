@@ -1,5 +1,5 @@
 ---
 title: "Taller F.Esquinas"
 url: /lleida/taller-f-esquinas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

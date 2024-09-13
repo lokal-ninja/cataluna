@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Jafep"
 url: /cornella-de-llobregat/pinturas-jafep/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /lleida/carglass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

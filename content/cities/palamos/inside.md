@@ -1,5 +1,5 @@
 ---
 title: "Inside"
 url: /palamos/inside/
-shop: Kleidung
+shop: ropa
 ---

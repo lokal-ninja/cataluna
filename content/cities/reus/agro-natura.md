@@ -1,5 +1,5 @@
 ---
 title: "Agro Natura"
 url: /reus/agro-natura/
-shop: Tiere
+shop: mascotas
 ---

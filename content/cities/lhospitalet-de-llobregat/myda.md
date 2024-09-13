@@ -1,5 +1,5 @@
 ---
 title: "Myda"
 url: /lhospitalet-de-llobregat/myda/
-shop: Badezimmer
+shop: cuarto de baño
 ---

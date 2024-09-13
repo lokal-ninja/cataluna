@@ -1,5 +1,5 @@
 ---
 title: "Rubotica"
 url: /mollerussa/rubotica/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

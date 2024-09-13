@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /lleida/bonpreu/
-shop: Supermarkt
+shop: supermercado
 ---

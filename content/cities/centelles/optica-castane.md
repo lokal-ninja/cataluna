@@ -1,5 +1,5 @@
 ---
 title: "Òptica Castañé"
 url: /centelles/optica-castane/
-shop: Optiker
+shop: óptico
 ---

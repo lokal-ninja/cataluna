@@ -1,5 +1,5 @@
 ---
 title: "Taller Mecànic Miguel Àngel"
 url: /santa-coloma-de-cervello/taller-mecanic-miguel-angel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

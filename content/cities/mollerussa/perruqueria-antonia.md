@@ -1,5 +1,5 @@
 ---
 title: "Perruqueria Antonia"
 url: /mollerussa/perruqueria-antonia/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comaslaq"
 url: /reus/comaslaq/
-shop: Farben
+shop: pintura
 ---

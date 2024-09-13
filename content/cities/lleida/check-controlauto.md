@@ -1,5 +1,5 @@
 ---
 title: "Check Controlauto"
 url: /lleida/check-controlauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

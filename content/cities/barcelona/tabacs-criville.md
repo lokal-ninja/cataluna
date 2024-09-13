@@ -1,5 +1,5 @@
 ---
 title: "Tabacs Crivillé"
 url: /barcelona/tabacs-criville/
-shop: Tabak
+shop: tabaco
 ---

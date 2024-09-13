@@ -1,5 +1,5 @@
 ---
 title: "Flyaway"
 url: /girona/flyaway/
-shop: Reisebüro
+shop: agencia de viajes
 ---

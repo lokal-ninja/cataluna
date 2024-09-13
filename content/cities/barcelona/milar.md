@@ -1,5 +1,5 @@
 ---
 title: "Milar"
 url: /barcelona/milar/
-shop: Elektronik
+shop: electrónica
 ---

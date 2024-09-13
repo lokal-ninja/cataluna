@@ -1,5 +1,5 @@
 ---
 title: "Floristeria Navarro"
 url: /barcelona/floristeria-navarro/
-shop: Blumen
+shop: floristería
 ---

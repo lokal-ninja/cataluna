@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /ulldecona/bonpreu/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guerrero"
 url: /sitges/guerrero/
-shop: Kunst
+shop: arte
 ---

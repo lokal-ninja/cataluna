@@ -1,5 +1,5 @@
 ---
 title: "El Tucan"
 url: /barcelona/el-tucan/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

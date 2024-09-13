@@ -1,5 +1,5 @@
 ---
 title: "Calçats"
 url: /barcelona/calcats/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hiper Asia"
 url: /lleida/hiper-asia/
-shop: Kramladen
+shop: tienda de variedades
 ---

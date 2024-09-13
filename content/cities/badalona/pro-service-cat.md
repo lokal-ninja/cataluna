@@ -1,5 +1,5 @@
 ---
 title: "Pro-service.cat"
 url: /badalona/pro-service-cat/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

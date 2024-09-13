@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /blanes/consum/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TTDISENY"
 url: /cervello/ttdiseny/
-shop: Schreibwaren
+shop: material de oficina
 ---

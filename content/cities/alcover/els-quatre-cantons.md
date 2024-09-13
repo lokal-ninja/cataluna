@@ -1,5 +1,5 @@
 ---
 title: "Els Quatre Cantons"
 url: /alcover/els-quatre-cantons/
-shop: Blumen
+shop: floristería
 ---

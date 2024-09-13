@@ -1,5 +1,5 @@
 ---
 title: "Vera"
 url: /gurb/vera/
-shop: Handy
+shop: teléfono móvil
 ---

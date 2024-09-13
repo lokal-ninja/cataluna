@@ -1,5 +1,5 @@
 ---
 title: "Fanatik"
 url: /vic/fanatik/
-shop: Fahrrad
+shop: bicicleta
 ---

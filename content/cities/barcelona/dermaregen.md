@@ -1,5 +1,5 @@
 ---
 title: "Dermaregen"
 url: /barcelona/dermaregen/
-shop: Kosmetik
+shop: cosméticos
 ---

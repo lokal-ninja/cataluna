@@ -1,5 +1,5 @@
 ---
 title: "DaYuanHuan"
 url: /barcelona/dayuanhuan/
-shop: Immobilien
+shop: agente inmobiliario
 ---

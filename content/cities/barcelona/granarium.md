@@ -1,5 +1,5 @@
 ---
 title: "Granarium"
 url: /barcelona/granarium/
-shop: Supermarkt
+shop: supermercado
 ---

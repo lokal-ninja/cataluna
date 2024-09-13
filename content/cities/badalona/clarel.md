@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /badalona/clarel/
-shop: Drogerie
+shop: farmacia
 ---

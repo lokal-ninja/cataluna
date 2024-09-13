@@ -1,5 +1,5 @@
 ---
 title: "La Algodonera"
 url: /barcelona/la-algodonera/
-shop: Allgemein
+shop: general
 ---

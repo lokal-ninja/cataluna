@@ -1,5 +1,5 @@
 ---
 title: "Umar"
 url: /reus/umar/
-shop: Lebensmittel
+shop: comodidad
 ---

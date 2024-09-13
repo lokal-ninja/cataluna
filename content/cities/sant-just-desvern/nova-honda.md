@@ -1,5 +1,5 @@
 ---
 title: "Nova Honda"
 url: /sant-just-desvern/nova-honda/
-shop: Motorrad
+shop: motocicleta
 ---

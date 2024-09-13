@@ -1,5 +1,5 @@
 ---
 title: "Pozo"
 url: /barcelona/pozo/
-shop: Supermarkt
+shop: supermercado
 ---

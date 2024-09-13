@@ -1,5 +1,5 @@
 ---
 title: "PiqueMotor"
 url: /santa-coloma-de-cervello/piquemotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller Mauri"
 url: /tona/taller-mauri/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

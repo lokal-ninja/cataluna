@@ -1,5 +1,5 @@
 ---
 title: "Fruites i verdures Llibertat amb alegria"
 url: /reus/fruites-i-verdures-llibertat-amb-alegria/
-shop: Gemüse & Obst
+shop: frutería
 ---

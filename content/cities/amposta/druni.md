@@ -1,5 +1,5 @@
 ---
 title: "Druni"
 url: /amposta/druni/
-shop: Parfümerie
+shop: perfumería
 ---

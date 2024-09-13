@@ -1,5 +1,5 @@
 ---
 title: "Gota"
 url: /lleida/gota/
-shop: Parfümerie
+shop: perfumería
 ---

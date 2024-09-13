@@ -1,5 +1,5 @@
 ---
 title: "Tentazioni"
 url: /mollerussa/tentazioni/
-shop: Kleidung
+shop: ropa
 ---

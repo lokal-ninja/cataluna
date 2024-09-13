@@ -1,5 +1,5 @@
 ---
 title: "Tessuto"
 url: /ripollet/tessuto/
-shop: Möbel
+shop: muebles
 ---

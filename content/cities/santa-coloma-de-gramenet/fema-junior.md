@@ -1,5 +1,5 @@
 ---
 title: "Fema Junior"
 url: /santa-coloma-de-gramenet/fema-junior/
-shop: Kleidung
+shop: ropa
 ---

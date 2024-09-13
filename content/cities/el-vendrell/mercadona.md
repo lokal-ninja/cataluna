@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /el-vendrell/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

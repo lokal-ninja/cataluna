@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /masquefa/condis/
-shop: Supermarkt
+shop: supermercado
 ---

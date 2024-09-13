@@ -1,5 +1,5 @@
 ---
 title: "Aquaimage"
 url: /mollerussa/aquaimage/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercor Exprés"
 url: /barcelona/supercor-expres/
-shop: Lebensmittel
+shop: comodidad
 ---

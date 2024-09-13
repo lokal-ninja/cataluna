@@ -1,5 +1,5 @@
 ---
 title: "Labuga"
 url: /vic/labuga/
-shop: Wäscherei
+shop: lavandería
 ---

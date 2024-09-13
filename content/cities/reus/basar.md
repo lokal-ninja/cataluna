@@ -1,5 +1,5 @@
 ---
 title: "Basar"
 url: /reus/basar/
-shop: Kramladen
+shop: tienda de variedades
 ---

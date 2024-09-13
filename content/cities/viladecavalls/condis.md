@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /viladecavalls/condis/
-shop: Supermarkt
+shop: supermercado
 ---

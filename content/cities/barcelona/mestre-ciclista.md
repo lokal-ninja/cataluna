@@ -1,5 +1,5 @@
 ---
 title: "Mestre Ciclista"
 url: /barcelona/mestre-ciclista/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esclat"
 url: /manlleu/esclat/
-shop: Supermarkt
+shop: supermercado
 ---

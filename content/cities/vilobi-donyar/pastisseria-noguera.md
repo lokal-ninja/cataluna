@@ -1,5 +1,5 @@
 ---
 title: "Pastisseria Noguera"
 url: /vilobi-donyar/pastisseria-noguera/
-shop: Konditorei
+shop: pastelería
 ---

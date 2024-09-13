@@ -1,5 +1,5 @@
 ---
 title: "CL ESTÉTICA MASCULINA"
 url: /barcelona/cl-estetica-masculina/
-shop: Kosmetik
+shop: cosméticos
 ---

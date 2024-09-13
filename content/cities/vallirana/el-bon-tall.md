@@ -1,5 +1,5 @@
 ---
 title: "El Bon Tall"
 url: /vallirana/el-bon-tall/
-shop: Metzgerei
+shop: carnicero
 ---

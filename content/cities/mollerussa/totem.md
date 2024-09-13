@@ -1,5 +1,5 @@
 ---
 title: "Totem"
 url: /mollerussa/totem/
-shop: Kleidung
+shop: ropa
 ---

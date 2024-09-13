@@ -1,5 +1,5 @@
 ---
 title: "Laguarda"
 url: /barcelona/laguarda/
-shop: Schmuck
+shop: joyería
 ---

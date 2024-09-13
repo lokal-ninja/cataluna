@@ -1,5 +1,5 @@
 ---
 title: "King Kaya"
 url: /barcelona/king-kaya/
-shop: Hanf
+shop: cannabis
 ---

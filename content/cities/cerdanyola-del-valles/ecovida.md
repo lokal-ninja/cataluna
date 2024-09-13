@@ -1,5 +1,5 @@
 ---
 title: "Ecovida"
 url: /cerdanyola-del-valles/ecovida/
-shop: Lebensmittel
+shop: comodidad
 ---

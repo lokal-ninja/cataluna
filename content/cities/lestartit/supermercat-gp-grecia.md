@@ -1,5 +1,5 @@
 ---
 title: "Supermercat GP Grecia"
 url: /lestartit/supermercat-gp-grecia/
-shop: Supermarkt
+shop: supermercado
 ---

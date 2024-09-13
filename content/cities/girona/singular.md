@@ -1,5 +1,5 @@
 ---
 title: "Singular"
 url: /girona/singular/
-shop: Kleidung
+shop: ropa
 ---

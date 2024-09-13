@@ -1,5 +1,5 @@
 ---
 title: "Motors Juvany"
 url: /lleida/motors-juvany/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WorkCenter"
 url: /barcelona/workcenter/
-shop: Kopieren
+shop: copyshop
 ---

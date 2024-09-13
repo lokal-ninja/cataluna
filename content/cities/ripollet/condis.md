@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /ripollet/condis/
-shop: Supermarkt
+shop: supermercado
 ---

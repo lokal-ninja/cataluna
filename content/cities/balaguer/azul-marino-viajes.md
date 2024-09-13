@@ -1,5 +1,5 @@
 ---
 title: "Azul Marino Viajes"
 url: /balaguer/azul-marino-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

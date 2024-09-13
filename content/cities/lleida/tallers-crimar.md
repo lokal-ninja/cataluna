@@ -1,5 +1,5 @@
 ---
 title: "Tallers Crimar"
 url: /lleida/tallers-crimar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

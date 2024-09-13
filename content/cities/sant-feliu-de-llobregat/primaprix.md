@@ -1,5 +1,5 @@
 ---
 title: "Primaprix"
 url: /sant-feliu-de-llobregat/primaprix/
-shop: Supermarkt
+shop: supermercado
 ---

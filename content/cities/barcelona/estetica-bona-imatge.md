@@ -1,5 +1,5 @@
 ---
 title: "Estètica Bona Imatge"
 url: /barcelona/estetica-bona-imatge/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mec-Osona"
 url: /vic/mec-osona/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

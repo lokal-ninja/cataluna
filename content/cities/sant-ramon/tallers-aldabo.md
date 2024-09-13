@@ -1,5 +1,5 @@
 ---
 title: "Tallers Aldabó"
 url: /sant-ramon/tallers-aldabo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ElectroMotor"
 url: /barcelona/electromotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

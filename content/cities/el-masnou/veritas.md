@@ -1,5 +1,5 @@
 ---
 title: "Veritas"
 url: /el-masnou/veritas/
-shop: Supermarkt
+shop: supermercado
 ---

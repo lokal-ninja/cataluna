@@ -1,5 +1,5 @@
 ---
 title: "Rodi"
 url: /lleida/rodi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

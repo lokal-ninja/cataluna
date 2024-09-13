@@ -1,5 +1,5 @@
 ---
 title: "Juroca"
 url: /reus/juroca/
-shop: Lebensmittel
+shop: comodidad
 ---

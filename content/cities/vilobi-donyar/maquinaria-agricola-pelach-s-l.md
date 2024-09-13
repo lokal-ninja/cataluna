@@ -1,5 +1,5 @@
 ---
 title: "Maquinária Agrícola Pelach S. L."
 url: /vilobi-donyar/maquinaria-agricola-pelach-s-l/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aroms"
 url: /lleida/aroms/
-shop: Kosmetik
+shop: cosméticos
 ---

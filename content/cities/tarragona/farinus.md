@@ -1,5 +1,5 @@
 ---
 title: "Farinus"
 url: /tarragona/farinus/
-shop: Bäckerei
+shop: panadería
 ---

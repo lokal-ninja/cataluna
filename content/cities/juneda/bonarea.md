@@ -1,5 +1,5 @@
 ---
 title: "BonÀrea"
 url: /juneda/bonarea/
-shop: Supermarkt
+shop: supermercado
 ---

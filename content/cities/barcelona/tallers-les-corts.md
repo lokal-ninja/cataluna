@@ -1,5 +1,5 @@
 ---
 title: "Tallers Les Corts"
 url: /barcelona/tallers-les-corts/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

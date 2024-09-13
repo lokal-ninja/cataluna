@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Viola"
 url: /balaguer/ferreteria-viola/
-shop: Eisenwaren
+shop: hardware
 ---

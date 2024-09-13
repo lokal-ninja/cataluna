@@ -1,5 +1,5 @@
 ---
 title: "Topas Informàtica"
 url: /barcelona/topas-informatica/
-shop: Handy
+shop: teléfono móvil
 ---

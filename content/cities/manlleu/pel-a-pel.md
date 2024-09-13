@@ -1,5 +1,5 @@
 ---
 title: "Pèl a Pèl"
 url: /manlleu/pel-a-pel/
-shop: Tiersalon
+shop: peluquería canina
 ---

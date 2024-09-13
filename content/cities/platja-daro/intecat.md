@@ -1,5 +1,5 @@
 ---
 title: "Intecat"
 url: /platja-daro/intecat/
-shop: Computer
+shop: ordenador
 ---

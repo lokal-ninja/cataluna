@@ -1,5 +1,5 @@
 ---
 title: "Complements"
 url: /barcelona/complements/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

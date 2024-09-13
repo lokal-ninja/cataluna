@@ -1,5 +1,5 @@
 ---
 title: "Lab Car"
 url: /lleida/lab-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

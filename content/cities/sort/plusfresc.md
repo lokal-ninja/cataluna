@@ -1,5 +1,5 @@
 ---
 title: "plusfrésc"
 url: /sort/plusfresc/
-shop: Supermarkt
+shop: supermercado
 ---

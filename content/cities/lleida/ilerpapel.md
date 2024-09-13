@@ -1,5 +1,5 @@
 ---
 title: "Ilerpapel"
 url: /lleida/ilerpapel/
-shop: Schreibwaren
+shop: material de oficina
 ---

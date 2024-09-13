@@ -1,5 +1,5 @@
 ---
 title: "Tabacos Timbre"
 url: /sant-feliu-de-llobregat/tabacos-timbre/
-shop: Tabak
+shop: tabaco
 ---

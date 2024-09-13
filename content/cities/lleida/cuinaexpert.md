@@ -1,5 +1,5 @@
 ---
 title: "Cuinaexpert"
 url: /lleida/cuinaexpert/
-shop: Küchen
+shop: cocina
 ---

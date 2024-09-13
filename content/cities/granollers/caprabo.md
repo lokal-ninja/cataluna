@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
 url: /granollers/caprabo/
-shop: Supermarkt
+shop: supermercado
 ---

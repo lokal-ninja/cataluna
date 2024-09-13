@@ -1,5 +1,5 @@
 ---
 title: "Tallers Guinovart"
 url: /reus/tallers-guinovart/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

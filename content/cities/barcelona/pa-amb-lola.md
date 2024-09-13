@@ -1,5 +1,5 @@
 ---
 title: "Pa amb Lola"
 url: /barcelona/pa-amb-lola/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Verlin"
 url: /balaguer/ferreteria-verlin/
-shop: Eisenwaren
+shop: hardware
 ---

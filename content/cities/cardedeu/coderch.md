@@ -1,5 +1,5 @@
 ---
 title: "Coderch"
 url: /cardedeu/coderch/
-shop: Schreibwaren
+shop: material de oficina
 ---

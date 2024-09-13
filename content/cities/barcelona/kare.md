@@ -1,5 +1,5 @@
 ---
 title: "Kare"
 url: /barcelona/kare/
-shop: Möbel
+shop: muebles
 ---

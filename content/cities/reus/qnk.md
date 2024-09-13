@@ -1,5 +1,5 @@
 ---
 title: "QnK"
 url: /reus/qnk/
-shop: Kleidung
+shop: ropa
 ---

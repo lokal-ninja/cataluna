@@ -1,5 +1,5 @@
 ---
 title: "Centre Verd"
 url: /salt/centre-verd/
-shop: Garten-Center
+shop: centro de jardinería
 ---

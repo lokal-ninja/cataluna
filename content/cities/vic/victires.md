@@ -1,5 +1,5 @@
 ---
 title: "VicTires"
 url: /vic/victires/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

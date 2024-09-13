@@ -1,5 +1,5 @@
 ---
 title: "AUTOROBLES"
 url: /artes/autorobles/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

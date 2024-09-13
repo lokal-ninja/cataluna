@@ -1,5 +1,5 @@
 ---
 title: "Pociello"
 url: /barcelona/pociello/
-shop: Friseur
+shop: peluquería
 ---

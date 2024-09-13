@@ -1,5 +1,5 @@
 ---
 title: "Ciclesport Marcos"
 url: /valls/ciclesport-marcos/
-shop: Fahrrad
+shop: bicicleta
 ---

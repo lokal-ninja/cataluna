@@ -1,5 +1,5 @@
 ---
 title: "Queviures Mary"
 url: /verges/queviures-mary/
-shop: Lebensmittel
+shop: comodidad
 ---

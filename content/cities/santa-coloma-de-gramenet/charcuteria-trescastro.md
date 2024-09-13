@@ -1,5 +1,5 @@
 ---
 title: "Charcuteria Trescastro"
 url: /santa-coloma-de-gramenet/charcuteria-trescastro/
-shop: Metzgerei
+shop: carnicero
 ---

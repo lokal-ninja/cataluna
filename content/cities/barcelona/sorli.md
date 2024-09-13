@@ -1,5 +1,5 @@
 ---
 title: "Sorli"
 url: /barcelona/sorli/
-shop: Supermarkt
+shop: supermercado
 ---

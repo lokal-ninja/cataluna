@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /sabadell/ikea/
-shop: Möbel
+shop: muebles
 ---

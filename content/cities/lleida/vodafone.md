@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /lleida/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "focsa"
 url: /ripollet/focsa/
-shop: Lebensmittel
+shop: comodidad
 ---

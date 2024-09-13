@@ -1,5 +1,5 @@
 ---
 title: "Auto Taller 24h"
 url: /lhospitalet-de-llobregat-barcelona/auto-taller-24h/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

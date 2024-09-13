@@ -1,5 +1,5 @@
 ---
 title: "Doipe"
 url: /reus/doipe/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

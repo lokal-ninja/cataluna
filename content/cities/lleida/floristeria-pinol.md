@@ -1,5 +1,5 @@
 ---
 title: "Floristeria Piñol"
 url: /lleida/floristeria-pinol/
-shop: Blumen
+shop: floristería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autocars Fuentes"
 url: /sant-quirze-del-valles/autocars-fuentes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

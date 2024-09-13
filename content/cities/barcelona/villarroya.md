@@ -1,5 +1,5 @@
 ---
 title: "Villarroya"
 url: /barcelona/villarroya/
-shop: Schuhe
+shop: zapatos
 ---

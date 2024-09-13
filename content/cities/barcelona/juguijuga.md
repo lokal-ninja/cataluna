@@ -1,5 +1,5 @@
 ---
 title: "Juguijuga"
 url: /barcelona/juguijuga/
-shop: Spielzeug
+shop: juguetes
 ---

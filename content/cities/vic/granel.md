@@ -1,5 +1,5 @@
 ---
 title: "Granel"
 url: /vic/granel/
-shop: Bioladen
+shop: alimentación sana
 ---

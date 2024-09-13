@@ -1,5 +1,5 @@
 ---
-title: "FotoLlum"
+title: "Fotollum"
 url: /lleida/fotollum/
-shop: Foto
+shop: foto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurollar"
 url: /lleida/eurollar/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

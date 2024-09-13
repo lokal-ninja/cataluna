@@ -1,5 +1,5 @@
 ---
 title: "Fiol"
 url: /barcelona/fiol/
-shop: Rahmen
+shop: marco
 ---

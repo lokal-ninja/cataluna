@@ -1,5 +1,5 @@
 ---
 title: "Alila"
 url: /balaguer/alila/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autotaller"
 url: /barcelona/autotaller/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

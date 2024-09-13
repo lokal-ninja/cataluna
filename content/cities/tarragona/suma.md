@@ -1,5 +1,5 @@
 ---
 title: "Suma"
 url: /tarragona/suma/
-shop: Supermarkt
+shop: supermercado
 ---

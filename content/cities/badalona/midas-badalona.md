@@ -1,5 +1,5 @@
 ---
 title: "Midas Badalona"
 url: /badalona/midas-badalona/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

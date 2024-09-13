@@ -1,5 +1,5 @@
 ---
 title: "Ashéè"
 url: /barcelona/ashee/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Azulejos Porcar"
 url: /barcelona/azulejos-porcar/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

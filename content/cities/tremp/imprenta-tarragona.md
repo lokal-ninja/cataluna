@@ -1,5 +1,5 @@
 ---
 title: "Imprenta Tarragona"
 url: /tremp/imprenta-tarragona/
-shop: Schreibwaren
+shop: material de oficina
 ---

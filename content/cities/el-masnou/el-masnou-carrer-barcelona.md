@@ -1,5 +1,5 @@
 ---
 title: "el Masnou"
 url: /el-masnou/el-masnou-carrer-barcelona/
-shop: Optiker
+shop: óptico
 ---

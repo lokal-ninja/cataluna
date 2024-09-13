@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /barcelona/condis-carrer-de-las-navas-de-tolosa/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nacar"
 url: /badalona/nacar/
-shop: Modehaus
+shop: tienda
 ---

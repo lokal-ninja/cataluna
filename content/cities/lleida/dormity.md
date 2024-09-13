@@ -1,5 +1,5 @@
 ---
 title: "Dormity"
 url: /lleida/dormity/
-shop: Betten
+shop: cama
 ---

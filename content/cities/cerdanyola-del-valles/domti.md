@@ -1,5 +1,5 @@
 ---
 title: "Domti"
 url: /cerdanyola-del-valles/domti/
-shop: Kramladen
+shop: tienda de variedades
 ---

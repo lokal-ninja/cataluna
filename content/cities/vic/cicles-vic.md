@@ -1,5 +1,5 @@
 ---
 title: "Cicles Vic"
 url: /vic/cicles-vic/
-shop: Fahrrad
+shop: bicicleta
 ---

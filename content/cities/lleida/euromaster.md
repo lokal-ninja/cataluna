@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /lleida/euromaster/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

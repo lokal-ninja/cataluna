@@ -1,5 +1,5 @@
 ---
 title: "Lausan"
 url: /lleida/lausan/
-shop: Autoteile
+shop: piezas de automóviles
 ---

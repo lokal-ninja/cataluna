@@ -1,5 +1,5 @@
 ---
 title: "Veyacuin"
 url: /lleida/veyacuin/
-shop: Küchen
+shop: cocina
 ---

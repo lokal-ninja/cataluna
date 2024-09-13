@@ -1,5 +1,5 @@
 ---
 title: "Dietètica ferrer"
 url: /lhospitalet-de-llobregat/dietetica-ferrer/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

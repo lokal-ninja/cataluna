@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /barcelona/ikea/
-shop: Möbel
+shop: muebles
 ---

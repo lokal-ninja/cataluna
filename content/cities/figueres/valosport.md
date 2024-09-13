@@ -1,5 +1,5 @@
 ---
 title: "Valosport"
 url: /figueres/valosport/
-shop: Sport
+shop: deportes
 ---

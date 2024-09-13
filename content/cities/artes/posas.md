@@ -1,5 +1,5 @@
 ---
 title: "Posas"
 url: /artes/posas/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /barcelona/condis-carrer-de-pamplona/
-shop: Supermarkt
+shop: supermercado
 ---

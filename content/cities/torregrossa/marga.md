@@ -1,5 +1,5 @@
 ---
 title: "Marga"
 url: /torregrossa/marga/
-shop: Kleidung
+shop: ropa
 ---

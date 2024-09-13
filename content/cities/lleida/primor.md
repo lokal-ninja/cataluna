@@ -1,5 +1,5 @@
 ---
 title: "Primor"
 url: /lleida/primor/
-shop: Kosmetik
+shop: cosméticos
 ---

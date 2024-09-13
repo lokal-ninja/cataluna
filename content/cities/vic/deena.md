@@ -1,5 +1,5 @@
 ---
 title: "Deena"
 url: /vic/deena/
-shop: Friseur
+shop: peluquería
 ---

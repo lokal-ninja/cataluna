@@ -1,5 +1,5 @@
 ---
 title: "CauKai"
 url: /vic/caukai/
-shop: Tiere
+shop: mascotas
 ---

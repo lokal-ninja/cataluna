@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /sabadell/zara/
-shop: Kleidung
+shop: ropa
 ---

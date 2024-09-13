@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /lhospitalet-de-llobregat/action/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fusteria i Decoració Manzano"
 url: /baga/fusteria-i-decoracio-manzano/
-shop: Raumausstattung
+shop: decoración interior
 ---

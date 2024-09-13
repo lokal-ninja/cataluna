@@ -1,5 +1,5 @@
 ---
 title: "Tallers Aixalà"
 url: /arbeca/tallers-aixala/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

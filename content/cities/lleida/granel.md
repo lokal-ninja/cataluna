@@ -1,5 +1,5 @@
 ---
 title: "Granel"
 url: /lleida/granel/
-shop: Lebensmittel
+shop: comodidad
 ---

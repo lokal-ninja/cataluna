@@ -1,5 +1,5 @@
 ---
 title: "Petards CM"
 url: /bescano/petards-cm/
-shop: Pyrotechnik
+shop: pirotecnia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /sant-feliu-de-llobregat/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

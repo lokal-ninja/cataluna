@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /tarragona/dia/
-shop: Supermarkt
+shop: supermercado
 ---

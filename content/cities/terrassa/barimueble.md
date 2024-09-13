@@ -1,5 +1,5 @@
 ---
 title: "Barimueble"
 url: /terrassa/barimueble/
-shop: Möbel
+shop: muebles
 ---

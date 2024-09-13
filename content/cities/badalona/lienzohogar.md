@@ -1,5 +1,5 @@
 ---
 title: "Lienzohogar"
 url: /badalona/lienzohogar/
-shop: Kleidung
+shop: ropa
 ---

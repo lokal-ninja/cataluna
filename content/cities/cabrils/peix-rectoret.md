@@ -1,5 +1,5 @@
 ---
 title: "Peix rectoret"
 url: /cabrils/peix-rectoret/
-shop: Fisch
+shop: marisco
 ---

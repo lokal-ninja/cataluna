@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
 url: /barcelona/caprabo-carrer-dels-madrazo/
-shop: Supermarkt
+shop: supermercado
 ---

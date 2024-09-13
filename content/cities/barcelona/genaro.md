@@ -1,5 +1,5 @@
 ---
 title: "Genaro"
 url: /barcelona/genaro/
-shop: Fisch
+shop: marisco
 ---

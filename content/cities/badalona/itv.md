@@ -1,5 +1,5 @@
 ---
 title: "ITV"
 url: /badalona/itv/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

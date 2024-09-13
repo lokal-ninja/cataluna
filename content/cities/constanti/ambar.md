@@ -1,5 +1,5 @@
 ---
 title: "AMBAR"
 url: /constanti/ambar/
-shop: Großhandel
+shop: mayorista
 ---

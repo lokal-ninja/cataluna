@@ -1,5 +1,5 @@
 ---
 title: "OKSofás Cornellà"
 url: /cornella-de-llobregat/oksofas-cornella/
-shop: Möbel
+shop: muebles
 ---

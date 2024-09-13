@@ -1,5 +1,5 @@
 ---
 title: "Firststop"
 url: /el-masnou/firststop/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

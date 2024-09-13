@@ -1,5 +1,5 @@
 ---
 title: "La Casa del Jamón"
 url: /bossost/la-casa-del-jamon/
-shop: Dorfladen
+shop: tienda rural
 ---

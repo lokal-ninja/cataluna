@@ -1,5 +1,5 @@
 ---
 title: "Què fem?"
 url: /badalona/que-fem/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mariló"
 url: /sant-feliu-de-llobregat/marilo/
-shop: Raumausstattung
+shop: decoración interior
 ---

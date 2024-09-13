@@ -1,5 +1,5 @@
 ---
 title: "Martínez Sangrà Planxa i Pintura"
 url: /golmes/martinez-sangra-planxa-i-pintura/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

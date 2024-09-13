@@ -1,5 +1,5 @@
 ---
 title: "Peluts"
 url: /santa-coloma-de-gramenet/peluts/
-shop: Tiere
+shop: mascotas
 ---

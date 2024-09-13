@@ -1,5 +1,5 @@
 ---
 title: "Carnisseria Ruites"
 url: /lestartit/carnisseria-ruites/
-shop: Metzgerei
+shop: carnicero
 ---

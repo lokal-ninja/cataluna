@@ -1,5 +1,5 @@
 ---
 title: "TOC’s Perruqueria"
 url: /reus/tocs-perruqueria/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hookah Arts"
 url: /barcelona/hookah-arts/
-shop: Wasserpfeife
+shop: shisha
 ---

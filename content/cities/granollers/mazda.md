@@ -1,5 +1,5 @@
 ---
 title: "Mazda"
 url: /granollers/mazda/
-shop: Autohaus
+shop: coche
 ---

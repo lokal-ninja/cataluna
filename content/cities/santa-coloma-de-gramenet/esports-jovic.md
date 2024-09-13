@@ -1,5 +1,5 @@
 ---
 title: "Esports Jovic"
 url: /santa-coloma-de-gramenet/esports-jovic/
-shop: Sport
+shop: deportes
 ---

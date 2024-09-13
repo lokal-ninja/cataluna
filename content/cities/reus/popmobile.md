@@ -1,5 +1,5 @@
 ---
 title: "popmobile"
 url: /reus/popmobile/
-shop: Allgemein
+shop: general
 ---

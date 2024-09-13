@@ -1,5 +1,5 @@
 ---
 title: "Blot"
 url: /sabadell/blot/
-shop: Andenken
+shop: regalo
 ---

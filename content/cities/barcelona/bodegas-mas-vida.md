@@ -1,5 +1,5 @@
 ---
 title: "Bodegas Mas Vida"
 url: /barcelona/bodegas-mas-vida/
-shop: Spirituosen
+shop: alcohol
 ---

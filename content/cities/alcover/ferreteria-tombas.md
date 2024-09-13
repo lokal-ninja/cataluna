@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Tombas"
 url: /alcover/ferreteria-tombas/
-shop: Eisenwaren
+shop: hardware
 ---

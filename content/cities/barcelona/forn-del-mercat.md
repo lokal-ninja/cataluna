@@ -1,5 +1,5 @@
 ---
 title: "Forn del Mercat"
 url: /barcelona/forn-del-mercat/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abitare"
 url: /badalona/abitare/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plusfresc"
 url: /balaguer/plusfresc/
-shop: Supermarkt
+shop: supermercado
 ---

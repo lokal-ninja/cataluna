@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /sant-cugat-del-valles/foot-locker/
-shop: Schuhe
+shop: zapatos
 ---

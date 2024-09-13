@@ -1,5 +1,5 @@
 ---
 title: "Nou Basar Oriental"
 url: /llagostera/nou-basar-oriental/
-shop: Dorfladen
+shop: tienda rural
 ---

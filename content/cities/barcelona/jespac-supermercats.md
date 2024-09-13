@@ -1,5 +1,5 @@
 ---
 title: "Jespac Supermercats"
 url: /barcelona/jespac-supermercats/
-shop: Supermarkt
+shop: supermercado
 ---

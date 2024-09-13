@@ -1,5 +1,5 @@
 ---
 title: "Bazar Quarzazate"
 url: /lleida/bazar-quarzazate/
-shop: Kramladen
+shop: tienda de variedades
 ---

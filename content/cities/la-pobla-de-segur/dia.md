@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /la-pobla-de-segur/dia/
-shop: Supermarkt
+shop: supermercado
 ---

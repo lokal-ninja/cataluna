@@ -1,5 +1,5 @@
 ---
 title: "Waker"
 url: /palamos/waker/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ca la Masa"
 url: /baga/ca-la-masa/
-shop: Metzgerei
+shop: carnicero
 ---

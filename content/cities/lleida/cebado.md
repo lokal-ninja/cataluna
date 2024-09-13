@@ -1,5 +1,5 @@
 ---
 title: "Cebado"
 url: /lleida/cebado/
-shop: Friseur
+shop: peluquería
 ---

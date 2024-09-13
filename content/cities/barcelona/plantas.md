@@ -1,5 +1,5 @@
 ---
 title: "Plantas"
 url: /barcelona/plantas/
-shop: Garten-Center
+shop: centro de jardinería
 ---

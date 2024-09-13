@@ -1,5 +1,5 @@
 ---
 title: "Furest"
 url: /barcelona/furest-avinguda-diagonal/
-shop: Kleidung
+shop: ropa
 ---

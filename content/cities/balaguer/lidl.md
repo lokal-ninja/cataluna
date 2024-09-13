@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /balaguer/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

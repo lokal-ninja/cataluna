@@ -1,5 +1,5 @@
 ---
 title: "Isabel Marti"
 url: /bescano/isabel-marti/
-shop: Fisch
+shop: marisco
 ---

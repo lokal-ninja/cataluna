@@ -1,5 +1,5 @@
 ---
 title: "Perruqueria Salvador"
 url: /reus/perruqueria-salvador/
-shop: Friseur
+shop: peluquería
 ---

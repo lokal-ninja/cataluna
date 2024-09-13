@@ -1,5 +1,5 @@
 ---
 title: "La Mamavaca"
 url: /barcelona/la-mamavaca/
-shop: Babysachen
+shop: artículos para bebés
 ---

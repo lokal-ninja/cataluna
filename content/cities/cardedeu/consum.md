@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /cardedeu/consum/
-shop: Supermarkt
+shop: supermercado
 ---

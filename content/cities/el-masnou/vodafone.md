@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /el-masnou/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

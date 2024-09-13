@@ -1,5 +1,5 @@
 ---
 title: "Heladeria"
 url: /lestartit/heladeria/
-shop: Eisprodukte
+shop: helado
 ---

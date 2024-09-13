@@ -1,5 +1,5 @@
 ---
 title: "Colmado Alegre"
 url: /barcelona/colmado-alegre/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esports Ferrer"
 url: /girona/esports-ferrer/
-shop: Sport
+shop: deportes
 ---

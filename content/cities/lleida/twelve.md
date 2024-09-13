@@ -1,5 +1,5 @@
 ---
 title: "Twelve"
 url: /lleida/twelve/
-shop: Kleidung
+shop: ropa
 ---

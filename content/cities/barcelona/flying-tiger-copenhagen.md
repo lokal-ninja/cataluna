@@ -1,5 +1,5 @@
 ---
 title: "Flying Tiger Copenhagen"
 url: /barcelona/flying-tiger-copenhagen/
-shop: Kramladen
+shop: tienda de variedades
 ---

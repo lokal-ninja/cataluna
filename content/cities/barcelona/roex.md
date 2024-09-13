@@ -1,5 +1,5 @@
 ---
 title: "Roex"
 url: /barcelona/roex/
-shop: Allgemein
+shop: general
 ---

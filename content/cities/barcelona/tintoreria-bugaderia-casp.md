@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Bugaderia Casp"
 url: /barcelona/tintoreria-bugaderia-casp/
-shop: Wäscherei
+shop: lavandería
 ---

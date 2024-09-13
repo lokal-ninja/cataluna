@@ -1,5 +1,5 @@
 ---
 title: "Sentias"
 url: /castelltercol/sentias/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

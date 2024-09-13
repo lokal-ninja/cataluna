@@ -1,5 +1,5 @@
 ---
 title: "Viajes Apolo"
 url: /barcelona/viajes-apolo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

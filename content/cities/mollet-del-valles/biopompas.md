@@ -1,5 +1,5 @@
 ---
 title: "Biopompas"
 url: /mollet-del-valles/biopompas/
-shop: Drogerie
+shop: farmacia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ETRO"
 url: /barcelona/etro/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vesping"
 url: /barcelona/vesping/
-shop: Motorrad
+shop: motocicleta
 ---

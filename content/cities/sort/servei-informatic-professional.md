@@ -1,5 +1,5 @@
 ---
 title: "Servei Informàtic Professional"
 url: /sort/servei-informatic-professional/
-shop: Computer
+shop: ordenador
 ---

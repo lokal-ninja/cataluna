@@ -1,5 +1,5 @@
 ---
 title: "Garage Andreu Blanes"
 url: /blanes/garage-andreu-blanes/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pentinat"
 url: /la-selva-del-camp/pentinat/
-shop: Friseur
+shop: peluquería
 ---

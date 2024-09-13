@@ -1,5 +1,5 @@
 ---
 title: "Viajes Jerada"
 url: /reus/viajes-jerada/
-shop: Reisebüro
+shop: agencia de viajes
 ---

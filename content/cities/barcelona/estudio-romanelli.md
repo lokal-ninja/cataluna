@@ -1,5 +1,5 @@
 ---
 title: "Estudio Romanelli"
 url: /barcelona/estudio-romanelli/
-shop: Raumausstattung
+shop: decoración interior
 ---

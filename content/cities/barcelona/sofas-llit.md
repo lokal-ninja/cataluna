@@ -1,5 +1,5 @@
 ---
 title: "Sofas Llit"
 url: /barcelona/sofas-llit/
-shop: Möbel
+shop: muebles
 ---

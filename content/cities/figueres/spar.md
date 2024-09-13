@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /figueres/spar/
-shop: Supermarkt
+shop: supermercado
 ---

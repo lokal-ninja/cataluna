@@ -1,5 +1,5 @@
 ---
 title: "SXInformàtica"
 url: /cervera/sxinformatica/
-shop: Computer
+shop: ordenador
 ---

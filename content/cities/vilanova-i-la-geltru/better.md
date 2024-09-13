@@ -1,5 +1,5 @@
 ---
 title: "Better"
 url: /vilanova-i-la-geltru/better/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Per Pebrots"
 url: /barcelona/per-pebrots/
-shop: Gemüse & Obst
+shop: frutería
 ---

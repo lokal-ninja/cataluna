@@ -1,5 +1,5 @@
 ---
 title: "Estilistes Sonia"
 url: /cunit/estilistes-sonia/
-shop: Friseur
+shop: peluquería
 ---

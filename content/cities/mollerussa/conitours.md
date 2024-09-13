@@ -1,5 +1,5 @@
 ---
 title: "Conitours"
 url: /mollerussa/conitours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

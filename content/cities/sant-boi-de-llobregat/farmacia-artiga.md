@@ -1,5 +1,5 @@
 ---
 title: "Farmàcia Artiga"
 url: /sant-boi-de-llobregat/farmacia-artiga/
-shop: Optiker
+shop: óptico
 ---

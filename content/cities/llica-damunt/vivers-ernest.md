@@ -1,5 +1,5 @@
 ---
 title: "Vivers Ernest"
 url: /llica-damunt/vivers-ernest/
-shop: Garten-Center
+shop: centro de jardinería
 ---

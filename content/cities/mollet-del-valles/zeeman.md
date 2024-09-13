@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /mollet-del-valles/zeeman/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Isart Bikes"
 url: /martorell/isart-bikes/
-shop: Fahrrad
+shop: bicicleta
 ---

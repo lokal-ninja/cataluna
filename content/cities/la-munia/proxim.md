@@ -1,5 +1,5 @@
 ---
 title: "Proxim"
 url: /la-munia/proxim/
-shop: Supermarkt
+shop: supermercado
 ---

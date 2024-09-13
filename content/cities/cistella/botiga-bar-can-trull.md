@@ -1,5 +1,5 @@
 ---
 title: "Botiga/Bar Can Trull"
 url: /cistella/botiga-bar-can-trull/
-shop: Supermarkt
+shop: supermercado
 ---

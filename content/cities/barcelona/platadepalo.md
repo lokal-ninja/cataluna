@@ -1,5 +1,5 @@
 ---
 title: "Platadepalo"
 url: /barcelona/platadepalo/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /barcelona/condis-carrer-de-fluvia/
-shop: Supermarkt
+shop: supermercado
 ---

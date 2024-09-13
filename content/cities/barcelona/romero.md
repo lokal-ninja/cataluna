@@ -1,5 +1,5 @@
 ---
 title: "Romero"
 url: /barcelona/romero/
-shop: Friseur
+shop: peluquería
 ---

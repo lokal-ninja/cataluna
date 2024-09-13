@@ -1,5 +1,5 @@
 ---
 title: "Briefing Motos"
 url: /santa-coloma-de-cervello/briefing-motos/
-shop: Motorrad
+shop: motocicleta
 ---

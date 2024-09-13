@@ -1,5 +1,5 @@
 ---
 title: "Regals Carmena"
 url: /lleida/regals-carmena/
-shop: Andenken
+shop: regalo
 ---

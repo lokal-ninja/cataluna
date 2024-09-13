@@ -1,5 +1,5 @@
 ---
 title: "Farmàcia Oriol Carreras, Marina"
 url: /barcelona/farmacia-oriol-carreras-marina/
-shop: Drogerie
+shop: farmacia
 ---

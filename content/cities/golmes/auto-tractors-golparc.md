@@ -1,5 +1,5 @@
 ---
 title: "Auto-tractors Golparc"
 url: /golmes/auto-tractors-golparc/
-shop: Allgemein
+shop: general
 ---

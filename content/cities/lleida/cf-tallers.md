@@ -1,5 +1,5 @@
 ---
 title: "CF Tallers"
 url: /lleida/cf-tallers/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

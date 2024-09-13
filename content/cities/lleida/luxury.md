@@ -1,5 +1,5 @@
 ---
 title: "Luxury"
 url: /lleida/luxury/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

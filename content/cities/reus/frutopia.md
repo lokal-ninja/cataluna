@@ -1,5 +1,5 @@
 ---
 title: "Frutopia"
 url: /reus/frutopia/
-shop: Gemüse & Obst
+shop: frutería
 ---

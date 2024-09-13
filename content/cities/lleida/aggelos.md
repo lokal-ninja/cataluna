@@ -1,5 +1,5 @@
 ---
 title: "Aggelos"
 url: /lleida/aggelos/
-shop: Kleidung
+shop: ropa
 ---

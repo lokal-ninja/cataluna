@@ -1,5 +1,5 @@
 ---
 title: "Novavenda"
 url: /llanca/novavenda/
-shop: Supermarkt
+shop: supermercado
 ---

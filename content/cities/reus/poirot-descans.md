@@ -1,5 +1,5 @@
 ---
 title: "Poirot descans"
 url: /reus/poirot-descans/
-shop: Betten
+shop: cama
 ---

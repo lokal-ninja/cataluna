@@ -1,5 +1,5 @@
 ---
 title: "Tallers Miranda"
 url: /reus/tallers-miranda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

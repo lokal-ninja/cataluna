@@ -1,5 +1,5 @@
 ---
 title: "iMolle Serveis Informàtics SL"
 url: /mollerussa/imolle-serveis-informatics-sl/
-shop: Computer
+shop: ordenador
 ---

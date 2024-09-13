@@ -1,5 +1,5 @@
 ---
 title: "Trasters YoGuardo® - SANTS"
 url: /barcelona/trasters-yoguardo-r-sants/
-shop: Mieten
+shop: alquiler
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /lleida/game/
-shop: Videospiele
+shop: videojuegos
 ---

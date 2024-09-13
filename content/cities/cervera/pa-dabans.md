@@ -1,5 +1,5 @@
 ---
 title: "Pa d'abans"
 url: /cervera/pa-dabans/
-shop: Bäckerei
+shop: panadería
 ---

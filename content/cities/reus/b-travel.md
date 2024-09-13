@@ -1,5 +1,5 @@
 ---
 title: "B travel"
 url: /reus/b-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

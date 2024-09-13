@@ -1,5 +1,5 @@
 ---
 title: "Jordi"
 url: /badalona/jordi/
-shop: Drogerie
+shop: farmacia
 ---

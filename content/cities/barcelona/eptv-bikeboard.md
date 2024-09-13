@@ -1,5 +1,5 @@
 ---
 title: "ePTV-BikeBoard"
 url: /barcelona/eptv-bikeboard/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /roda-de-bera/aldi/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caprabo"
 url: /barcelona/caprabo-carrer-de-fluvia/
-shop: Supermarkt
+shop: supermercado
 ---

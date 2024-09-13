@@ -1,5 +1,5 @@
 ---
 title: "Rueda Elecromecànica"
 url: /almacelles/rueda-elecromecanica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

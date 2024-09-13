@@ -1,5 +1,5 @@
 ---
 title: "Forn d'en Pere"
 url: /barcelona/forn-den-pere/
-shop: Bäckerei
+shop: panadería
 ---

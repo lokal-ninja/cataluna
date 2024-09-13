@@ -1,5 +1,5 @@
 ---
 title: "Stilann"
 url: /lleida/stilann/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hiper Xina"
 url: /masquefa/hiper-xina/
-shop: Kramladen
+shop: tienda de variedades
 ---

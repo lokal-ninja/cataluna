@@ -1,5 +1,5 @@
 ---
 title: "Baró"
 url: /barcelona/baro/
-shop: Schmuck
+shop: joyería
 ---

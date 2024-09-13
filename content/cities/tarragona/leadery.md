@@ -1,5 +1,5 @@
 ---
 title: "Leadery"
 url: /tarragona/leadery/
-shop: Möbel
+shop: muebles
 ---

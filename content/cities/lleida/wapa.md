@@ -1,5 +1,5 @@
 ---
 title: "Wapa"
 url: /lleida/wapa/
-shop: Kleidung
+shop: ropa
 ---

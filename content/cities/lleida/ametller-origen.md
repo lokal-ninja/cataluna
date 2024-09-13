@@ -1,5 +1,5 @@
 ---
 title: "Ametller Origen"
 url: /lleida/ametller-origen/
-shop: Supermarkt
+shop: supermercado
 ---

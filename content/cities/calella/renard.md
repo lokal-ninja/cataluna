@@ -1,5 +1,5 @@
 ---
 title: "Renard"
 url: /calella/renard/
-shop: Kleidung
+shop: ropa
 ---

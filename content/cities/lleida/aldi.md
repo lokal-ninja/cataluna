@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lleida/aldi/
-shop: Supermarkt
+shop: supermercado
 ---

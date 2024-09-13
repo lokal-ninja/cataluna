@@ -1,5 +1,5 @@
 ---
 title: "Galeries Pins"
 url: /malgrat-de-mar/galeries-pins-passeig-maritim/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

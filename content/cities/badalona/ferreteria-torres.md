@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Torres"
 url: /badalona/ferreteria-torres/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

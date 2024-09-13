@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /taradell/bonpreu/
-shop: Supermarkt
+shop: supermercado
 ---

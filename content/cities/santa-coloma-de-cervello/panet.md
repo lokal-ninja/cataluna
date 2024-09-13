@@ -1,5 +1,5 @@
 ---
 title: "Panet"
 url: /santa-coloma-de-cervello/panet/
-shop: Bäckerei
+shop: panadería
 ---

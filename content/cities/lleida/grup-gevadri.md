@@ -1,5 +1,5 @@
 ---
 title: "Grup Gevadri"
 url: /lleida/grup-gevadri/
-shop: Allgemein
+shop: general
 ---

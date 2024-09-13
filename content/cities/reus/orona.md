@@ -1,5 +1,5 @@
 ---
 title: "Orona"
 url: /reus/orona/
-shop: Baustoffe
+shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Assum natura"
 url: /mataro/assum-natura/
-shop: Massage
+shop: masaje
 ---

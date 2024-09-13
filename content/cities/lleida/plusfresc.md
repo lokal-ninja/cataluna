@@ -1,5 +1,5 @@
 ---
 title: "Plusfresc"
 url: /lleida/plusfresc/
-shop: Supermarkt
+shop: supermercado
 ---

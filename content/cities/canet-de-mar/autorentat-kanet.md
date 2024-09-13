@@ -1,5 +1,5 @@
 ---
 title: "Autorentat Kanet"
 url: /canet-de-mar/autorentat-kanet/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

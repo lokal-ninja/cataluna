@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Marí"
 url: /vallirana/carniceria-mari/
-shop: Metzgerei
+shop: carnicero
 ---

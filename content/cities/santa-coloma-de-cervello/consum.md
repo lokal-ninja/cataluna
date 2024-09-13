@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /santa-coloma-de-cervello/consum/
-shop: Supermarkt
+shop: supermercado
 ---

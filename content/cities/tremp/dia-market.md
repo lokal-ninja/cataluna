@@ -1,5 +1,5 @@
 ---
 title: "Dia Market"
 url: /tremp/dia-market/
-shop: Supermarkt
+shop: supermercado
 ---

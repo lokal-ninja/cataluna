@@ -1,5 +1,5 @@
 ---
 title: "Plaimont"
 url: /santa-coloma-de-farners/plaimont/
-shop: Reisebüro
+shop: agencia de viajes
 ---

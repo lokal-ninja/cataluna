@@ -1,5 +1,5 @@
 ---
 title: "Auto-nautical Detailing"
 url: /reus/auto-nautical-detailing/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

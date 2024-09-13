@@ -1,5 +1,5 @@
 ---
 title: "MiquiGas"
 url: /girona/miquigas/
-shop: Motorrad
+shop: motocicleta
 ---

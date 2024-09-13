@@ -1,5 +1,5 @@
 ---
 title: "Xing Long"
 url: /badalona/xing-long/
-shop: Kleidung
+shop: ropa
 ---

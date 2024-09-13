@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /girona/casa/
-shop: Raumausstattung
+shop: decoración interior
 ---

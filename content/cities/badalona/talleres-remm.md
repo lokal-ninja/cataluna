@@ -1,5 +1,5 @@
 ---
 title: "Talleres REMM"
 url: /badalona/talleres-remm/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

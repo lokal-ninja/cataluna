@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /barcelona/alcampo/
-shop: Supermarkt
+shop: supermercado
 ---

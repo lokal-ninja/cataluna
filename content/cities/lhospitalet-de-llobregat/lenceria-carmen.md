@@ -1,5 +1,5 @@
 ---
 title: "Lencería Carmen"
 url: /lhospitalet-de-llobregat/lenceria-carmen/
-shop: Kleidung
+shop: ropa
 ---

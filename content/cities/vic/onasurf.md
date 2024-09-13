@@ -1,5 +1,5 @@
 ---
 title: "OnaSurf"
 url: /vic/onasurf/
-shop: Kleidung
+shop: ropa
 ---

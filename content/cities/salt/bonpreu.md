@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /salt/bonpreu/
-shop: Supermarkt
+shop: supermercado
 ---

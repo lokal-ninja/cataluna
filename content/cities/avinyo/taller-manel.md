@@ -1,5 +1,5 @@
 ---
 title: "Taller Manel"
 url: /avinyo/taller-manel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

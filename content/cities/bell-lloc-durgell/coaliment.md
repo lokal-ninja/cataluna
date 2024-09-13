@@ -1,5 +1,5 @@
 ---
 title: "Coaliment"
 url: /bell-lloc-durgell/coaliment/
-shop: Supermarkt
+shop: supermercado
 ---

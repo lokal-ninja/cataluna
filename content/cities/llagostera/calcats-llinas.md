@@ -1,5 +1,5 @@
 ---
 title: "Calçats Llinàs"
 url: /llagostera/calcats-llinas/
-shop: Schuhe
+shop: zapatos
 ---

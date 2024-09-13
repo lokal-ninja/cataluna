@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /guissona/clarel/
-shop: Drogerie
+shop: farmacia
 ---

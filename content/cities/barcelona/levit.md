@@ -1,5 +1,5 @@
 ---
 title: "Levit"
 url: /barcelona/levit/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

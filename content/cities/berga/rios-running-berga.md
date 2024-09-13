@@ -1,5 +1,5 @@
 ---
 title: "Ríos Running Berga"
 url: /berga/rios-running-berga/
-shop: Sport
+shop: deportes
 ---

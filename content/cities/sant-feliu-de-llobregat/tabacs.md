@@ -1,5 +1,5 @@
 ---
 title: "Tabacs"
 url: /sant-feliu-de-llobregat/tabacs/
-shop: Tabak
+shop: tabaco
 ---

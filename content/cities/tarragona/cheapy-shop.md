@@ -1,5 +1,5 @@
 ---
 title: "Cheapy Shop"
 url: /tarragona/cheapy-shop/
-shop: Kramladen
+shop: tienda de variedades
 ---

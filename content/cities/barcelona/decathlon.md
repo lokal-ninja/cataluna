@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /barcelona/decathlon/
-shop: Sport
+shop: deportes
 ---

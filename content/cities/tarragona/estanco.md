@@ -1,5 +1,5 @@
 ---
 title: "Estanco"
 url: /tarragona/estanco/
-shop: Tabak
+shop: tabaco
 ---

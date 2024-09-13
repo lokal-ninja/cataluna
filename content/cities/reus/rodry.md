@@ -1,5 +1,5 @@
 ---
 title: "Rodry"
 url: /reus/rodry/
-shop: Autohaus
+shop: coche
 ---

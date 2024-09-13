@@ -1,5 +1,5 @@
 ---
 title: "Ferrer"
 url: /sant-celoni/ferrer/
-shop: Bäckerei
+shop: panadería
 ---

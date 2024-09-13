@@ -1,5 +1,5 @@
 ---
 title: "Desigual"
 url: /bossost/desigual/
-shop: Kleidung
+shop: ropa
 ---

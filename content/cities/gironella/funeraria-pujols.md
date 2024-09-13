@@ -1,5 +1,5 @@
 ---
 title: "Funerària Pujols"
 url: /gironella/funeraria-pujols/
-shop: Bestattungen
+shop: directores de funerarias
 ---

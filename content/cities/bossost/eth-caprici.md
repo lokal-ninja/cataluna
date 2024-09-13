@@ -1,5 +1,5 @@
 ---
 title: "Eth Caprici"
 url: /bossost/eth-caprici/
-shop: Kleidung
+shop: ropa
 ---

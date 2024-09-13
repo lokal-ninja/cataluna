@@ -1,5 +1,5 @@
 ---
 title: "Esther Falcó Bardina"
 url: /juneda/esther-falco-bardina/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /sant-cugat-del-valles/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

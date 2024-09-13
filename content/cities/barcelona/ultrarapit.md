@@ -1,5 +1,5 @@
 ---
 title: "Ultrarapit"
 url: /barcelona/ultrarapit/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

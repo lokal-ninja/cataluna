@@ -1,5 +1,5 @@
 ---
 title: "Ca l'Armela"
 url: /la-cellera-de-ter/ca-larmela/
-shop: Süßwaren
+shop: confitería
 ---

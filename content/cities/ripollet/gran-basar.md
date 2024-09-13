@@ -1,5 +1,5 @@
 ---
 title: "Gran Basar"
 url: /ripollet/gran-basar/
-shop: Kramladen
+shop: tienda de variedades
 ---

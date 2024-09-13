@@ -1,5 +1,5 @@
 ---
 title: "Làctics Foix"
 url: /torrelles-de-foix/lactics-foix/
-shop: Milch
+shop: lácteos
 ---

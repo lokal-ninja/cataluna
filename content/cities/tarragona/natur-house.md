@@ -1,5 +1,5 @@
 ---
 title: "Natur House"
 url: /tarragona/natur-house/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

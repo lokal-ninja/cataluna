@@ -1,5 +1,5 @@
 ---
 title: "Vicens"
 url: /gironella/vicens/
-shop: Friseur
+shop: peluquería
 ---

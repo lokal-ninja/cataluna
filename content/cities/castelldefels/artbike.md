@@ -1,5 +1,5 @@
 ---
 title: "Artbike"
 url: /castelldefels/artbike/
-shop: Fahrrad
+shop: bicicleta
 ---

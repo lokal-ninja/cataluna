@@ -1,5 +1,5 @@
 ---
 title: "Estanc Llacets"
 url: /vallgorguina/estanc-llacets/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /ripollet/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

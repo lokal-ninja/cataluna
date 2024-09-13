@@ -1,5 +1,5 @@
 ---
 title: "Tteknic"
 url: /roca-del-valles-la/tteknic/
-shop: Handy
+shop: teléfono móvil
 ---

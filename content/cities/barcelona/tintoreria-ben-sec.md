@@ -1,5 +1,5 @@
 ---
 title: "Tintoreria Ben Sec"
 url: /barcelona/tintoreria-ben-sec/
-shop: Wäscherei
+shop: lavandería
 ---

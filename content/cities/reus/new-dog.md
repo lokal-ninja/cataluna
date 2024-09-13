@@ -1,5 +1,5 @@
 ---
 title: "New Dog"
 url: /reus/new-dog/
-shop: Tiersalon
+shop: peluquería canina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vilcar"
 url: /lleida/vilcar/
-shop: Elektronik
+shop: electrónica
 ---

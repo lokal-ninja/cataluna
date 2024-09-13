@@ -1,5 +1,5 @@
 ---
 title: "Noguera"
 url: /girona/noguera/
-shop: Süßwaren
+shop: confitería
 ---

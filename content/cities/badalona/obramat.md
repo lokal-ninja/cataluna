@@ -1,5 +1,5 @@
 ---
 title: "Obramat"
 url: /badalona/obramat/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

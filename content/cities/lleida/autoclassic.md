@@ -1,5 +1,5 @@
 ---
 title: "Autoclàssic"
 url: /lleida/autoclassic/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

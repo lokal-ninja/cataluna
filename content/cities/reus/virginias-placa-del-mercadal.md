@@ -1,5 +1,5 @@
 ---
 title: "Virginias"
 url: /reus/virginias-placa-del-mercadal/
-shop: Konditorei
+shop: pastelería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "casaLandia"
 url: /barcelona/casalandia/
-shop: Kramladen
+shop: tienda de variedades
 ---

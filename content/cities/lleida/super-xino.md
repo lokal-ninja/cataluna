@@ -1,5 +1,5 @@
 ---
 title: "Super Xino"
 url: /lleida/super-xino/
-shop: Kramladen
+shop: tienda de variedades
 ---

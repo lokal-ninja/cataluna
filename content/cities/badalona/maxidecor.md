@@ -1,5 +1,5 @@
 ---
 title: "Maxidecor"
 url: /badalona/maxidecor/
-shop: Farben
+shop: pintura
 ---

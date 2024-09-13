@@ -1,5 +1,5 @@
 ---
 title: "Xaloc"
 url: /girona/xaloc/
-shop: Parfümerie
+shop: perfumería
 ---

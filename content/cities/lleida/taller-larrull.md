@@ -1,5 +1,5 @@
 ---
 title: "Taller Larrull"
 url: /lleida/taller-larrull/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

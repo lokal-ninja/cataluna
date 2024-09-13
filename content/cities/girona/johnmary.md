@@ -1,5 +1,5 @@
 ---
 title: "Johnmary"
 url: /girona/johnmary/
-shop: Friseur
+shop: peluquería
 ---

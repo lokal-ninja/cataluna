@@ -1,5 +1,5 @@
 ---
 title: "Perruqueria Beffi"
 url: /lestartit/perruqueria-beffi/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flexicar.es"
 url: /reus/flexicar-es/
-shop: Autohaus
+shop: coche
 ---

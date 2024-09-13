@@ -1,5 +1,5 @@
 ---
 title: "Talleres Ángel"
 url: /badalona/talleres-angel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suma"
 url: /martorell/suma/
-shop: Supermarkt
+shop: supermercado
 ---

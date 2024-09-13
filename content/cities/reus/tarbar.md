@@ -1,5 +1,5 @@
 ---
 title: "Tarbar"
 url: /reus/tarbar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

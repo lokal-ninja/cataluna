@@ -1,5 +1,5 @@
 ---
 title: "Sabateries Lares"
 url: /vilanova-i-la-geltru/sabateries-lares/
-shop: Schuhe
+shop: zapatos
 ---

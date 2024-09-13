@@ -1,5 +1,5 @@
 ---
 title: "Lorena"
 url: /tarragona/lorena/
-shop: Schuhe
+shop: zapatos
 ---

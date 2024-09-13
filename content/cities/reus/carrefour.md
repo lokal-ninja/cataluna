@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /reus/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Covirand"
 url: /barcelona/covirand/
-shop: Supermarkt
+shop: supermercado
 ---

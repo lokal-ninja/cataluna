@@ -1,5 +1,5 @@
 ---
 title: "Comercial Mena"
 url: /balaguer/comercial-mena/
-shop: Großhandel
+shop: mayorista
 ---

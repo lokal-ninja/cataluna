@@ -1,5 +1,5 @@
 ---
 title: "Barimueble"
 url: /martorell/barimueble/
-shop: Möbel
+shop: muebles
 ---

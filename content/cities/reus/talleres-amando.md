@@ -1,5 +1,5 @@
 ---
 title: "Talleres Amando"
 url: /reus/talleres-amando/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

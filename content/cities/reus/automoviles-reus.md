@@ -1,5 +1,5 @@
 ---
 title: "Automoviles Reus"
 url: /reus/automoviles-reus/
-shop: Autohaus
+shop: coche
 ---

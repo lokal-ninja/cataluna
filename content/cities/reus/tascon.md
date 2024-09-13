@@ -1,5 +1,5 @@
 ---
 title: "Tascón"
 url: /reus/tascon/
-shop: Schuhe
+shop: zapatos
 ---

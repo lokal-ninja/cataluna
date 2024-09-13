@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /balaguer/zeeman/
-shop: Kleidung
+shop: ropa
 ---

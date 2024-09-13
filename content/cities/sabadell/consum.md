@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /sabadell/consum/
-shop: Supermarkt
+shop: supermercado
 ---

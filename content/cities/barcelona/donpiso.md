@@ -1,5 +1,5 @@
 ---
 title: "donpiso"
 url: /barcelona/donpiso/
-shop: Immobilien
+shop: agente inmobiliario
 ---

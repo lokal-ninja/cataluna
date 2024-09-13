@@ -1,5 +1,5 @@
 ---
 title: "Pirobres"
 url: /cardedeu/pirobres/
-shop: Pyrotechnik
+shop: pirotecnia
 ---

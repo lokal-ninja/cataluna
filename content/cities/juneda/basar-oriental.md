@@ -1,5 +1,5 @@
 ---
 title: "Basar Oriental"
 url: /juneda/basar-oriental/
-shop: Kramladen
+shop: tienda de variedades
 ---

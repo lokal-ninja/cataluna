@@ -1,5 +1,5 @@
 ---
 title: "BonÀrea"
 url: /linyola/bonarea/
-shop: Supermarkt
+shop: supermercado
 ---

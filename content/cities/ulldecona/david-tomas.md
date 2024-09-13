@@ -1,5 +1,5 @@
 ---
 title: "David Tomàs"
 url: /ulldecona/david-tomas/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

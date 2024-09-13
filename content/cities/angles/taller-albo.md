@@ -1,5 +1,5 @@
 ---
 title: "Taller Albó"
 url: /angles/taller-albo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CamperTecnologies"
 url: /manresa/campertecnologies/
-shop: Wohnwagen
+shop: caravana
 ---

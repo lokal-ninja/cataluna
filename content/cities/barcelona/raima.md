@@ -1,5 +1,5 @@
 ---
 title: "Raima"
 url: /barcelona/raima/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CASA"
 url: /barcelona/casa/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Basar Orient"
 url: /barcelona/basar-orient-carrer-de-casteras/
-shop: Kramladen
+shop: tienda de variedades
 ---

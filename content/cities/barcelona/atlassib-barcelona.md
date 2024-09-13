@@ -1,5 +1,5 @@
 ---
 title: "Atlassib Barcelona"
 url: /barcelona/atlassib-barcelona/
-shop: Reisebüro
+shop: agencia de viajes
 ---

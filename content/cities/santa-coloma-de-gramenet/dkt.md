@@ -1,5 +1,5 @@
 ---
 title: "DKT"
 url: /santa-coloma-de-gramenet/dkt/
-shop: Kleidung
+shop: ropa
 ---

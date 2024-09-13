@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /girona/consum/
-shop: Supermarkt
+shop: supermercado
 ---

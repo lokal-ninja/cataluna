@@ -1,5 +1,5 @@
 ---
 title: "Flors Maresme"
 url: /vilassar-de-mar/flors-maresme/
-shop: Blumen
+shop: floristería
 ---

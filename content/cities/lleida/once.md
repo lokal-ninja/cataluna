@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
 url: /lleida/once/
-shop: Lotterie
+shop: lotería
 ---

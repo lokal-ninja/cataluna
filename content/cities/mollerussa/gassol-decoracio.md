@@ -1,5 +1,5 @@
 ---
 title: "Gassol decoració"
 url: /mollerussa/gassol-decoracio/
-shop: Raumausstattung
+shop: decoración interior
 ---

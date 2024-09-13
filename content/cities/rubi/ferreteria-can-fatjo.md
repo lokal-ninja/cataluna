@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria can fatjó"
 url: /rubi/ferreteria-can-fatjo/
-shop: Eisenwaren
+shop: hardware
 ---

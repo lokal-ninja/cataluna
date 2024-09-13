@@ -1,5 +1,5 @@
 ---
 title: "Ayats Cycles"
 url: /sant-feliu-de-guixols/ayats-cycles/
-shop: Fahrrad
+shop: bicicleta
 ---

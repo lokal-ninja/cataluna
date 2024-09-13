@@ -1,5 +1,5 @@
 ---
 title: "Legends"
 url: /lleida/legends/
-shop: Kleidung
+shop: ropa
 ---

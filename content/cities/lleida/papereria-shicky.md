@@ -1,5 +1,5 @@
 ---
 title: "Papereria Shicky"
 url: /lleida/papereria-shicky/
-shop: Schreibwaren
+shop: material de oficina
 ---

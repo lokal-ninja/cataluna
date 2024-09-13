@@ -1,5 +1,5 @@
 ---
 title: "Bricoestació"
 url: /blanes/bricoestacio/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

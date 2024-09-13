@@ -1,5 +1,5 @@
 ---
 title: "VBSPORTS Vilafranca"
 url: /vilafranca-del-penedes/vbsports-vilafranca/
-shop: Fahrrad
+shop: bicicleta
 ---

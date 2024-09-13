@@ -1,5 +1,5 @@
 ---
 title: "Eterna"
 url: /bossost/eterna/
-shop: Bücher
+shop: libros
 ---

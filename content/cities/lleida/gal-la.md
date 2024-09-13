@@ -1,5 +1,5 @@
 ---
 title: "Gal·la"
 url: /lleida/gal-la/
-shop: Kleidung
+shop: ropa
 ---

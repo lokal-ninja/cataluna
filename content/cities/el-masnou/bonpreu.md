@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /el-masnou/bonpreu/
-shop: Supermarkt
+shop: supermercado
 ---

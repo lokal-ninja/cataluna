@@ -1,5 +1,5 @@
 ---
 title: "Casas"
 url: /sabadell/casas/
-shop: Schuhe
+shop: zapatos
 ---

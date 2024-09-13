@@ -1,5 +1,5 @@
 ---
 title: "Emac"
 url: /lleida/emac/
-shop: Elektronik
+shop: electrónica
 ---

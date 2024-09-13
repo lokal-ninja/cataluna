@@ -1,5 +1,5 @@
 ---
 title: "Gotta"
 url: /tremp/gotta/
-shop: Parfümerie
+shop: perfumería
 ---

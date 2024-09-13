@@ -1,5 +1,5 @@
 ---
 title: "Textura"
 url: /barcelona/textura/
-shop: Raumausstattung
+shop: decoración interior
 ---

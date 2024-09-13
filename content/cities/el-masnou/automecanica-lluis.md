@@ -1,5 +1,5 @@
 ---
 title: "Automecànica Lluís"
 url: /el-masnou/automecanica-lluis/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

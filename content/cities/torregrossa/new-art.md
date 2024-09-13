@@ -1,5 +1,5 @@
 ---
 title: "New Art"
 url: /torregrossa/new-art/
-shop: Basteln
+shop: artesanía
 ---

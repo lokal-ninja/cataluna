@@ -1,5 +1,5 @@
 ---
 title: "Smile Home"
 url: /barcelona/smile-home/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GBS Automoció"
 url: /lleida/gbs-automocio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

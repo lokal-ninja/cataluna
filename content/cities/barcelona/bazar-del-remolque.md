@@ -1,5 +1,5 @@
 ---
 title: "Bazar del remolque"
 url: /barcelona/bazar-del-remolque/
-shop: Autoteile
+shop: piezas de automóviles
 ---

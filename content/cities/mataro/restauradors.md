@@ -1,5 +1,5 @@
 ---
 title: "Restauradors"
 url: /mataro/restauradors/
-shop: Möbel
+shop: muebles
 ---

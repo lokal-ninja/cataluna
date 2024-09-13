@@ -1,5 +1,5 @@
 ---
 title: "Impaktes Visuals"
 url: /sabadell/impaktes-visuals/
-shop: Andenken
+shop: regalo
 ---

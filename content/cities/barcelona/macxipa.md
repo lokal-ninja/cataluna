@@ -1,5 +1,5 @@
 ---
 title: "Macxipa"
 url: /barcelona/macxipa/
-shop: Bäckerei
+shop: panadería
 ---

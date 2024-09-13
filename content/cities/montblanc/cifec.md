@@ -1,5 +1,5 @@
 ---
 title: "Cifec"
 url: /montblanc/cifec/
-shop: Eisenwaren
+shop: hardware
 ---

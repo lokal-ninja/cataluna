@@ -1,5 +1,5 @@
 ---
 title: "Aurgi Mataró"
 url: /mataro/aurgi-mataro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

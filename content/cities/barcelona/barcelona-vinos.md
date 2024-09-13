@@ -1,5 +1,5 @@
 ---
 title: "Barcelona Vinos"
 url: /barcelona/barcelona-vinos/
-shop: Wein
+shop: vino
 ---

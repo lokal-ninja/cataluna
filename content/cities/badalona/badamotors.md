@@ -1,5 +1,5 @@
 ---
 title: "Badamotors"
 url: /badalona/badamotors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

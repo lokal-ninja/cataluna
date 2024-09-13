@@ -1,5 +1,5 @@
 ---
 title: "Misako"
 url: /lleida/misako/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perfumería Ondina"
 url: /berga/perfumeria-ondina/
-shop: Parfümerie
+shop: perfumería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluquería OD Formes"
 url: /terrassa/peluqueria-od-formes/
-shop: Friseur
+shop: peluquería
 ---

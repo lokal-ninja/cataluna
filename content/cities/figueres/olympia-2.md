@@ -1,5 +1,5 @@
 ---
 title: "Olympia 2"
 url: /figueres/olympia-2/
-shop: Fahrrad
+shop: bicicleta
 ---

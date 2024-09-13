@@ -1,5 +1,5 @@
 ---
 title: "Burricleta Alt Emporda"
 url: /roses/burricleta-alt-emporda/
-shop: Fahrrad
+shop: bicicleta
 ---

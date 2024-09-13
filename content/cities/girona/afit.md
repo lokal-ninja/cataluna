@@ -1,5 +1,5 @@
 ---
 title: "Afit"
 url: /girona/afit/
-shop: Schreibwaren
+shop: material de oficina
 ---

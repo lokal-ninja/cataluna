@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /lleida/trek/
-shop: Fahrrad
+shop: bicicleta
 ---

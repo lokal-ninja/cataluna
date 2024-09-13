@@ -1,5 +1,5 @@
 ---
 title: "Bellera"
 url: /la-pobla-de-segur/bellera/
-shop: Metzgerei
+shop: carnicero
 ---

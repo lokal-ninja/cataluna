@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /sant-cugat-del-valles/primark/
-shop: Kleidung
+shop: ropa
 ---

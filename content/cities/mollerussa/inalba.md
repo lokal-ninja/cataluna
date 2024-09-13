@@ -1,5 +1,5 @@
 ---
 title: "Inalba"
 url: /mollerussa/inalba/
-shop: Bäckerei
+shop: panadería
 ---

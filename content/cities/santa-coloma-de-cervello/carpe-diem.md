@@ -1,5 +1,5 @@
 ---
 title: "Carpe Diem"
 url: /santa-coloma-de-cervello/carpe-diem/
-shop: Kosmetik
+shop: cosméticos
 ---

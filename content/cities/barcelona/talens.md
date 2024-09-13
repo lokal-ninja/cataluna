@@ -1,5 +1,5 @@
 ---
 title: "Talens"
 url: /barcelona/talens/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /barcelona/dia-carrer-vinyar/
-shop: Supermarkt
+shop: supermercado
 ---

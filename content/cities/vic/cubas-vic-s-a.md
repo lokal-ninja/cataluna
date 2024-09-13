@@ -1,5 +1,5 @@
 ---
 title: "Cubas Vic, S.A."
 url: /vic/cubas-vic-s-a/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

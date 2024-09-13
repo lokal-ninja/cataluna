@@ -1,5 +1,5 @@
 ---
 title: "Esclat"
 url: /torello/esclat/
-shop: Supermarkt
+shop: supermercado
 ---

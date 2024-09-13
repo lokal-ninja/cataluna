@@ -1,5 +1,5 @@
 ---
 title: "Saló Bogué"
 url: /reus/salo-bogue/
-shop: Friseur
+shop: peluquería
 ---

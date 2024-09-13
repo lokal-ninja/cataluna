@@ -1,5 +1,5 @@
 ---
 title: "Yolanda Escuer"
 url: /alpicat/yolanda-escuer/
-shop: Kleidung
+shop: ropa
 ---

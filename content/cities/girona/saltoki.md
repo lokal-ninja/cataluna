@@ -1,5 +1,5 @@
 ---
 title: "Saltoki"
 url: /girona/saltoki/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

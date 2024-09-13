@@ -1,5 +1,5 @@
 ---
 title: "Quel Natur"
 url: /badia-del-valles/quel-natur/
-shop: Kosmetik
+shop: cosméticos
 ---

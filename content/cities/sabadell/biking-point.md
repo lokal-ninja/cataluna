@@ -1,5 +1,5 @@
 ---
 title: "Biking Point"
 url: /sabadell/biking-point/
-shop: Fahrrad
+shop: bicicleta
 ---

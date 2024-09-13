@@ -1,5 +1,5 @@
 ---
 title: "Cava Carles Andreu"
 url: /pira/cava-carles-andreu/
-shop: Wein
+shop: vino
 ---

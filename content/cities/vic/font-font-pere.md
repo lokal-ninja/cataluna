@@ -1,5 +1,5 @@
 ---
 title: "Font Font Pere"
 url: /vic/font-font-pere/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /sant-feliu-de-llobregat/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

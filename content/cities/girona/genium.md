@@ -1,5 +1,5 @@
 ---
 title: "Genium"
 url: /girona/genium/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

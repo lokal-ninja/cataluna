@@ -1,5 +1,5 @@
 ---
 title: "Rodaments Sícoris"
 url: /lleida/rodaments-sicoris/
-shop: Autoteile
+shop: piezas de automóviles
 ---

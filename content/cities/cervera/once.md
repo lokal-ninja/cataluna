@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
 url: /cervera/once/
-shop: Lotterie
+shop: lotería
 ---

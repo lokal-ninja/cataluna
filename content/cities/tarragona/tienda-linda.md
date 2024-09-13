@@ -1,5 +1,5 @@
 ---
 title: "Tienda Linda"
 url: /tarragona/tienda-linda/
-shop: Kramladen
+shop: tienda de variedades
 ---

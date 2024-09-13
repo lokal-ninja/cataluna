@@ -1,5 +1,5 @@
 ---
 title: "Tesla Center Barcelona-Metalurgia"
 url: /barcelona/tesla-center-barcelona-metalurgia/
-shop: Autohaus
+shop: coche
 ---

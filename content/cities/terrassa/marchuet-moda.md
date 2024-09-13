@@ -1,5 +1,5 @@
 ---
 title: "Marchuet Moda"
 url: /terrassa/marchuet-moda/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /barcelona/adidas/
-shop: Sport
+shop: deportes
 ---

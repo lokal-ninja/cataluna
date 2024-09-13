@@ -1,5 +1,5 @@
 ---
 title: "Petardos CM"
 url: /lleida/petardos-cm/
-shop: Pyrotechnik
+shop: pirotecnia
 ---

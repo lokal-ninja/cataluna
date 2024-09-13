@@ -1,5 +1,5 @@
 ---
 title: "Merca China"
 url: /lleida/merca-china/
-shop: Kramladen
+shop: tienda de variedades
 ---

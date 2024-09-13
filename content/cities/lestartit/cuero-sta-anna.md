@@ -1,5 +1,5 @@
 ---
 title: "Cuero Sta. Anna"
 url: /lestartit/cuero-sta-anna/
-shop: Leder
+shop: cuero
 ---

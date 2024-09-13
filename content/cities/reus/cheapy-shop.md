@@ -1,5 +1,5 @@
 ---
 title: "Cheapy Shop"
 url: /reus/cheapy-shop/
-shop: Kramladen
+shop: tienda de variedades
 ---

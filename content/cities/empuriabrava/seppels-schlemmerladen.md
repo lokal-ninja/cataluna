@@ -1,5 +1,5 @@
 ---
 title: "Seppels Schlemmerladen"
 url: /empuriabrava/seppels-schlemmerladen/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tot Bo"
 url: /lleida/tot-bo/
-shop: Supermarkt
+shop: supermercado
 ---

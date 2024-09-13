@@ -1,5 +1,5 @@
 ---
 title: "Paqtek"
 url: /lleida/paqtek/
-shop: Handy
+shop: teléfono móvil
 ---

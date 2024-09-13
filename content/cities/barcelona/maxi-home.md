@@ -1,5 +1,5 @@
 ---
 title: "Maxi Home"
 url: /barcelona/maxi-home/
-shop: Kramladen
+shop: tienda de variedades
 ---

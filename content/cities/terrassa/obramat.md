@@ -1,5 +1,5 @@
 ---
 title: "Obramat"
 url: /terrassa/obramat/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

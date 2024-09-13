@@ -1,5 +1,5 @@
 ---
 title: "Perustocks"
 url: /reus/perustocks/
-shop: Lebensmittel
+shop: comodidad
 ---

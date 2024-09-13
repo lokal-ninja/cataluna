@@ -1,5 +1,5 @@
 ---
 title: "NutriMollet"
 url: /mollet-del-valles/nutrimollet/
-shop: Bioladen
+shop: alimentación sana
 ---

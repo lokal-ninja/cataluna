@@ -1,5 +1,5 @@
 ---
 title: "Xarcuteria Porté"
 url: /mollerussa/xarcuteria-porte/
-shop: Metzgerei
+shop: carnicero
 ---

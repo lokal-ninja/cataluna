@@ -1,5 +1,5 @@
 ---
 title: "La Casa"
 url: /barcelona/la-casa/
-shop: Kramladen
+shop: tienda de variedades
 ---

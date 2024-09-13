@@ -1,5 +1,5 @@
 ---
 title: "Primoto Lleida"
 url: /lleida/primoto-lleida/
-shop: Motorrad
+shop: motocicleta
 ---

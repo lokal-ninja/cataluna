@@ -1,5 +1,5 @@
 ---
 title: "Ordeig / Macxipan"
 url: /ripollet/ordeig-macxipan/
-shop: Bäckerei
+shop: panadería
 ---

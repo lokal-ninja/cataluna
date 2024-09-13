@@ -1,5 +1,5 @@
 ---
 title: "Hardware Store"
 url: /tortosa/hardware-store/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /reus/game/
-shop: Videospiele
+shop: videojuegos
 ---

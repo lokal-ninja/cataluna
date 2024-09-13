@@ -1,5 +1,5 @@
 ---
 title: "Bike Mobility"
 url: /el-masnou/bike-mobility/
-shop: Fahrrad
+shop: bicicleta
 ---

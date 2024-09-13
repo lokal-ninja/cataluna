@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /vielha/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

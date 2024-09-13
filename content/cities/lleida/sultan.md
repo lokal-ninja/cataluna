@@ -1,5 +1,5 @@
 ---
 title: "Sultan"
 url: /lleida/sultan/
-shop: Metzgerei
+shop: carnicero
 ---

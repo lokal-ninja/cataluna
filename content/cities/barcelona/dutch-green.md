@@ -1,5 +1,5 @@
 ---
 title: "Dutch-Green"
 url: /barcelona/dutch-green/
-shop: Hanf
+shop: cannabis
 ---

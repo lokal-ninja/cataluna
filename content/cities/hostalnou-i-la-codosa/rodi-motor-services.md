@@ -1,5 +1,5 @@
 ---
 title: "RODI Motor Services"
 url: /hostalnou-i-la-codosa/rodi-motor-services/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

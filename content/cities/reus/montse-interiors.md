@@ -1,5 +1,5 @@
 ---
 title: "montse interiors"
 url: /reus/montse-interiors/
-shop: Allgemein
+shop: general
 ---

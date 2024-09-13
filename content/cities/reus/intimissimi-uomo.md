@@ -1,5 +1,5 @@
 ---
 title: "Intimissimi Uomo"
 url: /reus/intimissimi-uomo/
-shop: Kleidung
+shop: ropa
 ---

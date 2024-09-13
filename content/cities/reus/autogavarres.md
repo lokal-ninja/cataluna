@@ -1,5 +1,5 @@
 ---
 title: "Autogavarres"
 url: /reus/autogavarres/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

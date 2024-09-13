@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /girona/tedi/
-shop: Kramladen
+shop: tienda de variedades
 ---

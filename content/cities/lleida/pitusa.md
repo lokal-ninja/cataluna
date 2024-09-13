@@ -1,5 +1,5 @@
 ---
 title: "Pitusa"
 url: /lleida/pitusa/
-shop: Kleidung
+shop: ropa
 ---

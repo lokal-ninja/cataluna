@@ -1,5 +1,5 @@
 ---
 title: "Domestico"
 url: /barcelona/domestico/
-shop: Raumausstattung
+shop: decoración interior
 ---

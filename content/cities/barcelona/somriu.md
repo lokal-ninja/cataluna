@@ -1,5 +1,5 @@
 ---
 title: "Somriu"
 url: /barcelona/somriu/
-shop: Kramladen
+shop: tienda de variedades
 ---

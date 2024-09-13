@@ -1,5 +1,5 @@
 ---
 title: "L'Arca De Sants"
 url: /barcelona/larca-de-sants/
-shop: Tiere
+shop: mascotas
 ---

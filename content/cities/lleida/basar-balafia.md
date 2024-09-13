@@ -1,5 +1,5 @@
 ---
 title: "Basar Balàfia"
 url: /lleida/basar-balafia/
-shop: Kramladen
+shop: tienda de variedades
 ---

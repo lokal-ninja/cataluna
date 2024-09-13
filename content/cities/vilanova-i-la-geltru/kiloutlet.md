@@ -1,5 +1,5 @@
 ---
 title: "KilOutlet"
 url: /vilanova-i-la-geltru/kiloutlet/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ofimat"
 url: /manresa/ofimat/
-shop: Computer
+shop: ordenador
 ---

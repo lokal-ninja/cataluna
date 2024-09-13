@@ -1,5 +1,5 @@
 ---
 title: "Bus Plana"
 url: /salou/bus-plana/
-shop: Reisebüro
+shop: agencia de viajes
 ---

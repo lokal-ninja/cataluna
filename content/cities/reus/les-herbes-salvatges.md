@@ -1,5 +1,5 @@
 ---
 title: "Les herbes salvatges"
 url: /reus/les-herbes-salvatges/
-shop: Kräuter
+shop: herbolario
 ---

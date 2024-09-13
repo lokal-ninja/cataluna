@@ -1,5 +1,5 @@
 ---
 title: "DISPUNT-Marta"
 url: /cornella-de-llobregat/dispunt-marta/
-shop: Drogerie
+shop: farmacia
 ---

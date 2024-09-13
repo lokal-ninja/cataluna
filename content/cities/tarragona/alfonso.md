@@ -1,5 +1,5 @@
 ---
 title: "Alfonso"
 url: /tarragona/alfonso/
-shop: Friseur
+shop: peluquería
 ---

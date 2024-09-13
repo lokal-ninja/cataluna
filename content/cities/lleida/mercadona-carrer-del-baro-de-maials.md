@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /lleida/mercadona-carrer-del-baro-de-maials/
-shop: Supermarkt
+shop: supermercado
 ---

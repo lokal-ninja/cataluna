@@ -1,5 +1,5 @@
 ---
 title: "Hira Concept"
 url: /tremp/hira-concept/
-shop: Kleidung
+shop: ropa
 ---

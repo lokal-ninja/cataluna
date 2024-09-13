@@ -1,5 +1,5 @@
 ---
 title: "Artepans"
 url: /lleida/artepans/
-shop: Bäckerei
+shop: panadería
 ---

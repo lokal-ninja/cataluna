@@ -1,5 +1,5 @@
 ---
 title: "Forn de Pa"
 url: /lleida/forn-de-pa/
-shop: Bäckerei
+shop: panadería
 ---

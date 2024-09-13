@@ -1,5 +1,5 @@
 ---
 title: "VALERO"
 url: /mollerussa/valero/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lleida/spar/
-shop: Supermarkt
+shop: supermercado
 ---

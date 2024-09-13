@@ -1,5 +1,5 @@
 ---
 title: "Amphibia - Art Ecològic"
 url: /sant-andreu-de-la-barca/amphibia-art-ecologic/
-shop: Blumen
+shop: floristería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Women'secret"
 url: /sant-cugat-del-valles/womensecret/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Merkalzados"
 url: /tarragona/merkalzados/
-shop: Schuhe
+shop: zapatos
 ---

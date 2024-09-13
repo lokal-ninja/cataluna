@@ -1,5 +1,5 @@
 ---
 title: "Baluard"
 url: /barcelona/baluard/
-shop: Bäckerei
+shop: panadería
 ---

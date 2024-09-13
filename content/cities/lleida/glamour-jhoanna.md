@@ -1,5 +1,5 @@
 ---
 title: "Glamour Jhoanna"
 url: /lleida/glamour-jhoanna/
-shop: Kleidung
+shop: ropa
 ---

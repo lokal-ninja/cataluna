@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Correoso"
 url: /santa-coloma-de-gramenet/ferreteria-correoso/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

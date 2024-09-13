@@ -1,5 +1,5 @@
 ---
 title: "Cheapy Shop"
 url: /lleida/cheapy-shop/
-shop: Kramladen
+shop: tienda de variedades
 ---

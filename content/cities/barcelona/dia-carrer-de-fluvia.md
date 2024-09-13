@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /barcelona/dia-carrer-de-fluvia/
-shop: Supermarkt
+shop: supermercado
 ---

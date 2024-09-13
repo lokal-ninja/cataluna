@@ -1,5 +1,5 @@
 ---
 title: "Textura Interiors"
 url: /barcelona/textura-interiors/
-shop: Gardinen
+shop: cortina
 ---

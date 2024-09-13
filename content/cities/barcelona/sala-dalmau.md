@@ -1,5 +1,5 @@
 ---
 title: "Sala Dalmau"
 url: /barcelona/sala-dalmau/
-shop: Kunst
+shop: arte
 ---

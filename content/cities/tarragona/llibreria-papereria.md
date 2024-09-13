@@ -1,5 +1,5 @@
 ---
 title: "Llibreria - Papereria"
 url: /tarragona/llibreria-papereria/
-shop: Schreibwaren
+shop: material de oficina
 ---

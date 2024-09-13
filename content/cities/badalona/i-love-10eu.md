@@ -1,5 +1,5 @@
 ---
 title: "I love 10€"
 url: /badalona/i-love-10eu/
-shop: Kramladen
+shop: tienda de variedades
 ---

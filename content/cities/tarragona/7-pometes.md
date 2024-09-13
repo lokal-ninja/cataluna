@@ -1,5 +1,5 @@
 ---
 title: "7 pometes"
 url: /tarragona/7-pometes/
-shop: Gemüse & Obst
+shop: frutería
 ---

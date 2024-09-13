@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /girona/bonpreu/
-shop: Supermarkt
+shop: supermercado
 ---

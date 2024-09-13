@@ -1,5 +1,5 @@
 ---
 title: "Bus Plana"
 url: /cambrils/bus-plana/
-shop: Reisebüro
+shop: agencia de viajes
 ---

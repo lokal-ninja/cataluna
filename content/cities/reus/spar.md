@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /reus/spar/
-shop: Supermarkt
+shop: supermercado
 ---

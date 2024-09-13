@@ -1,5 +1,5 @@
 ---
 title: "Formatgeria Can Luc"
 url: /barcelona/formatgeria-can-luc/
-shop: Käse
+shop: queso
 ---

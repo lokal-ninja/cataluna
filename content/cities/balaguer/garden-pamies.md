@@ -1,5 +1,5 @@
 ---
 title: "Garden Pàmies"
 url: /balaguer/garden-pamies/
-shop: Garten-Center
+shop: centro de jardinería
 ---

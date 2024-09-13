@@ -1,5 +1,5 @@
 ---
 title: "Cecauto"
 url: /vilafranca-del-penedes/cecauto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bosch"
 url: /reus/bosch/
-shop: Kleidung
+shop: ropa
 ---

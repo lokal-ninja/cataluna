@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /lhospitalet-de-llobregat/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Optimus"
 url: /barcelona/ferreteria-optimus/
-shop: Eisenwaren
+shop: hardware
 ---

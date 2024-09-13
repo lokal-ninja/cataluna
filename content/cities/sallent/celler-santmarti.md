@@ -1,5 +1,5 @@
 ---
 title: "Celler Santmartí"
 url: /sallent/celler-santmarti/
-shop: Wein
+shop: vino
 ---

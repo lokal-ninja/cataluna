@@ -1,5 +1,5 @@
 ---
 title: "Wowlet"
 url: /ripollet/wowlet/
-shop: Betten
+shop: cama
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ludomajo"
 url: /barcelona/ludomajo/
-shop: Metzgerei
+shop: carnicero
 ---

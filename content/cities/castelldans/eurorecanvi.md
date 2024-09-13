@@ -1,5 +1,5 @@
 ---
 title: "Eurorecanvi"
 url: /castelldans/eurorecanvi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

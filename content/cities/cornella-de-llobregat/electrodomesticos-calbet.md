@@ -1,5 +1,5 @@
 ---
 title: "Electrodomésticos CALBET"
 url: /cornella-de-llobregat/electrodomesticos-calbet/
-shop: Hifi
+shop: hifi
 ---

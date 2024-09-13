@@ -1,5 +1,5 @@
 ---
 title: "Recanvis Gaudí"
 url: /llica-de-vall/recanvis-gaudi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

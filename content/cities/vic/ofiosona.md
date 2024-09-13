@@ -1,5 +1,5 @@
 ---
 title: "Ofiosona"
 url: /vic/ofiosona/
-shop: Schreibwaren
+shop: material de oficina
 ---

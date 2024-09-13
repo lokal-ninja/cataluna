@@ -1,5 +1,5 @@
 ---
 title: "Florentino"
 url: /barcelona/florentino/
-shop: Kleidung
+shop: ropa
 ---

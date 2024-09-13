@@ -1,5 +1,5 @@
 ---
 title: "Basar Oriente"
 url: /barcelona/basar-oriente/
-shop: Kramladen
+shop: tienda de variedades
 ---

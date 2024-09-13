@@ -1,5 +1,5 @@
 ---
 title: "goods24h"
 url: /navas/goods24h/
-shop: Kramladen
+shop: tienda de variedades
 ---

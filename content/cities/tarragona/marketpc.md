@@ -1,5 +1,5 @@
 ---
 title: "Marketpc"
 url: /tarragona/marketpc/
-shop: Computer
+shop: ordenador
 ---

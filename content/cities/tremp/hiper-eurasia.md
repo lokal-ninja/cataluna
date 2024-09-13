@@ -1,5 +1,5 @@
 ---
 title: "Hiper Eurasia"
 url: /tremp/hiper-eurasia/
-shop: Supermarkt
+shop: supermercado
 ---

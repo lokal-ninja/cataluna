@@ -1,5 +1,5 @@
 ---
 title: "Synusia"
 url: /terrassa/synusia/
-shop: Bücher
+shop: libros
 ---

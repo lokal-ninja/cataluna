@@ -1,5 +1,5 @@
 ---
 title: "SYL"
 url: /reus/syl/
-shop: Schmuck
+shop: joyería
 ---

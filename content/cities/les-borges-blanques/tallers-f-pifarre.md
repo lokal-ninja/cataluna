@@ -1,5 +1,5 @@
 ---
 title: "Tallers F.Pifarré"
 url: /les-borges-blanques/tallers-f-pifarre/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

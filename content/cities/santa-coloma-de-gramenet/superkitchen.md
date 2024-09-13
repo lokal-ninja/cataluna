@@ -1,5 +1,5 @@
 ---
 title: "Superkitchen"
 url: /santa-coloma-de-gramenet/superkitchen/
-shop: Küchen
+shop: cocina
 ---

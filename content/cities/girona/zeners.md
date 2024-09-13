@@ -1,5 +1,5 @@
 ---
 title: "Zeners"
 url: /girona/zeners/
-shop: Elektronik
+shop: electrónica
 ---

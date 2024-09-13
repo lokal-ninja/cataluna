@@ -1,5 +1,5 @@
 ---
 title: "La Tinta"
 url: /vic/la-tinta/
-shop: Kopieren
+shop: copyshop
 ---

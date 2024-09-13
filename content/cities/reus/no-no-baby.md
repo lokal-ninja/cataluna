@@ -1,5 +1,5 @@
 ---
 title: "No-No Baby"
 url: /reus/no-no-baby/
-shop: Kleidung
+shop: ropa
 ---

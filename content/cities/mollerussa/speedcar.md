@@ -1,5 +1,5 @@
 ---
 title: "Speedcar"
 url: /mollerussa/speedcar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

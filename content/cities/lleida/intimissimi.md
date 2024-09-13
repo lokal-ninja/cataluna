@@ -1,5 +1,5 @@
 ---
 title: "Intimissimi"
 url: /lleida/intimissimi/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Font"
 url: /lleida/font/
-shop: Babysachen
+shop: artículos para bebés
 ---

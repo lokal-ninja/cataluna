@@ -1,5 +1,5 @@
 ---
 title: "Talleres Alfaro"
 url: /badalona/talleres-alfaro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

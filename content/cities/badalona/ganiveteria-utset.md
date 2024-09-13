@@ -1,5 +1,5 @@
 ---
 title: "Ganiveteria Utset"
 url: /badalona/ganiveteria-utset/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

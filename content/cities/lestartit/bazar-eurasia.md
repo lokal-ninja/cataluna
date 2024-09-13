@@ -1,5 +1,5 @@
 ---
 title: "Bazar Eurasia"
 url: /lestartit/bazar-eurasia/
-shop: Kramladen
+shop: tienda de variedades
 ---

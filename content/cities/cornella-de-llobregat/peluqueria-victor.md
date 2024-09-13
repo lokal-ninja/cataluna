@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Víctor"
 url: /cornella-de-llobregat/peluqueria-victor/
-shop: Friseur
+shop: peluquería
 ---

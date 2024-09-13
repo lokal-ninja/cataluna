@@ -1,5 +1,5 @@
 ---
 title: "Audenis"
 url: /barcelona/audenis/
-shop: Instrumente
+shop: instrumento musical
 ---

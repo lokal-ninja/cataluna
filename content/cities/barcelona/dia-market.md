@@ -1,5 +1,5 @@
 ---
 title: "Dia Market"
 url: /barcelona/dia-market/
-shop: Supermarkt
+shop: supermercado
 ---

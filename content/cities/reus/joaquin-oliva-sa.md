@@ -1,5 +1,5 @@
 ---
 title: "Joaquín Oliva, SA"
 url: /reus/joaquin-oliva-sa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

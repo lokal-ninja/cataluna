@@ -1,5 +1,5 @@
 ---
 title: "Bicitecla"
 url: /barcelona/bicitecla/
-shop: Fahrrad
+shop: bicicleta
 ---

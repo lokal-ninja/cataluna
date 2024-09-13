@@ -1,5 +1,5 @@
 ---
 title: "BOO"
 url: /barcelona/boo/
-shop: Kleidung
+shop: ropa
 ---

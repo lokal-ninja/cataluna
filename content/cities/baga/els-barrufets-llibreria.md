@@ -1,5 +1,5 @@
 ---
 title: "Els Barrufets- Llibreria"
 url: /baga/els-barrufets-llibreria/
-shop: Bücher
+shop: libros
 ---

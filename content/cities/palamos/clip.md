@@ -1,5 +1,5 @@
 ---
 title: "Clip"
 url: /palamos/clip/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rètols Zuri"
 url: /reus/retols-zuri/
-shop: Kopieren
+shop: copyshop
 ---

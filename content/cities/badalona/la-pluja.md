@@ -1,5 +1,5 @@
 ---
 title: "La pluja"
 url: /badalona/la-pluja/
-shop: Spielzeug
+shop: juguetes
 ---

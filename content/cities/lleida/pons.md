@@ -1,5 +1,5 @@
 ---
 title: "Pons"
 url: /lleida/pons/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Rebost"
 url: /girona/el-rebost/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Terracasa"
 url: /badalona/terracasa/
-shop: Kramladen
+shop: tienda de variedades
 ---

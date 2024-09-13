@@ -1,5 +1,5 @@
 ---
 title: "Rosses i Torrades"
 url: /barcelona/rosses-i-torrades/
-shop: Spirituosen
+shop: alcohol
 ---

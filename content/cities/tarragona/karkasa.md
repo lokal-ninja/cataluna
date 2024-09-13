@@ -1,5 +1,5 @@
 ---
 title: "[Karkasa}"
 url: /tarragona/karkasa/
-shop: Handy
+shop: teléfono móvil
 ---

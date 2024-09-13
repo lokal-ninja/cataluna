@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /barcelona/aldi-carrer-del-comerc/
-shop: Supermarkt
+shop: supermercado
 ---

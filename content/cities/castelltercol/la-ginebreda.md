@@ -1,5 +1,5 @@
 ---
 title: "la Ginebreda"
 url: /castelltercol/la-ginebreda/
-shop: Metzgerei
+shop: carnicero
 ---

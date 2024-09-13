@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /barcelona/amplifon/
-shop: Hörgeräte
+shop: audífonos
 ---

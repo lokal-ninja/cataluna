@@ -1,5 +1,5 @@
 ---
 title: "Obramat"
 url: /lleida/obramat/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

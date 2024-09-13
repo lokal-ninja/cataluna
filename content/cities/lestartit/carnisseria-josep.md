@@ -1,5 +1,5 @@
 ---
 title: "Carnisseria Josep"
 url: /lestartit/carnisseria-josep/
-shop: Metzgerei
+shop: carnicero
 ---

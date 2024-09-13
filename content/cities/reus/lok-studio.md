@@ -1,5 +1,5 @@
 ---
 title: "Lok Studio"
 url: /reus/lok-studio/
-shop: Kosmetik
+shop: cosméticos
 ---

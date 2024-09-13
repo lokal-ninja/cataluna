@@ -1,5 +1,5 @@
 ---
 title: "Cal Fum"
 url: /les-borges-blanques/cal-fum/
-shop: Nähzubehör
+shop: coser
 ---

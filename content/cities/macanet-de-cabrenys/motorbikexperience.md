@@ -1,5 +1,5 @@
 ---
 title: "Motorbikexperience"
 url: /macanet-de-cabrenys/motorbikexperience/
-shop: Reisebüro
+shop: agencia de viajes
 ---

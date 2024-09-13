@@ -1,5 +1,5 @@
 ---
 title: "Linguae"
 url: /girona/linguae/
-shop: Bücher
+shop: libros
 ---

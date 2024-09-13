@@ -1,5 +1,5 @@
 ---
 title: "Optica Velasco"
 url: /cornella-de-llobregat/optica-velasco/
-shop: Optiker
+shop: óptico
 ---

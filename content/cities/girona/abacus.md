@@ -1,5 +1,5 @@
 ---
 title: "Abacus"
 url: /girona/abacus/
-shop: Schreibwaren
+shop: material de oficina
 ---

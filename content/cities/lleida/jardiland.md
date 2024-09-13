@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /lleida/jardiland/
-shop: Garten-Center
+shop: centro de jardinería
 ---

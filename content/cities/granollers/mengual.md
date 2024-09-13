@@ -1,5 +1,5 @@
 ---
 title: "Mengual"
 url: /granollers/mengual/
-shop: Eisenwaren
+shop: hardware
 ---

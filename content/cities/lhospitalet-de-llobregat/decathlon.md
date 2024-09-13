@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /lhospitalet-de-llobregat/decathlon/
-shop: Sport
+shop: deportes
 ---

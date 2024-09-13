@@ -1,5 +1,5 @@
 ---
 title: "Floristeria Jacaranda"
 url: /barcelona/floristeria-jacaranda/
-shop: Blumen
+shop: floristería
 ---

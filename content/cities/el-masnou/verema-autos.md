@@ -1,5 +1,5 @@
 ---
 title: "Verema Autos"
 url: /el-masnou/verema-autos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copy Pelai"
 url: /barcelona/copy-pelai/
-shop: Kopieren
+shop: copyshop
 ---

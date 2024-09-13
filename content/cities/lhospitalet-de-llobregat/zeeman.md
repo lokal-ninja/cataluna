@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /lhospitalet-de-llobregat/zeeman/
-shop: Kleidung
+shop: ropa
 ---

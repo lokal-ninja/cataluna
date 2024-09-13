@@ -1,5 +1,5 @@
 ---
 title: "Orient Express"
 url: /barcelona/orient-express/
-shop: Modellbau
+shop: modelo
 ---

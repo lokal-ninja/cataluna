@@ -1,5 +1,5 @@
 ---
 title: "Boutique Diez Euros"
 url: /balaguer/boutique-diez-euros/
-shop: Kleidung
+shop: ropa
 ---

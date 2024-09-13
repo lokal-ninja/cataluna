@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /girona/orange/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fortino"
 url: /barcelona/fortino/
-shop: Bäckerei
+shop: panadería
 ---

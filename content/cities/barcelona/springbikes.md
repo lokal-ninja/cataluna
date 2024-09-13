@@ -1,5 +1,5 @@
 ---
 title: "SpringBikes"
 url: /barcelona/springbikes/
-shop: Fahrrad
+shop: bicicleta
 ---

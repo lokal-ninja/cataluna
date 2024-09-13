@@ -1,5 +1,5 @@
 ---
 title: "Esclat"
 url: /sant-pere-de-ribes/esclat/
-shop: Supermarkt
+shop: supermercado
 ---

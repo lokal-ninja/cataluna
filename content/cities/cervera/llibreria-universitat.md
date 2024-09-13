@@ -1,5 +1,5 @@
 ---
 title: "Llibreria Universitat"
 url: /cervera/llibreria-universitat/
-shop: Schreibwaren
+shop: material de oficina
 ---

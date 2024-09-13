@@ -1,5 +1,5 @@
 ---
 title: "ZN Supermercat"
 url: /lleida/zn-supermercat/
-shop: Lebensmittel
+shop: comodidad
 ---

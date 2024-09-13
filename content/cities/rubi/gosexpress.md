@@ -1,5 +1,5 @@
 ---
 title: "Gosexpress"
 url: /rubi/gosexpress/
-shop: Tiere
+shop: mascotas
 ---

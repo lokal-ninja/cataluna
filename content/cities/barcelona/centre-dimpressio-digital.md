@@ -1,5 +1,5 @@
 ---
 title: "Centre d'Impressió Digital"
 url: /barcelona/centre-dimpressio-digital/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brescolí"
 url: /tarragona/brescoli/
-shop: Kopieren
+shop: copyshop
 ---

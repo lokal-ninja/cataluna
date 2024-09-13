@@ -1,5 +1,5 @@
 ---
 title: "Cecauto Vic"
 url: /vic/cecauto-vic/
-shop: Autoteile
+shop: piezas de automóviles
 ---

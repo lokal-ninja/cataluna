@@ -1,5 +1,5 @@
 ---
 title: "Balmotor - Bosch Car Service"
 url: /balaguer/balmotor-bosch-car-service/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

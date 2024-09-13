@@ -1,5 +1,5 @@
 ---
 title: "Mysotis"
 url: /reus/mysotis/
-shop: Blumen
+shop: floristería
 ---

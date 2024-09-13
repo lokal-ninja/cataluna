@@ -1,5 +1,5 @@
 ---
 title: "La Sirena"
 url: /ripollet/la-sirena/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

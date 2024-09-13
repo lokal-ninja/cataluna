@@ -1,5 +1,5 @@
 ---
 title: "Patxei"
 url: /tamariu/patxei/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pampling"
 url: /lhospitalet-de-llobregat/pampling/
-shop: Kleidung
+shop: ropa
 ---

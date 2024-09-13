@@ -1,5 +1,5 @@
 ---
 title: "Supeco"
 url: /santa-perpetua-de-mogoda/supeco/
-shop: Supermarkt
+shop: supermercado
 ---

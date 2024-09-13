@@ -1,5 +1,5 @@
 ---
 title: "L’Argonauta"
 url: /balaguer/largonauta/
-shop: Bücher
+shop: libros
 ---

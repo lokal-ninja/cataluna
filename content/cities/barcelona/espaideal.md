@@ -1,5 +1,5 @@
 ---
 title: "Espaideal"
 url: /barcelona/espaideal/
-shop: Kramladen
+shop: tienda de variedades
 ---

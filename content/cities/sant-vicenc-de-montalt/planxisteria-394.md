@@ -1,5 +1,5 @@
 ---
 title: "Planxisteria 394"
 url: /sant-vicenc-de-montalt/planxisteria-394/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

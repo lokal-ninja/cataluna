@@ -1,5 +1,5 @@
 ---
 title: "Taller Mecànic Pau"
 url: /garriguella/taller-mecanic-pau/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

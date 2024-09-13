@@ -1,5 +1,5 @@
 ---
 title: "Tallers Navarri"
 url: /barcelona/tallers-navarri/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

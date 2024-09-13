@@ -1,5 +1,5 @@
 ---
 title: "Solà"
 url: /barcelona/sola/
-shop: Schuhe
+shop: zapatos
 ---

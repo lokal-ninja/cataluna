@@ -1,5 +1,5 @@
 ---
 title: "Yupi's"
 url: /castelltercol/yupis/
-shop: Zeitungen
+shop: quiosco
 ---

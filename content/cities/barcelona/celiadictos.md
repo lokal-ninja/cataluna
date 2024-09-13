@@ -1,5 +1,5 @@
 ---
 title: "Celiadictos"
 url: /barcelona/celiadictos/
-shop: Bäckerei
+shop: panadería
 ---

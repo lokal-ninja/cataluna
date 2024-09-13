@@ -1,5 +1,5 @@
 ---
 title: "Michelangelo"
 url: /cambrils/michelangelo/
-shop: Supermarkt
+shop: supermercado
 ---

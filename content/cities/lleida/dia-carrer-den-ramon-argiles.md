@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /lleida/dia-carrer-den-ramon-argiles/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autos Mariano"
 url: /lleida/autos-mariano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

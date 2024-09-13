@@ -1,5 +1,5 @@
 ---
 title: "Ohana Dog"
 url: /sant-andreu-de-la-barca/ohana-dog/
-shop: Tiersalon
+shop: peluquería canina
 ---

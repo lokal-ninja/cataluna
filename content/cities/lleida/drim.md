@@ -1,5 +1,5 @@
 ---
 title: "Drim"
 url: /lleida/drim/
-shop: Spielzeug
+shop: juguetes
 ---

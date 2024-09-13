@@ -1,5 +1,5 @@
 ---
 title: "Mister Dog"
 url: /mont-roig-del-camp/mister-dog/
-shop: Tiere
+shop: mascotas
 ---

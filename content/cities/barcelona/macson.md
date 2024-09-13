@@ -1,5 +1,5 @@
 ---
 title: "Macson"
 url: /barcelona/macson/
-shop: Kleidung
+shop: ropa
 ---

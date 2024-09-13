@@ -1,5 +1,5 @@
 ---
 title: "BonÀrea"
 url: /lhospitalet-de-llobregat/bonarea/
-shop: Metzgerei
+shop: carnicero
 ---

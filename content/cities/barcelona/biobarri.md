@@ -1,5 +1,5 @@
 ---
 title: "BioBarri"
 url: /barcelona/biobarri/
-shop: Supermarkt
+shop: supermercado
 ---

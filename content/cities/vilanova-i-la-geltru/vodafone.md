@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /vilanova-i-la-geltru/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

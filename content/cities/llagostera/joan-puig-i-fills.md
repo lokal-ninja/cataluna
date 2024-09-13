@@ -1,5 +1,5 @@
 ---
 title: "Joan Puig i Fills"
 url: /llagostera/joan-puig-i-fills/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

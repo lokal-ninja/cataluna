@@ -1,5 +1,5 @@
 ---
 title: "Zepunt"
 url: /reus/zepunt/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tallers Felix"
 url: /lleida/tallers-felix/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

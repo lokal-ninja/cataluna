@@ -1,5 +1,5 @@
 ---
 title: "Grup La Granja"
 url: /badalona/grup-la-granja/
-shop: Lebensmittel
+shop: comodidad
 ---

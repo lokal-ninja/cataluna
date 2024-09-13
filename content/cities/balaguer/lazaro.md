@@ -1,5 +1,5 @@
 ---
 title: "Lazaro"
 url: /balaguer/lazaro/
-shop: Schuhe
+shop: zapatos
 ---

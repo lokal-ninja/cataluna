@@ -1,5 +1,5 @@
 ---
 title: "Botiga de plantes"
 url: /barcelona/botiga-de-plantes/
-shop: Blumen
+shop: floristería
 ---

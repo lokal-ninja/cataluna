@@ -1,5 +1,5 @@
 ---
 title: "Jar Toys"
 url: /tarrega/jar-toys/
-shop: Spielzeug
+shop: juguetes
 ---

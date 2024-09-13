@@ -1,5 +1,5 @@
 ---
 title: "AWYCA"
 url: /lhospitalet-de-llobregat/awyca/
-shop: Badezimmer
+shop: cuarto de baño
 ---

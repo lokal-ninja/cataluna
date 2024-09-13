@@ -1,5 +1,5 @@
 ---
 title: "demasie"
 url: /barcelona/demasie-carrer-de-la-princesa/
-shop: Konditorei
+shop: pastelería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diesel Lleida"
 url: /lleida/diesel-lleida/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

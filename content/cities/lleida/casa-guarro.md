@@ -1,5 +1,5 @@
 ---
 title: "Casa Guarro"
 url: /lleida/casa-guarro/
-shop: Instrumente
+shop: instrumento musical
 ---

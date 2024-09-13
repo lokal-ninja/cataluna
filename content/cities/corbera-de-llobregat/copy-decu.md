@@ -1,5 +1,5 @@
 ---
 title: "Copy Decu"
 url: /corbera-de-llobregat/copy-decu/
-shop: Schreibwaren
+shop: material de oficina
 ---

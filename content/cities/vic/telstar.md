@@ -1,5 +1,5 @@
 ---
 title: "Telstar"
 url: /vic/telstar/
-shop: Elektronik
+shop: electrónica
 ---

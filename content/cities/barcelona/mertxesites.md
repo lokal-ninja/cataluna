@@ -1,5 +1,5 @@
 ---
 title: "Mertxesites"
 url: /barcelona/mertxesites/
-shop: Textil
+shop: tela
 ---

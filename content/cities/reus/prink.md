@@ -1,5 +1,5 @@
 ---
 title: "prink"
 url: /reus/prink/
-shop: Kopieren
+shop: copyshop
 ---

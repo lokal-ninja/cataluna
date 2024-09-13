@@ -1,5 +1,5 @@
 ---
 title: "Frolis"
 url: /barcelona/frolis/
-shop: Bäckerei
+shop: panadería
 ---

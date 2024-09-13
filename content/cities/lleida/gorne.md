@@ -1,5 +1,5 @@
 ---
 title: "Gorné"
 url: /lleida/gorne/
-shop: Optiker
+shop: óptico
 ---

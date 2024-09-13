@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /girona/clarel/
-shop: Drogerie
+shop: farmacia
 ---

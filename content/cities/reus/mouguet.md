@@ -1,5 +1,5 @@
 ---
 title: "Mouguet"
 url: /reus/mouguet/
-shop: Kosmetik
+shop: cosméticos
 ---

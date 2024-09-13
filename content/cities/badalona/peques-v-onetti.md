@@ -1,5 +1,5 @@
 ---
 title: "Peques V. Onetti"
 url: /badalona/peques-v-onetti/
-shop: Kleidung
+shop: ropa
 ---

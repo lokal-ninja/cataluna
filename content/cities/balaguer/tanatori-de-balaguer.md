@@ -1,5 +1,5 @@
 ---
 title: "Tanatori de Balaguer"
 url: /balaguer/tanatori-de-balaguer/
-shop: Bestattungen
+shop: directores de funerarias
 ---

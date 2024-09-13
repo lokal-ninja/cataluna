@@ -1,5 +1,5 @@
 ---
 title: "JufreStyle"
 url: /santa-coloma-de-gramenet/jufrestyle/
-shop: Kosmetik
+shop: cosméticos
 ---

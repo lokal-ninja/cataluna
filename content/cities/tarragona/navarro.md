@@ -1,5 +1,5 @@
 ---
 title: "Navarro"
 url: /tarragona/navarro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

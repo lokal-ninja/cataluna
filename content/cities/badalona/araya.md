@@ -1,5 +1,5 @@
 ---
 title: "Araya"
 url: /badalona/araya/
-shop: Kleidung
+shop: ropa
 ---

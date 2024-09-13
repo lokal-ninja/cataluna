@@ -1,5 +1,5 @@
 ---
 title: "Mr. Boots"
 url: /barcelona/mr-boots/
-shop: Schuhe
+shop: zapatos
 ---

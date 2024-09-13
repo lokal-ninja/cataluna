@@ -1,5 +1,5 @@
 ---
 title: "My Beautiful Parking"
 url: /barcelona/my-beautiful-parking/
-shop: Fahrrad
+shop: bicicleta
 ---

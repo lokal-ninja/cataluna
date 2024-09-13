@@ -1,5 +1,5 @@
 ---
 title: "Bazar Oriental"
 url: /barcelona/bazar-oriental/
-shop: Kramladen
+shop: tienda de variedades
 ---

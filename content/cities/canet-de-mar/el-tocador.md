@@ -1,5 +1,5 @@
 ---
 title: "El Tocador"
 url: /canet-de-mar/el-tocador/
-shop: Friseur
+shop: peluquería
 ---

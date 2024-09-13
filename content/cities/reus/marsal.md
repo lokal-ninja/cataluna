@@ -1,5 +1,5 @@
 ---
 title: "Marsal"
 url: /reus/marsal/
-shop: Andenken
+shop: regalo
 ---

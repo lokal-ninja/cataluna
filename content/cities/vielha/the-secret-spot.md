@@ -1,5 +1,5 @@
 ---
 title: "The Secret Spot"
 url: /vielha/the-secret-spot/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Ambrosio"
 url: /massalcoreig/casa-ambrosio/
-shop: Lebensmittel
+shop: comodidad
 ---

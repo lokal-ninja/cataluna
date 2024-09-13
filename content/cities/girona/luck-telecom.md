@@ -1,5 +1,5 @@
 ---
 title: "Luck Telecom"
 url: /girona/luck-telecom/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brunells"
 url: /barcelona/brunells/
-shop: Konditorei
+shop: pastelería
 ---

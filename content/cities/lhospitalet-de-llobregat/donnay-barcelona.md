@@ -1,5 +1,5 @@
 ---
 title: "Donnay Barcelona"
 url: /lhospitalet-de-llobregat/donnay-barcelona/
-shop: Autohaus
+shop: coche
 ---

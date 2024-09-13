@@ -1,5 +1,5 @@
 ---
 title: "Perruqueria Tània, centre de la imatge"
 url: /barcelona/perruqueria-tania-centre-de-la-imatge/
-shop: Friseur
+shop: peluquería
 ---

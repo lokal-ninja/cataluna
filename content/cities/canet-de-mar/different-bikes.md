@@ -1,5 +1,5 @@
 ---
 title: "Different Bikes"
 url: /canet-de-mar/different-bikes/
-shop: Fahrrad
+shop: bicicleta
 ---

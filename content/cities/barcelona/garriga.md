@@ -1,5 +1,5 @@
 ---
 title: "Garriga"
 url: /barcelona/garriga/
-shop: Friseur
+shop: peluquería
 ---

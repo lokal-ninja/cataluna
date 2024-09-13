@@ -1,5 +1,5 @@
 ---
 title: "Pastisseria Núria"
 url: /vallirana/pastisseria-nuria/
-shop: Konditorei
+shop: pastelería
 ---
