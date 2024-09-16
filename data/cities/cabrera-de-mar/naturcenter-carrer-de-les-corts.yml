@@ -4,8 +4,8 @@ latitude: 41.52179
 longitude: 2.40285
 postcode: "08349"
 city: Cabrera de Mar
-street: "carrer de les Corts"
-housenumber: 2
+street: carrer de les Corts
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://naturcenter.es/"
+website: https://naturcenter.es/

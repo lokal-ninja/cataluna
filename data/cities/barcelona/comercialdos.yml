@@ -4,8 +4,8 @@ latitude: 41.38803
 longitude: 2.18117
 postcode: "08003"
 city: Barcelona
-street: "Carrer dels Tiradors"
-housenumber: 7
-phone: "+34 932 68 97 47"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su closed"
+street: Carrer dels Tiradors
+housenumber: "7"
+phone: +34 932 68 97 47
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.39602
 longitude: 2.15651
 postcode: ""
 city: Barcelona
-street: "Avinguda Diagonal"
-housenumber: 468
+street: Avinguda Diagonal
+housenumber: "468"
 phone: ""
-opening_hours: "Mo-Sa 10:00-15:00,16:00-20:00"
+opening_hours: Mo-Sa 10:00-15:00,16:00-20:00
 website: ""

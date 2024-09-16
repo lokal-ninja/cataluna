@@ -4,8 +4,8 @@ latitude: 41.40038
 longitude: 2.15251
 postcode: "08012"
 city: Barcelona
-street: "Carrer de Benet Mercadé"
-housenumber: 16
+street: Carrer de Benet Mercadé
+housenumber: "16"
 phone: "+34931123305"
-opening_hours: "Mo-Fr 09:00-14:00,16:30-20:00; Sa 09:00-14:00; PH closed"
-website: "https://www.labioteca.cat/"
+opening_hours: Mo-Fr 09:00-14:00,16:30-20:00; Sa 09:00-14:00; PH closed
+website: https://www.labioteca.cat/

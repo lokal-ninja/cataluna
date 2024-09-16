@@ -4,8 +4,8 @@ latitude: 41.46987
 longitude: 2.08069
 postcode: ""
 city: Sant Cugat del Vallès
-street: "Carrer Sant Bonaventura"
-housenumber: 24
-phone: "+34 93 675 45 70"
-opening_hours: "10:00-14:00,16:30-20:30"
-website: "https://www.vaic.com/"
+street: Carrer Sant Bonaventura
+housenumber: "24"
+phone: +34 93 675 45 70
+opening_hours: 10:00-14:00,16:30-20:30
+website: https://www.vaic.com/

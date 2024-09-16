@@ -1,11 +1,11 @@
 id: 706677205
-type: way
+type: node
 latitude: 41.35355
 longitude: 2.107
 postcode: "08907"
 city: L'Hospitalet de Llobregat
-street: "Travessia Industrual"
-housenumber: 115
+street: Travessia Industrual
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 09:30-14:00,16:00-20:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:30-14:00,16:00-20:00; Sa 10:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.38311
 longitude: 2.17435
 postcode: "08002"
 city: Barcelona
-street: "Carrer de la Palla"
-housenumber: 11
-phone: "+34 936 338 950"
-opening_hours: "Mo-Fr 10:30-21:00; Sa-Su 10:30-14:00, 15:00-21:00"
-website: "https://www.barcelonaduckstore.com/"
+street: Carrer de la Palla
+housenumber: "11"
+phone: +34 936 338 950
+opening_hours: Mo-Fr 10:30-21:00; Sa-Su 10:30-14:00, 15:00-21:00
+website: https://www.barcelonaduckstore.com/

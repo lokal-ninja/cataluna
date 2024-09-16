@@ -1,11 +1,11 @@
 id: 221265726
-type: way
+type: node
 latitude: 41.55528
 longitude: 2.08989
 postcode: "08206"
 city: Sabadell
-street: "Carrer de l'Arcàdia"
-housenumber: 
+street: Carrer de l'Arcàdia
+housenumber: ""
 phone: "+34937173251"
-opening_hours: "Mo-Sa 09:15-21:15; Su off"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:15-21:15; Su off
+website: https://www.mercadona.es

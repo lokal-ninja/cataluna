@@ -4,8 +4,8 @@ latitude: 41.7902
 longitude: 0.81886
 postcode: "25600"
 city: Balaguer
-street: "Carrer d'Urgell"
-housenumber: 113
+street: Carrer d'Urgell
+housenumber: "113"
 phone: "+34973446482"
 opening_hours: ""
-website: "http://www.bonetcars.com/"
+website: http://www.bonetcars.com/

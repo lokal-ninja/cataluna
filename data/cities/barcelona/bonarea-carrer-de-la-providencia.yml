@@ -4,8 +4,8 @@ latitude: 41.40959
 longitude: 2.16235
 postcode: "08024"
 city: Barcelona
-street: "Carrer de la Providència"
-housenumber: 152
-phone: "+34 932845671"
-opening_hours: "Mo-Sa 09:00-20:30; Su 10:00-14:00"
+street: Carrer de la Providència
+housenumber: "152"
+phone: +34 932845671
+opening_hours: Mo-Sa 09:00-20:30; Su 10:00-14:00
 website: ""

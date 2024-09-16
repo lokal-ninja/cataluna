@@ -4,8 +4,8 @@ latitude: 41.38286
 longitude: 2.16422
 postcode: "08001"
 city: Barcelona
-street: "Carrer de Valldonzella"
-housenumber: 60
-phone: "+34 933 18 67 76"
-opening_hours: "Mo-Sa 10:00-14:30, 17:00-21:00"
+street: Carrer de Valldonzella
+housenumber: "60"
+phone: +34 933 18 67 76
+opening_hours: Mo-Sa 10:00-14:30, 17:00-21:00
 website: ""

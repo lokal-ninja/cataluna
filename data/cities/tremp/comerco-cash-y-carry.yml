@@ -4,8 +4,8 @@ latitude: 42.16825
 longitude: 0.88701
 postcode: "25620"
 city: Tremp
-street: "Carrer de les Cabanes"
-housenumber: 2
+street: Carrer de les Cabanes
+housenumber: "2"
 phone: ""
-opening_hours: "Su-Fr 09:00-13:00, 16:00-20:00;Sa 09:00-13:00"
+opening_hours: Su-Fr 09:00-13:00, 16:00-20:00;Sa 09:00-13:00
 website: ""

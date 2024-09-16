@@ -4,8 +4,8 @@ latitude: 41.3836
 longitude: 2.17402
 postcode: "08002"
 city: Barcelona
-street: "Carrer del Pi"
-housenumber: 16
-phone: "+34 933020342"
-opening_hours: "Mo-Sa 10:00-20:30"
-website: "https://xocolatesfargas.cat/en"
+street: Carrer del Pi
+housenumber: "16"
+phone: +34 933020342
+opening_hours: Mo-Sa 10:00-20:30
+website: https://xocolatesfargas.cat/en

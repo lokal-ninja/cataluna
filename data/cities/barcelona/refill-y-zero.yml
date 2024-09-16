@@ -4,8 +4,8 @@ latitude: 41.39626
 longitude: 2.12279
 postcode: "08034"
 city: Barcelona
-street: "Carrer dels Caponata"
-housenumber: 2
-phone: "+34 93 510 73 73"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00"
-website: "https://refillzero.com"
+street: Carrer dels Caponata
+housenumber: "2"
+phone: +34 93 510 73 73
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00
+website: https://refillzero.com

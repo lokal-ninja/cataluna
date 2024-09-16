@@ -1,11 +1,11 @@
 id: 368078118
-type: way
+type: node
 latitude: 41.91443
 longitude: 3.16312
 postcode: "17200"
 city: Palafrugell
-street: "Av. de Josep Pla"
-housenumber: 6
+street: Av. de Josep Pla
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

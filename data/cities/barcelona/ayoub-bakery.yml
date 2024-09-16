@@ -4,8 +4,8 @@ latitude: 41.37893
 longitude: 2.17199
 postcode: "08001"
 city: Barcelona
-street: "Carrer de Sant Pau"
-housenumber: 39
+street: Carrer de Sant Pau
+housenumber: "39"
 phone: "+34934425429"
-opening_hours: "Mo-Su 09:30-22:30"
+opening_hours: Mo-Su 09:30-22:30
 website: ""

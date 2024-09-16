@@ -4,8 +4,8 @@ latitude: 41.37567
 longitude: 2.15948
 postcode: "08015"
 city: Barcelona
-street: "Carrer de Manso"
-housenumber: 10
+street: Carrer de Manso
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

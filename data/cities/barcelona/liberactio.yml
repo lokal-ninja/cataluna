@@ -4,8 +4,8 @@ latitude: 41.42153
 longitude: 2.18785
 postcode: "08027"
 city: Barcelona
-street: "Carrer d'Hondures"
-housenumber: 68
+street: Carrer d'Hondures
+housenumber: "68"
 phone: "+34937976163"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-13:30"
-website: "https://liberactio.com/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-13:30
+website: https://liberactio.com/

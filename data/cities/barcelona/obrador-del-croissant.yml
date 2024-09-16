@@ -4,8 +4,8 @@ latitude: 41.41093
 longitude: 2.17489
 postcode: "08025"
 city: Barcelona
-street: "Carrer de Cartagena"
-housenumber: 326
-phone: "+34 934351658"
-opening_hours: "Tu-Fr 07:30-13:30,17:00-19:30; Sa-Su 07:30-13:30; Mo off"
-website: "https://obrador-del-croissant.business.site/"
+street: Carrer de Cartagena
+housenumber: "326"
+phone: +34 934351658
+opening_hours: Tu-Fr 07:30-13:30,17:00-19:30; Sa-Su 07:30-13:30; Mo off
+website: https://obrador-del-croissant.business.site/

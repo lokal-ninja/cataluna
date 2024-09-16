@@ -4,8 +4,8 @@ latitude: 41.38192
 longitude: 2.16136
 postcode: "08015"
 city: Barcelona
-street: "Carrer de Villarroel"
-housenumber: 34
+street: Carrer de Villarroel
+housenumber: "34"
 phone: ""
-opening_hours: "Tu-Sa 11:00-14:00, 17:00-20:30"
-website: "https://lallamastore.com"
+opening_hours: Tu-Sa 11:00-14:00, 17:00-20:30
+website: https://lallamastore.com

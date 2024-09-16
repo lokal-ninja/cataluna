@@ -1,11 +1,11 @@
 id: 448547048
-type: way
+type: node
 latitude: 42.07003
 longitude: 2.28922
 postcode: "08572"
 city: Sant Pere de Torello
-street: "Carrer dels Esquetllers"
-housenumber: 3
+street: Carrer dels Esquetllers
+housenumber: "3"
 phone: "+34938584267"
 opening_hours: ""
-website: "https://rovestamp.com/"
+website: https://rovestamp.com/

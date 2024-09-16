@@ -4,8 +4,9 @@ latitude: 41.38306
 longitude: 2.13159
 postcode: "08028"
 city: Barcelona
-street: "Carrer de Joan Güell"
+street: Carrer de Joan Güell
 housenumber: 144-148
 phone: ""
-opening_hours: "Su 11:00-14:00; Sa 10:30-14:00, 17:30-20:30; Tu-Fr 10:00-13:30; Mo-Fr 17:00-20:30"
+opening_hours: Su 11:00-14:00; Sa 10:30-14:00, 17:30-20:30; Tu-Fr 10:00-13:30; Mo-Fr
+    17:00-20:30
 website: ""

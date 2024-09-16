@@ -1,11 +1,11 @@
 id: 324301867
-type: way
+type: node
 latitude: 41.92879
 longitude: 2.24673
 postcode: "08500"
 city: Vic
-street: "Carrer de Perot Rocaguinarda"
-housenumber: 10
+street: Carrer de Perot Rocaguinarda
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Th 09:00-13:30,15:00-19:30; Fr 09:00-13:00,15:00-19:00; Sa,Su off"
+opening_hours: Mo-Th 09:00-13:30,15:00-19:30; Fr 09:00-13:00,15:00-19:00; Sa,Su off
 website: ""

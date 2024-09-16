@@ -4,8 +4,8 @@ latitude: 41.37388
 longitude: 2.12906
 postcode: "08028"
 city: Barcelona
-street: "Carrer de Casteràs"
-housenumber: 44
+street: Carrer de Casteràs
+housenumber: "44"
 phone: "+34912170453"
 opening_hours: ""
-website: "https://www.dia.es"
+website: https://www.dia.es

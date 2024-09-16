@@ -1,11 +1,11 @@
 id: 1129434299
-type: way
+type: node
 latitude: 41.65281
 longitude: 1.14844
 postcode: "25300"
 city: Tàrrega
-street: "Plaça de Riambau"
-housenumber: 2
+street: Plaça de Riambau
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

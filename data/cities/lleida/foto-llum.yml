@@ -4,8 +4,8 @@ latitude: 41.6037
 longitude: 0.64167
 postcode: "25001"
 city: Lleida
-street: "Avinguda d'Artesa"
-housenumber: 11
+street: Avinguda d'Artesa
+housenumber: "11"
 phone: "+34973211528"
 opening_hours: ""
-website: "https://fotollum.com/"
+website: https://fotollum.com/

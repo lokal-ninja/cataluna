@@ -4,8 +4,8 @@ latitude: 41.39308
 longitude: 2.14327
 postcode: "08021"
 city: Barcelona
-street: "Avinguda Pau Casals"
-housenumber: 1
+street: Avinguda Pau Casals
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:30"
+opening_hours: Mo-Sa 10:00-20:30
 website: ""

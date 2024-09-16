@@ -4,8 +4,8 @@ latitude: 41.40815
 longitude: 2.18827
 postcode: "08018"
 city: Barcelona
-street: "Carrer del Clot"
-housenumber: 63
+street: Carrer del Clot
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 10:00-14:00,17:00-20:30"
+opening_hours: Mo-Sa 10:00-14:00,17:00-20:30
 website: ""

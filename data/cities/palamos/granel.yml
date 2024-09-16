@@ -4,8 +4,8 @@ latitude: 41.84723
 longitude: 3.12953
 postcode: "17230"
 city: Palamós
-street: "Carrer Major"
-housenumber: 31
-phone: "+34 606 06 87 27"
-opening_hours: "Mo-Fr 09:30-20:30; Sa 09:30-13:30,16:30-20:30"
-website: "https://granel.cat/ca/shop/granel-palamos/"
+street: Carrer Major
+housenumber: "31"
+phone: +34 606 06 87 27
+opening_hours: Mo-Fr 09:30-20:30; Sa 09:30-13:30,16:30-20:30
+website: https://granel.cat/ca/shop/granel-palamos/

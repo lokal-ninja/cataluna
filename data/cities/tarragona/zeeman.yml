@@ -4,8 +4,8 @@ latitude: 41.11944
 longitude: 1.21269
 postcode: "43006"
 city: Tarragona
-street: "Carrer de Sant Benilde"
-housenumber: 6
-phone: "+34 877990012"
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.zeeman.com/es/store/tarragona-sant-benilde-carrer-sant-benilde"
+street: Carrer de Sant Benilde
+housenumber: "6"
+phone: +34 877990012
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.zeeman.com/es/store/tarragona-sant-benilde-carrer-sant-benilde

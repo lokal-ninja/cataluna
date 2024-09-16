@@ -4,8 +4,8 @@ latitude: 41.38773
 longitude: 2.16644
 postcode: "08007"
 city: Barcelona
-street: "Gran Via de les Corts Catalanes"
-housenumber: 616
-phone: "+34 93 342 71 71"
-opening_hours: "Mo-Sa 10:00-14:00,16:00-20:30"
-website: "https://www.altair.es/"
+street: Gran Via de les Corts Catalanes
+housenumber: "616"
+phone: +34 93 342 71 71
+opening_hours: Mo-Sa 10:00-14:00,16:00-20:30
+website: https://www.altair.es/

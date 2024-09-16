@@ -4,8 +4,8 @@ latitude: 41.37162
 longitude: 2.16642
 postcode: "08004"
 city: Barcelona
-street: "Carrer Nou de la Rambla"
-housenumber: 174
+street: Carrer Nou de la Rambla
+housenumber: "174"
 phone: ""
-opening_hours: "10-18h (consultar)"
+opening_hours: 10-18h (consultar)
 website: ""

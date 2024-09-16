@@ -4,8 +4,8 @@ latitude: 41.40424
 longitude: 2.14582
 postcode: "08006"
 city: Barcelona
-street: "Carrer de Saragossa"
-housenumber: 113
-phone: "+34 933 68 58 73"
-opening_hours: "We-Sa 10:30-14:00,17:00-20:30; Su-Tu off"
-website: "https://tetere.com/"
+street: Carrer de Saragossa
+housenumber: "113"
+phone: +34 933 68 58 73
+opening_hours: We-Sa 10:30-14:00,17:00-20:30; Su-Tu off
+website: https://tetere.com/

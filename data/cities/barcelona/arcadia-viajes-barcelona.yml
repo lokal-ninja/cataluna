@@ -4,8 +4,8 @@ latitude: 41.38747
 longitude: 2.17155
 postcode: "08007"
 city: Barcelona
-street: "Passeig de Gràcia"
-housenumber: 5.0
-phone: "+34 655 20 50 35"
-opening_hours: "24/7"
-website: "www.arcadia-viajes.com"
+street: Passeig de Gràcia
+housenumber: "5.0"
+phone: +34 655 20 50 35
+opening_hours: 24/7
+website: https://arcadia-viajes.com/

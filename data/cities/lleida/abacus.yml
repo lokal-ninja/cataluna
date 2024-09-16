@@ -4,8 +4,8 @@ latitude: 41.61548
 longitude: 0.62116
 postcode: "25002"
 city: Lleida
-street: "Rambla d'Aragó"
-housenumber: 14
+street: Rambla d'Aragó
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:30-14:00,16:30-20:30; Sa 10:00-14:00,16:30-20:00"
-website: "https://www.abacus.coop/ca/botiga-abacus?storeid=B021"
+opening_hours: Mo-Fr 09:30-14:00,16:30-20:30; Sa 10:00-14:00,16:30-20:00
+website: https://www.abacus.coop/ca/botiga-abacus?storeid=B021

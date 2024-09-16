@@ -4,8 +4,8 @@ latitude: 41.394
 longitude: 2.15056
 postcode: ""
 city: Barcelona
-street: "Avinguda Diagonal"
-housenumber: 437
-phone: "+34 93 390 11 00"
-opening_hours: "24/7"
-website: "https://www.workcenter.es/"
+street: Avinguda Diagonal
+housenumber: "437"
+phone: +34 93 390 11 00
+opening_hours: 24/7
+website: https://www.workcenter.es/

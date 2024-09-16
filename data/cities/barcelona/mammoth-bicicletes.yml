@@ -4,8 +4,8 @@ latitude: 41.39619
 longitude: 2.16458
 postcode: "08037"
 city: Barcelona
-street: "Carrer de Roger de Llúria"
-housenumber: 115
+street: Carrer de Roger de Llúria
+housenumber: "115"
 phone: "+34934521616"
-opening_hours: "Mo-Sa 11:00-14:00,17:00-20:30"
+opening_hours: Mo-Sa 11:00-14:00,17:00-20:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.38463
 longitude: 2.1641
 postcode: "08001"
 city: Barcelona
-street: "Ronda de Sant Antoni"
-housenumber: 96
-phone: "93 301 80 37"
-opening_hours: "Mo-Sa 07:30-20:30"
-website: "https://www.fornmistral.com/"
+street: Ronda de Sant Antoni
+housenumber: "96"
+phone: 93 301 80 37
+opening_hours: Mo-Sa 07:30-20:30
+website: https://www.fornmistral.com/

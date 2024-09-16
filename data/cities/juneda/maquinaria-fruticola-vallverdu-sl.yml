@@ -1,11 +1,11 @@
 id: 984589939
-type: way
+type: node
 latitude: 41.55077
 longitude: 0.82693
 postcode: "25430"
 city: Juneda
-street: "Carrer Fondo"
-housenumber: 74
-phone: "+34 973 150 180"
+street: Carrer Fondo
+housenumber: "74"
+phone: +34 973 150 180
 opening_hours: ""
-website: "https://maqfrutvallverdu.com/"
+website: https://maqfrutvallverdu.com/

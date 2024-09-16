@@ -1,11 +1,11 @@
 id: 1012719925
-type: way
+type: node
 latitude: 41.93748
 longitude: 2.25485
 postcode: "08500"
 city: Vic
-street: "Carretera de Manlleu"
-housenumber: 36
+street: Carretera de Manlleu
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://casacuberta.toyota.es/"
+website: https://casacuberta.toyota.es/

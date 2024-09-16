@@ -4,8 +4,8 @@ latitude: 41.60884
 longitude: 0.66344
 postcode: "25001"
 city: Lleida
-street: "Plaça de Joan XXIII"
-housenumber: 5
+street: Plaça de Joan XXIII
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.caprabo.com"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.caprabo.com

@@ -4,8 +4,8 @@ latitude: 41.60292
 longitude: 0.64264
 postcode: "25001"
 city: Lleida
-street: "Carrer de Sant Francesc de Sales"
-housenumber: 7
+street: Carrer de Sant Francesc de Sales
+housenumber: "7"
 phone: "+34973201153"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-13:00"
-website: "https://vilaseca-automocio.negocio.site/"
+opening_hours: Mo-Fr 08:30-20:00; Sa 09:00-13:00
+website: https://vilaseca-automocio.negocio.site/

@@ -4,8 +4,8 @@ latitude: 41.37881
 longitude: 2.15827
 postcode: "08015"
 city: Barcelona
-street: "Carrer de Viladomat"
-housenumber: 85
-phone: "+34 935 14 76 95"
-opening_hours: "Mo-Fr 11:00-14:00,17:00-21:00; Sa 11:00-15:00"
+street: Carrer de Viladomat
+housenumber: "85"
+phone: +34 935 14 76 95
+opening_hours: Mo-Fr 11:00-14:00,17:00-21:00; Sa 11:00-15:00
 website: ""

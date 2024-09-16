@@ -4,8 +4,9 @@ latitude: 41.43922
 longitude: 2.22176
 postcode: "08913"
 city: Badalona
-street: "Carrer de la Mina"
-housenumber: 24
-phone: "+34 679 74 55 26"
-opening_hours: "Tu-Th 09:30-13:00,16:30-20:00; Fr 09:30-13:00,14:00-20:00; Sa 09:30-13:30; Mo 15:30-20:00; PH closed"
+street: Carrer de la Mina
+housenumber: "24"
+phone: +34 679 74 55 26
+opening_hours: Tu-Th 09:30-13:00,16:30-20:00; Fr 09:30-13:00,14:00-20:00; Sa 09:30-13:30;
+    Mo 15:30-20:00; PH closed
 website: ""

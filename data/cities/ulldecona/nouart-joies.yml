@@ -4,8 +4,8 @@ latitude: 40.5981
 longitude: 0.4484
 postcode: "43550"
 city: Ulldecona
-street: "Carrer Major"
-housenumber: 58
-phone: "+34 977 573 249"
-opening_hours: "10:00-13:30,17:00-20:30"
-website: "http://www.nouartjoies.com"
+street: Carrer Major
+housenumber: "58"
+phone: +34 977 573 249
+opening_hours: 10:00-13:30,17:00-20:30
+website: http://www.nouartjoies.com

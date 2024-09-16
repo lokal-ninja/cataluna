@@ -1,10 +1,10 @@
 id: 95200123
-type: way
+type: node
 latitude: 41.48364
 longitude: 2.05416
 postcode: "08174"
 city: Sant Cugat del Vallès
-street: "Avinguda de la Via Augusta"
+street: Avinguda de la Via Augusta
 housenumber: 2-14
 phone: ""
 opening_hours: ""

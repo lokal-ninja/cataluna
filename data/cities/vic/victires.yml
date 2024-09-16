@@ -1,11 +1,11 @@
 id: 319019054
-type: way
+type: node
 latitude: 41.93865
 longitude: 2.2521
 postcode: "08500"
 city: Vic
-street: "Carrer de la Costa d'en Paratge"
-housenumber: 14
+street: Carrer de la Costa d'en Paratge
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

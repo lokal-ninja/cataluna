@@ -4,8 +4,8 @@ latitude: 41.42433
 longitude: 1.78723
 postcode: "08770"
 city: Sant Sadurní d'Anoia
-street: "carrer de l'Hospital"
-housenumber: 12
+street: carrer de l'Hospital
+housenumber: "12"
 phone: "+34938910292"
 opening_hours: ""
-website: "https://www.calmiquelo.com"
+website: https://www.calmiquelo.com

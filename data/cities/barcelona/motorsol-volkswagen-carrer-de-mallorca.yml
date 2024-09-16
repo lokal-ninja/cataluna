@@ -1,11 +1,11 @@
 id: 1092390217
-type: way
+type: node
 latitude: 41.38611
 longitude: 2.15248
 postcode: "08029"
 city: Barcelona
-street: "Carrer de Mallorca"
-housenumber: 112
+street: Carrer de Mallorca
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

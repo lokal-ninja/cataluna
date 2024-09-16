@@ -4,8 +4,8 @@ latitude: 41.39108
 longitude: 2.14093
 postcode: "08029"
 city: Barcelona
-street: "Avinguda de Sarrià"
-housenumber: 56
+street: Avinguda de Sarrià
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 09:30-14:00, 16:30-20:30; Sa 10:30-14:00"
+opening_hours: Mo-Fr 09:30-14:00, 16:30-20:30; Sa 10:30-14:00
 website: ""

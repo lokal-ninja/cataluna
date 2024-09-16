@@ -1,11 +1,11 @@
 id: 289936234
-type: way
+type: node
 latitude: 41.63197
 longitude: 0.62126
 postcode: "25005"
 city: Lleida
-street: "Avinguda de l'Alcalde Porqueres"
-housenumber: 111
+street: Avinguda de l'Alcalde Porqueres
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

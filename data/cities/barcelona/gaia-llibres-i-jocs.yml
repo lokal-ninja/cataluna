@@ -4,8 +4,8 @@ latitude: 41.41735
 longitude: 2.17101
 postcode: "08041"
 city: Barcelona
-street: "Avinguda de la Mare de Déu de Montserrat"
-housenumber: 153
-phone: "+34 930 324 501"
-opening_hours: "Mo-Fr 10:00-13:30,16:00-20:00; Sa 10:00-14:00"
+street: Avinguda de la Mare de Déu de Montserrat
+housenumber: "153"
+phone: +34 930 324 501
+opening_hours: Mo-Fr 10:00-13:30,16:00-20:00; Sa 10:00-14:00
 website: ""

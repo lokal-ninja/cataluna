@@ -4,8 +4,8 @@ latitude: 41.4123
 longitude: 2.19331
 postcode: "08018"
 city: Barcelona
-street: "carrer Lope de Vega"
-housenumber: 282
+street: carrer Lope de Vega
+housenumber: "282"
 phone: ""
 opening_hours: ""
-website: "http://farmaciadelclotdelamel.com/"
+website: http://farmaciadelclotdelamel.com/

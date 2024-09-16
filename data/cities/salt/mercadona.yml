@@ -1,11 +1,11 @@
 id: 120674913
-type: way
+type: node
 latitude: 41.97202
 longitude: 2.78699
 postcode: "17190"
 city: Salt
-street: "Passeig Països Catalans"
-housenumber: 192
+street: Passeig Països Catalans
+housenumber: "192"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

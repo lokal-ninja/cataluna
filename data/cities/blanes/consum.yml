@@ -1,11 +1,11 @@
 id: 702276847
-type: way
+type: node
 latitude: 41.68396
 longitude: 2.79237
 postcode: "17300"
 city: Blanes
-street: "Avinguda Parlament de Catalunya"
-housenumber: 79
+street: Avinguda Parlament de Catalunya
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

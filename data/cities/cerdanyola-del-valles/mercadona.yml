@@ -1,11 +1,11 @@
 id: 333150436
-type: way
+type: node
 latitude: 41.4972
 longitude: 2.13755
 postcode: "08290"
 city: Cerdanyola del Vallès
-street: "Carrer de Santa Anna"
-housenumber: 84
+street: Carrer de Santa Anna
+housenumber: "84"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

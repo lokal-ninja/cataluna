@@ -1,11 +1,11 @@
 id: 249403188
-type: way
+type: node
 latitude: 41.38256
 longitude: 2.15738
 postcode: ""
 city: Barcelona
-street: "Carrer de la Diputació"
-housenumber: 146
+street: Carrer de la Diputació
+housenumber: "146"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

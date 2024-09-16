@@ -1,11 +1,11 @@
 id: 180528729
-type: way
+type: node
 latitude: 41.54923
 longitude: 2.20659
 postcode: "08100"
 city: Mollet del Vallès
-street: "Carrer de Nicaragua"
-housenumber: 
+street: Carrer de Nicaragua
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,10 +1,10 @@
 id: 802171002
-type: way
+type: node
 latitude: 41.41062
 longitude: 2.14644
 postcode: "08023"
 city: Barcelona
-street: "Avinguda de Vallcarca"
+street: Avinguda de Vallcarca
 housenumber: 77,79
 phone: ""
 opening_hours: ""

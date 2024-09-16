@@ -4,8 +4,8 @@ latitude: 41.37596
 longitude: 2.1229
 postcode: "08028"
 city: Barcelona
-street: "Avinguda de Madrid"
-housenumber: 3
+street: Avinguda de Madrid
+housenumber: "3"
 phone: "+34933332626"
 opening_hours: ""
-website: "http://www.vitalisestetica.es/"
+website: http://www.vitalisestetica.es/

@@ -4,8 +4,8 @@ latitude: 41.84992
 longitude: 3.10852
 postcode: "17252"
 city: Calonge i Sant Antoni
-street: "Carrer de l'Empordà"
-housenumber: 29
-phone: "http://tecnibike.es/"
-opening_hours: "Mo-Sa 9:00-13:00, 16:00-20:00"
+street: Carrer de l'Empordà
+housenumber: "29"
+phone: http://tecnibike.es/
+opening_hours: Mo-Sa 9:00-13:00, 16:00-20:00
 website: ""

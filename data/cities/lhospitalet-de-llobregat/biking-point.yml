@@ -4,8 +4,8 @@ latitude: 41.3671
 longitude: 2.12859
 postcode: "08902"
 city: l'Hospitalet de Llobregat
-street: "Carrer de Santa Eulàlia"
-housenumber: 55
-phone: "+34 93 331 72 44"
-opening_hours: "Mo-Fr 09:45-13:30, 17:00-20:30; Sa 09:45-13:30"
-website: "https://www.bikingpoint.es/"
+street: Carrer de Santa Eulàlia
+housenumber: "55"
+phone: +34 93 331 72 44
+opening_hours: Mo-Fr 09:45-13:30, 17:00-20:30; Sa 09:45-13:30
+website: https://www.bikingpoint.es/

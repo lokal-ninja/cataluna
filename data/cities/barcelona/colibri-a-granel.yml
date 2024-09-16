@@ -4,8 +4,8 @@ latitude: 41.40435
 longitude: 2.15023
 postcode: "08012"
 city: Barcelona
-street: "Avinguda de la Riera de Cassoles"
-housenumber: 37
-phone: "+34 635 18 18 72"
-opening_hours: "Mo-Fr 10:00-14:30,17:00-20:30; Sa 10:00-14:00"
-website: "https://colibriagranel.com"
+street: Avinguda de la Riera de Cassoles
+housenumber: "37"
+phone: +34 635 18 18 72
+opening_hours: Mo-Fr 10:00-14:30,17:00-20:30; Sa 10:00-14:00
+website: https://colibriagranel.com

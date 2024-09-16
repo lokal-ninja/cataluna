@@ -1,11 +1,11 @@
 id: 184182187
-type: way
+type: node
 latitude: 41.54446
 longitude: 2.20775
 postcode: "08100"
 city: Mollet del Vallès
-street: "Plaça dels Cinc Pins"
+street: Plaça dels Cinc Pins
 housenumber: 26-36
-phone: "+34 935705012"
+phone: +34 935705012
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

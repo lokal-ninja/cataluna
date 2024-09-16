@@ -4,8 +4,8 @@ latitude: 41.6044
 longitude: 0.64129
 postcode: "25001"
 city: Lleida
-street: "Avinguda de Flix"
-housenumber: 22
-phone: "+34 973212260"
-opening_hours: "Mo-Fr 09:30-13:30, 16:30-20:00; Sa 10:00-13:30"
+street: Avinguda de Flix
+housenumber: "22"
+phone: +34 973212260
+opening_hours: Mo-Fr 09:30-13:30, 16:30-20:00; Sa 10:00-13:30
 website: ""

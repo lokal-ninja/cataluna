@@ -1,11 +1,11 @@
 id: 1269068842
-type: way
+type: node
 latitude: 41.47772
 longitude: 2.31213
 postcode: "08320"
 city: El Masnou
-street: "Carrer Mossèn Jacint Verdaguer"
-housenumber: 6
+street: Carrer Mossèn Jacint Verdaguer
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

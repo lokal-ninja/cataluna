@@ -4,8 +4,8 @@ latitude: 41.4054
 longitude: 2.16326
 postcode: "08024"
 city: Barcelona
-street: "Carrer de l'Escorial"
-housenumber: 10
+street: Carrer de l'Escorial
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

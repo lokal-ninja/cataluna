@@ -4,8 +4,8 @@ latitude: 41.35817
 longitude: 2.14077
 postcode: "08038"
 city: Barcelona
-street: "Passeig de la Zona Franca"
-housenumber: 132
-phone: "+34 934321590"
-opening_hours: "Mo 15:00-20:00; Tu-Fr 09:00-20:00; Sa 09:00-14:30"
+street: Passeig de la Zona Franca
+housenumber: "132"
+phone: +34 934321590
+opening_hours: Mo 15:00-20:00; Tu-Fr 09:00-20:00; Sa 09:00-14:30
 website: ""

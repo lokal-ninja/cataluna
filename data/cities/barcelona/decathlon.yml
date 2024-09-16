@@ -4,8 +4,8 @@ latitude: 41.38935
 longitude: 2.1333
 postcode: "08029"
 city: Barcelona
-street: "Avinguda Diagonal"
-housenumber: 557
+street: Avinguda Diagonal
+housenumber: "557"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.decathlon.es"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.decathlon.es

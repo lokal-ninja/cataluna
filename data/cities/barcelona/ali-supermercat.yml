@@ -4,8 +4,8 @@ latitude: 41.37665
 longitude: 2.12216
 postcode: "08028"
 city: Barcelona
-street: "Carrer del Regent Mendieta"
-housenumber: 6
+street: Carrer del Regent Mendieta
+housenumber: "6"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

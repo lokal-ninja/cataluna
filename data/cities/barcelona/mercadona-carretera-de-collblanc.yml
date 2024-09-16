@@ -4,8 +4,8 @@ latitude: 41.37592
 longitude: 2.11567
 postcode: "08028"
 city: Barcelona
-street: "Carretera de Collblanc"
-housenumber: 90
-phone: "+34 938 84 47 09"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Carretera de Collblanc
+housenumber: "90"
+phone: +34 938 84 47 09
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

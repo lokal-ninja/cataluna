@@ -4,8 +4,8 @@ latitude: 41.4165
 longitude: 2.19521
 postcode: "08020"
 city: Barcelona
-street: "Carrer de Huelva"
-housenumber: 54
-phone: "+3493 308 72 55"
-opening_hours: "Mo-Fr 09:00-13:30, 16:30-20:00; Sa 09:00-13:30"
+street: Carrer de Huelva
+housenumber: "54"
+phone: +3493 308 72 55
+opening_hours: Mo-Fr 09:00-13:30, 16:30-20:00; Sa 09:00-13:30
 website: ""

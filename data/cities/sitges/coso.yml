@@ -4,8 +4,8 @@ latitude: 41.23685
 longitude: 1.80901
 postcode: "08870"
 city: Sitges
-street: "Carrer de Sant Francesc"
-housenumber: 3
+street: Carrer de Sant Francesc
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.cosositges.com/"
+website: https://www.cosositges.com/

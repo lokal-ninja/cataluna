@@ -4,8 +4,8 @@ latitude: 41.60266
 longitude: 0.64138
 postcode: "25001"
 city: Lleida
-street: "Carrer d'Osca"
-housenumber: 3
+street: Carrer d'Osca
+housenumber: "3"
 phone: "+34973670234"
 opening_hours: ""
-website: "http://grupgevadri.com/"
+website: http://grupgevadri.com/

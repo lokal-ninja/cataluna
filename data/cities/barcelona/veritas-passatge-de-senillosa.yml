@@ -4,8 +4,8 @@ latitude: 41.39566
 longitude: 2.12486
 postcode: ""
 city: Barcelona
-street: "Passatge de Senillosa"
-housenumber: 4
+street: Passatge de Senillosa
+housenumber: "4"
 phone: "+34932058020"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.veritas.es/"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.veritas.es/

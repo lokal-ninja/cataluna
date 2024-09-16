@@ -1,11 +1,11 @@
 id: 1083804147
-type: way
+type: node
 latitude: 41.61347
 longitude: 0.62457
 postcode: "25007"
 city: Lleida
-street: "Carrer Major"
-housenumber: 72
+street: Carrer Major
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 721113151
-type: way
+type: node
 latitude: 41.46072
 longitude: 2.23525
 postcode: "08917"
 city: Badalona
-street: "Carrer de la Filosofia"
-housenumber: 6
-phone: "+34 900 958 311"
-opening_hours: "Mo-Sa 09:00-21:30"
+street: Carrer de la Filosofia
+housenumber: "6"
+phone: +34 900 958 311
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.40194
 longitude: 2.1638
 postcode: "08037"
 city: Barcelona
-street: "Carrer de Bailèn"
-housenumber: 201
+street: Carrer de Bailèn
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Fr 09:00-14:00,16:30-20:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-14:00,16:30-20:00; Sa 09:00-14:00
 website: ""

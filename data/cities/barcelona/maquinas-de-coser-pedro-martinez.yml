@@ -4,8 +4,8 @@ latitude: 41.41654
 longitude: 2.19567
 postcode: "08020"
 city: Barcelona
-street: "Carrer del Doctor Zamenhof"
+street: Carrer del Doctor Zamenhof
 housenumber: 12-14
-phone: "+34 933 08 04 45"
-opening_hours: "Mo-Fr 17:00-20:00; We 10:00-13:00,17:00-20:00"
+phone: +34 933 08 04 45
+opening_hours: Mo-Fr 17:00-20:00; We 10:00-13:00,17:00-20:00
 website: ""

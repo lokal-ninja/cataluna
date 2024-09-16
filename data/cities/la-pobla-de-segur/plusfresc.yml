@@ -4,8 +4,8 @@ latitude: 42.24966
 longitude: 0.96617
 postcode: "25500"
 city: la Pobla de Segur
-street: "Avinguda de Madrid"
-housenumber: 1
-phone: "+34 973680292"
-opening_hours: "Mo-Fr 09:00-13:30,16:30-20:30; Sa 17:00-20:30"
-website: "https://www.plusfresc.cat/"
+street: Avinguda de Madrid
+housenumber: "1"
+phone: +34 973680292
+opening_hours: Mo-Fr 09:00-13:30,16:30-20:30; Sa 17:00-20:30
+website: https://www.plusfresc.cat/

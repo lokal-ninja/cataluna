@@ -4,8 +4,8 @@ latitude: 41.54426
 longitude: 2.21743
 postcode: "08100"
 city: Mollet del Vallès
-street: "Avinguda d'Antoni Gaudí"
-housenumber: 2
-phone: "+34 935705414"
-opening_hours: "Mo-Fr 09:00-13:30, 15:30-20:00; Sa 09:00-13:00"
-website: "https://www.recambiosmollet.es"
+street: Avinguda d'Antoni Gaudí
+housenumber: "2"
+phone: +34 935705414
+opening_hours: Mo-Fr 09:00-13:30, 15:30-20:00; Sa 09:00-13:00
+website: https://www.recambiosmollet.es

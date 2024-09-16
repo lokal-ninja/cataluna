@@ -4,8 +4,8 @@ latitude: 41.44026
 longitude: 2.22241
 postcode: "08914"
 city: Badalona
-street: "Avinguda del Marquès de Sant Mori"
-housenumber: 167
-phone: "+34 933 99 94 59"
-opening_hours: "Mo-Fr 10:30-13:30,17:30-20:30; Sa 10:30-13:30; PH closed"
+street: Avinguda del Marquès de Sant Mori
+housenumber: "167"
+phone: +34 933 99 94 59
+opening_hours: Mo-Fr 10:30-13:30,17:30-20:30; Sa 10:30-13:30; PH closed
 website: ""

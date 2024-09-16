@@ -1,11 +1,11 @@
 id: 191108832
-type: way
+type: node
 latitude: 41.4097
 longitude: 1.9722
 postcode: "08756"
 city: la Palma de Cervelló
-street: "Passeig del Roure"
-housenumber: 
-phone: "+34 936722600"
+street: Passeig del Roure
+housenumber: ""
+phone: +34 936722600
 opening_hours: ""
 website: ""

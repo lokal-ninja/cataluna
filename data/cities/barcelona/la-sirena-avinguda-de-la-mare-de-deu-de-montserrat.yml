@@ -4,8 +4,8 @@ latitude: 41.4148
 longitude: 2.16435
 postcode: "08024"
 city: Barcelona
-street: "Avinguda de la Mare de Déu de Montserrat"
-housenumber: 61
+street: Avinguda de la Mare de Déu de Montserrat
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.lasirena.es/"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.lasirena.es/

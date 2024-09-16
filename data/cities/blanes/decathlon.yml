@@ -1,11 +1,11 @@
 id: 855654500
-type: way
+type: node
 latitude: 41.68293
 longitude: 2.79188
 postcode: "17300"
 city: Blanes
-street: "Avinguda Parlament de Catalunya"
-housenumber: 38
+street: Avinguda Parlament de Catalunya
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://www.decathlon.es"
+opening_hours: Mo-Su 09:00-22:00
+website: https://www.decathlon.es

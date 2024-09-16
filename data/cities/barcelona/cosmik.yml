@@ -4,8 +4,8 @@ latitude: 41.38598
 longitude: 2.14883
 postcode: "08029"
 city: Barcelona
-street: "Carrer de Viladomat"
-housenumber: 235
-phone: "+34 655 410911"
-opening_hours: "Mo-Sa 10:00-14:00; We-Th 17:00-20:00"
-website: "https://cosmik.es"
+street: Carrer de Viladomat
+housenumber: "235"
+phone: +34 655 410911
+opening_hours: Mo-Sa 10:00-14:00; We-Th 17:00-20:00
+website: https://cosmik.es

@@ -1,11 +1,11 @@
 id: 371331124
-type: way
+type: node
 latitude: 41.92901
 longitude: 2.24594
 postcode: "08500"
 city: Vic
-street: "Eix Onze de Setembre"
-housenumber: 20
-phone: "+34 938 85 12 95"
+street: Eix Onze de Setembre
+housenumber: "20"
+phone: +34 938 85 12 95
 opening_hours: ""
-website: "http://www.fomarpintures.com"
+website: http://www.fomarpintures.com

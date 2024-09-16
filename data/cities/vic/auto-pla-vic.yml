@@ -1,11 +1,11 @@
 id: 462986284
-type: way
+type: node
 latitude: 41.93908
 longitude: 2.24506
 postcode: "08500"
 city: Vic
-street: "carrer l'Esperança"
-housenumber: 13
+street: carrer l'Esperança
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.61382
 longitude: 0.6253
 postcode: "25007"
 city: Lleida
-street: "Carrer Major"
-housenumber: 54
-phone: "+34 932714514"
+street: Carrer Major
+housenumber: "54"
+phone: +34 932714514
 opening_hours: ""
-website: "https://singularu.com/"
+website: https://singularu.com/

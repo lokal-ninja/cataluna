@@ -1,11 +1,11 @@
 id: 468778479
-type: way
+type: node
 latitude: 41.56599
 longitude: 2.51924
 postcode: "08394"
 city: Sant Vicenç de Montalt
-street: "Carrer de les Animes"
-housenumber: 18
+street: Carrer de les Animes
+housenumber: "18"
 phone: "+34936816101"
-opening_hours: "Mo-Fr 09:30-14:30,16:00-20:30; Sa 10:00-14:00"
-website: "https://www.ocasionplus.com/"
+opening_hours: Mo-Fr 09:30-14:30,16:00-20:30; Sa 10:00-14:00
+website: https://www.ocasionplus.com/

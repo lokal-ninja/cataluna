@@ -4,8 +4,8 @@ latitude: 41.43086
 longitude: 2.1756
 postcode: "08016"
 city: Barcelona
-street: "Carrer de Santanyí"
-housenumber: 6
+street: Carrer de Santanyí
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

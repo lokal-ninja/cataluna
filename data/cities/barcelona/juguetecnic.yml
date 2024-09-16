@@ -4,8 +4,8 @@ latitude: 41.39625
 longitude: 2.14149
 postcode: "08021"
 city: Barcelona
-street: "Carrer de Calvet"
-housenumber: 63
+street: Carrer de Calvet
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://juguetecnic.com/"
+website: https://juguetecnic.com/

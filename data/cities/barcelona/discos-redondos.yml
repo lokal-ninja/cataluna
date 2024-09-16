@@ -4,8 +4,8 @@ latitude: 41.38075
 longitude: 2.15841
 postcode: "08015"
 city: Barcelona
-street: "Carrer del Comte Borrell"
-housenumber: 100
+street: Carrer del Comte Borrell
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 11:00-14:30,16:30-20:30; Sa 11:00-14:30; PH off"
-website: "https://discos-redondos.es/"
+opening_hours: Mo-Fr 11:00-14:30,16:30-20:30; Sa 11:00-14:30; PH off
+website: https://discos-redondos.es/

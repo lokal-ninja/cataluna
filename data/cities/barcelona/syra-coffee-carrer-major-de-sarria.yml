@@ -4,8 +4,8 @@ latitude: 41.39778
 longitude: 2.1228
 postcode: ""
 city: Barcelona
-street: "Carrer Major de Sarrià"
-housenumber: 55
+street: Carrer Major de Sarrià
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-20:00"
-website: "https://syra.coffee/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-20:00
+website: https://syra.coffee/

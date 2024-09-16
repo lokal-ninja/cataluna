@@ -1,11 +1,11 @@
 id: 33778434
-type: way
+type: node
 latitude: 41.35375
 longitude: 2.12325
 postcode: "08908"
 city: Barcelona
-street: "Avinguda de la Gran Via de l'Hospitalet"
+street: Avinguda de la Gran Via de l'Hospitalet
 housenumber: 115-134
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.ikea.com/es/es"
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.ikea.com/es/es

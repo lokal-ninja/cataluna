@@ -4,8 +4,8 @@ latitude: 41.58729
 longitude: 2.57871
 postcode: "08360"
 city: Canet de Mar
-street: "Carrer de Girona"
-housenumber: 1
-phone: "+34 937 942 914"
-opening_hours: "Mo,We,Th,Fr 09:00-13:00, 15:30-19:30; Tu,Sa 09:00-13:00; Su off"
+street: Carrer de Girona
+housenumber: "1"
+phone: +34 937 942 914
+opening_hours: Mo,We,Th,Fr 09:00-13:00, 15:30-19:30; Tu,Sa 09:00-13:00; Su off
 website: ""

@@ -4,8 +4,9 @@ latitude: 41.26568
 longitude: 0.9056
 postcode: "43360"
 city: Cornudella de Montsant
-street: "Plaça de la Vila"
-housenumber: 3
-phone: "+34 626 23 39 22"
-opening_hours: "Mo 18:30-20:15; Tu,Fr 09:00-13:30,17:00-20:00; We,Sa 09:00-13:30,17:30-20:00; Th 09:00-13:00,18:30-20:15; PH closed"
-website: "https://lobaga.negocio.site/"
+street: Plaça de la Vila
+housenumber: "3"
+phone: +34 626 23 39 22
+opening_hours: Mo 18:30-20:15; Tu,Fr 09:00-13:30,17:00-20:00; We,Sa 09:00-13:30,17:30-20:00;
+    Th 09:00-13:00,18:30-20:15; PH closed
+website: https://lobaga.negocio.site/

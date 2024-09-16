@@ -4,8 +4,8 @@ latitude: 41.37928
 longitude: 2.15248
 postcode: "08015"
 city: Barcelona
-street: "Carrer de la Diputació"
-housenumber: 50
-phone: "+34 93 853 30 32"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://nudeestetic.com/"
+street: Carrer de la Diputació
+housenumber: "50"
+phone: +34 93 853 30 32
+opening_hours: Mo-Sa 10:00-20:00
+website: http://nudeestetic.com/

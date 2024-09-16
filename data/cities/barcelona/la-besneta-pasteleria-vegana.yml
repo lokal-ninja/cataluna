@@ -4,8 +4,8 @@ latitude: 41.40387
 longitude: 2.15827
 postcode: "08012"
 city: Barcelona
-street: "Carrer de Torrijos"
-housenumber: 37
-phone: "+34 934 15 38 39"
-opening_hours: "Tu-Su 10:30-21:00; Mo 10:30-15:00; Tu-Su 10:30-14:00,16:00-20:30"
-website: "https://labesneta.com/;https://www.labesneta.com"
+street: Carrer de Torrijos
+housenumber: "37"
+phone: +34 934 15 38 39
+opening_hours: Tu-Su 10:30-21:00; Mo 10:30-15:00; Tu-Su 10:30-14:00,16:00-20:30
+website: https://labesneta.com/;https://www.labesneta.com

@@ -1,11 +1,11 @@
 id: 532825246
-type: way
+type: node
 latitude: 42.00121
 longitude: 2.29202
 postcode: "08560"
 city: Manlleu
-street: "Carrer de l'Esquirol"
-housenumber: 24
+street: Carrer de l'Esquirol
+housenumber: "24"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30,15:00-19:00; Sa 08:00-15:00"
+opening_hours: Tu-Fr 09:00-12:30,15:00-19:00; Sa 08:00-15:00
 website: ""

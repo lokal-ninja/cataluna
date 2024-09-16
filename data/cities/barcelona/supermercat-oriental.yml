@@ -4,8 +4,8 @@ latitude: 41.37479
 longitude: 2.13105
 postcode: "08028"
 city: Barcelona
-street: "Rambla de Badal"
-housenumber: 190
+street: Rambla de Badal
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

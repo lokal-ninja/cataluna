@@ -1,11 +1,11 @@
 id: 567873362
-type: way
+type: node
 latitude: 41.00556
 longitude: 0.9354
 postcode: "43892"
 city: Mont-roig del Camp
-street: "Avinguda de Barcelona"
-housenumber: 129
+street: Avinguda de Barcelona
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

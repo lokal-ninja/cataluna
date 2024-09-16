@@ -4,8 +4,8 @@ latitude: 41.56113
 longitude: 2.01296
 postcode: "08221"
 city: Terrassa, Barcelona
-street: "Carrer de la Palla"
-housenumber: 22
-phone: "+34 937841478"
-opening_hours: "Mo-Sa 09:00-13:00,16:30-20:30"
-website: "https://quimcacau.cat/"
+street: Carrer de la Palla
+housenumber: "22"
+phone: +34 937841478
+opening_hours: Mo-Sa 09:00-13:00,16:30-20:30
+website: https://quimcacau.cat/

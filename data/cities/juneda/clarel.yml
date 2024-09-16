@@ -1,11 +1,11 @@
 id: 988761614
-type: way
+type: node
 latitude: 41.54769
 longitude: 0.82437
 postcode: "25430"
 city: Juneda
-street: "Carrer de Josep Anselm Clavé"
-housenumber: 26
+street: Carrer de Josep Anselm Clavé
+housenumber: "26"
 phone: "+34618106751"
-opening_hours: "Mo-Sa 09:00-13:30,17:00-20:15"
-website: "https://www.clarel.es/"
+opening_hours: Mo-Sa 09:00-13:30,17:00-20:15
+website: https://www.clarel.es/

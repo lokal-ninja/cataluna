@@ -4,8 +4,8 @@ latitude: 41.40411
 longitude: 2.13066
 postcode: "08022"
 city: Barcelona
-street: "Carrer de Ganduxer"
-housenumber: 140
-phone: "+34 685 954 542"
-opening_hours: "Mo-Sa 10:00-14:00, 17:00-20:00"
-website: "https://www.hastens.com"
+street: Carrer de Ganduxer
+housenumber: "140"
+phone: +34 685 954 542
+opening_hours: Mo-Sa 10:00-14:00, 17:00-20:00
+website: https://www.hastens.com

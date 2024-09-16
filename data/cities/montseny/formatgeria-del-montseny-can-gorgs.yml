@@ -1,11 +1,11 @@
 id: 345899611
-type: way
+type: node
 latitude: 41.78155
 longitude: 2.40257
 postcode: "08469"
 city: Montseny
-street: "Carretera de Montseny a Seva"
-housenumber: 
-phone: "+34 938473238"
-opening_hours: "Jun-Aug: Sa-Su 11:00-20:00; Dec-Feb: Sa-Su 11:00-18:00"
-website: "https://www.formatgeriadelmontseny.com/"
+street: Carretera de Montseny a Seva
+housenumber: ""
+phone: +34 938473238
+opening_hours: 'Jun-Aug: Sa-Su 11:00-20:00; Dec-Feb: Sa-Su 11:00-18:00'
+website: https://www.formatgeriadelmontseny.com/

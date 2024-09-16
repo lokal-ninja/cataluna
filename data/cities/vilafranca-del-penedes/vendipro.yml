@@ -1,11 +1,11 @@
 id: 711102021
-type: way
+type: node
 latitude: 41.33937
 longitude: 1.68677
 postcode: "08720"
 city: Vilafranca del Penedès
-street: "Carrer de la Múnia"
-housenumber: 28
+street: Carrer de la Múnia
+housenumber: "28"
 phone: "+34610391027"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-19:00"
-website: "https://www.vendipro.com"
+opening_hours: Mo-Fr 08:00-13:00,15:00-19:00
+website: https://www.vendipro.com

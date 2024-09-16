@@ -4,8 +4,8 @@ latitude: 41.38043
 longitude: 2.16354
 postcode: "08001"
 city: Barcelona
-street: "Ronda de Sant Antoni"
-housenumber: 36
-phone: "+34 934 42 35 04"
-opening_hours: "Mo-Sa 10:00-21:00"
+street: Ronda de Sant Antoni
+housenumber: "36"
+phone: +34 934 42 35 04
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

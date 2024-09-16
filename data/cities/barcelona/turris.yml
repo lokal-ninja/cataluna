@@ -4,8 +4,8 @@ latitude: 41.39231
 longitude: 2.15435
 postcode: "08036"
 city: Barcelona
-street: "Carrer d'Aribau"
-housenumber: 158
+street: Carrer d'Aribau
+housenumber: "158"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-14:30"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-14:30
 website: ""

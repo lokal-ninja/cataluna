@@ -4,8 +4,8 @@ latitude: 41.40124
 longitude: 2.2023
 postcode: "08005"
 city: Barcelona
-street: "carrer Llull"
-housenumber: 187
-phone: "+34 934 85 49 92;+34 933 00 14 14"
-opening_hours: "Mo-Fr 08:30-22:00; Sa,Su 09:00-22:00"
+street: carrer Llull
+housenumber: "187"
+phone: +34 934 85 49 92;+34 933 00 14 14
+opening_hours: Mo-Fr 08:30-22:00; Sa,Su 09:00-22:00
 website: ""

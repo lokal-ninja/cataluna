@@ -1,11 +1,11 @@
 id: 1206685691
-type: way
+type: node
 latitude: 41.21245
 longitude: 0.81161
 postcode: "43737"
 city: Torroja del Priorat
-street: "Carrer de la Font"
-housenumber: 16
-phone: "+34 653 854 134"
+street: Carrer de la Font
+housenumber: "16"
+phone: +34 653 854 134
 opening_hours: ""
-website: "https://cellerescodapalleja.blogspot.com/"
+website: https://cellerescodapalleja.blogspot.com/

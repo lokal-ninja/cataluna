@@ -4,8 +4,8 @@ latitude: 41.40034
 longitude: 2.1534
 postcode: "08012"
 city: Barcelona
-street: "Carrer de Berga"
-housenumber: 4
-phone: "+34 930 07 47 83"
-opening_hours: "Mo-Sa 10:00-14:30,17:00-20:30"
-website: "https://canluc.es/"
+street: Carrer de Berga
+housenumber: "4"
+phone: +34 930 07 47 83
+opening_hours: Mo-Sa 10:00-14:30,17:00-20:30
+website: https://canluc.es/

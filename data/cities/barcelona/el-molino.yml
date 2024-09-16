@@ -4,8 +4,8 @@ latitude: 41.38128
 longitude: 2.13123
 postcode: "08028"
 city: Barcelona
-street: "Carrer de Lluçà"
-housenumber: 7
-phone: "+34 613 00 56 84"
-opening_hours: "Mo-Fr 09:00-14:00,17:00-21:00; Sa 09:00-14:00"
+street: Carrer de Lluçà
+housenumber: "7"
+phone: +34 613 00 56 84
+opening_hours: Mo-Fr 09:00-14:00,17:00-21:00; Sa 09:00-14:00
 website: ""

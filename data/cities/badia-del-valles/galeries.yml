@@ -1,11 +1,11 @@
 id: 122413254
-type: way
+type: node
 latitude: 41.50955
 longitude: 2.11316
 postcode: "08214"
 city: Badia del Vallès
-street: "Avinguda de la Via de la Plata"
-housenumber: 
+street: Avinguda de la Via de la Plata
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

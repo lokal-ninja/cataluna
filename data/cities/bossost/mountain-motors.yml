@@ -4,8 +4,8 @@ latitude: 42.78485
 longitude: 0.69339
 postcode: "25550"
 city: Bossòst
-street: "Carrèr de Sant Jaime"
-housenumber: 5
-phone: "+34 658 62 39 30"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.mountainmotos.cat/"
+street: Carrèr de Sant Jaime
+housenumber: "5"
+phone: +34 658 62 39 30
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.mountainmotos.cat/

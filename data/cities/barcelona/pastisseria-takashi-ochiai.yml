@@ -4,8 +4,9 @@ latitude: 41.38428
 longitude: 2.15616
 postcode: "08011"
 city: Barcelona
-street: "Carrer del Comte d'Urgell"
-housenumber: 110
-phone: "+34 934 53 63 83"
-opening_hours: "Tu-Fr 08:00-14:30,16:30-21:00; Sa 08:00-15:00,16:30-21:00; Su 08:00-15:00; Mo off; PH 08:00-15:00"
-website: "https://www.ochiaipastisseria.com/"
+street: Carrer del Comte d'Urgell
+housenumber: "110"
+phone: +34 934 53 63 83
+opening_hours: Tu-Fr 08:00-14:30,16:30-21:00; Sa 08:00-15:00,16:30-21:00; Su 08:00-15:00;
+    Mo off; PH 08:00-15:00
+website: https://www.ochiaipastisseria.com/

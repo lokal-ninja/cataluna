@@ -4,8 +4,8 @@ latitude: 41.39194
 longitude: 2.15798
 postcode: "08008"
 city: Barcelona
-street: "Carrer de Provença"
-housenumber: 242
-phone: "+34 683118961"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00; PH closed"
-website: "https://www.linverd.com/"
+street: Carrer de Provença
+housenumber: "242"
+phone: +34 683118961
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00; PH closed
+website: https://www.linverd.com/

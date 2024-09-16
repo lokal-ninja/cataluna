@@ -4,8 +4,8 @@ latitude: 41.38227
 longitude: 2.13719
 postcode: "08014"
 city: Barcelona
-street: "Carrer de Berlín"
-housenumber: 6
-phone: "+34 93 330 25 69"
-opening_hours: "Mo-Sa 10:00-14:00,17:00-20:30"
-website: "https://vanderbike.com"
+street: Carrer de Berlín
+housenumber: "6"
+phone: +34 93 330 25 69
+opening_hours: Mo-Sa 10:00-14:00,17:00-20:30
+website: https://vanderbike.com

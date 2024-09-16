@@ -4,8 +4,8 @@ latitude: 41.66802
 longitude: 2.784
 postcode: "17300"
 city: Blanes
-street: "Carrer d'Antoni Gaudí i Cortnet"
-housenumber: 23
-phone: "+34 972 345633"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.condis.es/"
+street: Carrer d'Antoni Gaudí i Cortnet
+housenumber: "23"
+phone: +34 972 345633
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.condis.es/

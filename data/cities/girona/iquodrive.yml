@@ -1,11 +1,11 @@
 id: 527807072
-type: way
+type: node
 latitude: 41.9595
 longitude: 2.80158
 postcode: ""
 city: Girona
-street: "Carretera de Santa Coloma"
-housenumber: 106
-phone: "+34 972 499 139"
+street: Carretera de Santa Coloma
+housenumber: "106"
+phone: +34 972 499 139
 opening_hours: ""
 website: ""

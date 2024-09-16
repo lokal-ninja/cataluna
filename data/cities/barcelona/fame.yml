@@ -4,8 +4,8 @@ latitude: 41.40736
 longitude: 2.16315
 postcode: "08024"
 city: Barcelona
-street: "Carrer de Sant Lluís"
-housenumber: 105
-phone: "+34 935 367 118"
-opening_hours: "We-Su 11:00-15:00_18:30-22:30"
+street: Carrer de Sant Lluís
+housenumber: "105"
+phone: +34 935 367 118
+opening_hours: We-Su 11:00-15:00_18:30-22:30
 website: ""

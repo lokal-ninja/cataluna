@@ -4,8 +4,8 @@ latitude: 41.44151
 longitude: 2.18266
 postcode: "08016"
 city: Barcelona
-street: "Carrer del Vinyar"
-housenumber: 24
+street: Carrer del Vinyar
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.clarel.es/"
+website: https://www.clarel.es/

@@ -4,8 +4,8 @@ latitude: 41.3868
 longitude: 2.16403
 postcode: "08007"
 city: Barcelona
-street: "Gran Via de les Corts Catalanes"
-housenumber: 585
+street: Gran Via de les Corts Catalanes
+housenumber: "585"
 phone: ""
-opening_hours: "Mo-Th 10:00-18:30;Fr 10:00-14:00"
+opening_hours: Mo-Th 10:00-18:30;Fr 10:00-14:00
 website: ""

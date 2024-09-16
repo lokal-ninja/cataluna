@@ -4,8 +4,8 @@ latitude: 41.60223
 longitude: 2.62465
 postcode: "08395"
 city: Sant Pol de Mar
-street: "Carrer de Tobella"
-housenumber: 2
-phone: "+34 937603099"
-opening_hours: "Mo-Fr 07:00-14:00,16:30-20:30; Sa 07:00-15:00,16:30-20:30; Su 07:00-15:00"
-website: "http://www.forndepagrimal.com/"
+street: Carrer de Tobella
+housenumber: "2"
+phone: +34 937603099
+opening_hours: Mo-Fr 07:00-14:00,16:30-20:30; Sa 07:00-15:00,16:30-20:30; Su 07:00-15:00
+website: http://www.forndepagrimal.com/

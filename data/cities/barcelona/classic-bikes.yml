@@ -4,8 +4,8 @@ latitude: 41.38512
 longitude: 2.16786
 postcode: "08001"
 city: Barcelona
-street: "Carrer de Jovellanos"
-housenumber: 1
-phone: "+34 933 17 19 70"
-opening_hours: "Mo-Su 11:00-16:00, 18:00-21:00"
-website: "http://classicbikes.es/"
+street: Carrer de Jovellanos
+housenumber: "1"
+phone: +34 933 17 19 70
+opening_hours: Mo-Su 11:00-16:00, 18:00-21:00
+website: http://classicbikes.es/

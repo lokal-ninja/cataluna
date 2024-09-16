@@ -4,8 +4,8 @@ latitude: 41.36133
 longitude: 2.09775
 postcode: "08901"
 city: l'Hospitalet de Llobregat
-street: "Carrer de Molines"
-housenumber: 23
+street: Carrer de Molines
+housenumber: "23"
 phone: "+34933379676"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,16:00-19:00; We 09:00-13:00; PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,16:00-19:00; We 09:00-13:00; PH off
 website: ""

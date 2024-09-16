@@ -4,8 +4,8 @@ latitude: 41.38365
 longitude: 2.1774
 postcode: "08002"
 city: Barcelona
-street: "Carrer de Freneria"
-housenumber: 3
+street: Carrer de Freneria
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

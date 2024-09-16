@@ -4,8 +4,8 @@ latitude: 41.40553
 longitude: 2.20191
 postcode: "08005"
 city: Barcelona
-street: "carrer Lope de Vega"
-housenumber: 123
+street: carrer Lope de Vega
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:30-20:30; Sa 09:00-14:00
 website: ""

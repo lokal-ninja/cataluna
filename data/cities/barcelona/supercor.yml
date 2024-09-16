@@ -4,8 +4,8 @@ latitude: 41.41197
 longitude: 2.19616
 postcode: ""
 city: Barcelona
-street: "Carrer d'Andrade"
-housenumber: 46
+street: Carrer d'Andrade
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Su 07:00-01:00"
-website: "https://www.supercor.es/supercor/cargarAplicacionCentro.do?identificador=189"
+opening_hours: Mo-Su 07:00-01:00
+website: https://www.supercor.es/supercor/cargarAplicacionCentro.do?identificador=189

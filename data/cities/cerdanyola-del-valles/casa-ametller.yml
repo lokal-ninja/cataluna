@@ -4,8 +4,8 @@ latitude: 41.49275
 longitude: 2.14531
 postcode: "08290"
 city: Cerdanyola del Vallès
-street: "Av. Catalunya"
-housenumber: 31
-phone: "+34 647 989 044"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "http://casaametller.net"
+street: Av. Catalunya
+housenumber: "31"
+phone: +34 647 989 044
+opening_hours: Mo-Sa 09:00-21:00
+website: http://casaametller.net

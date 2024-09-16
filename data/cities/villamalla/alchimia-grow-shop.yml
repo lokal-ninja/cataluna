@@ -1,11 +1,11 @@
 id: 1181818837
-type: way
+type: node
 latitude: 42.22914
 longitude: 2.96388
 postcode: "17469"
 city: Villamalla
-street: "Carrer Llevant"
-housenumber: 32
+street: Carrer Llevant
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.alchimiaweb.com/"
+website: https://www.alchimiaweb.com/

@@ -1,11 +1,11 @@
 id: 398944306
-type: way
+type: node
 latitude: 41.17834
 longitude: 1.48517
 postcode: "43883"
 city: Roda de Berà
-street: "Carrer de la Hispano Suiza"
-housenumber: 25
+street: Carrer de la Hispano Suiza
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-15:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-15:00
 website: ""

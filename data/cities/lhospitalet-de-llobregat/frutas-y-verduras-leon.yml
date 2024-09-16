@@ -4,8 +4,8 @@ latitude: 41.34934
 longitude: 2.10745
 postcode: "08907"
 city: L'Hospitalet de Llobregat
-street: "Avinguda de la Mare de Déu de Bellvitge"
+street: Avinguda de la Mare de Déu de Bellvitge
 housenumber: 80A
 phone: ""
-opening_hours: "Sep-Jul: Mo-Fr 08:00-21:00; Sep-Jul: Sa 08:00-15:00"
+opening_hours: 'Sep-Jul: Mo-Fr 08:00-21:00; Sep-Jul: Sa 08:00-15:00'
 website: ""

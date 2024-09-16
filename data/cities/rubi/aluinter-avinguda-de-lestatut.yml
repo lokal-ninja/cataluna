@@ -1,11 +1,11 @@
 id: 738663032
-type: way
+type: node
 latitude: 41.50495
 longitude: 2.03649
 postcode: "08191"
 city: Rubí
-street: "Avinguda de l'Estatut"
-housenumber: 297
+street: Avinguda de l'Estatut
+housenumber: "297"
 phone: ""
 opening_hours: ""
 website: ""

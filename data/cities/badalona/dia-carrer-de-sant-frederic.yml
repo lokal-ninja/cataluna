@@ -4,8 +4,8 @@ latitude: 41.44168
 longitude: 2.21665
 postcode: ""
 city: Badalona
-street: "Carrer de Sant Frederic"
-housenumber: 27
+street: Carrer de Sant Frederic
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; PH closed"
-website: "https://www.dia.es"
+opening_hours: Mo-Sa 09:00-21:00; PH closed
+website: https://www.dia.es

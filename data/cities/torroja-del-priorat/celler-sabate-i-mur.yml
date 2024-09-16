@@ -1,11 +1,11 @@
 id: 1206694092
-type: way
+type: node
 latitude: 41.21435
 longitude: 0.81002
 postcode: "43737"
 city: Torroja del Priorat
-street: "Carrer Major"
-housenumber: 47
-phone: "+34 677 35 41 97"
+street: Carrer Major
+housenumber: "47"
+phone: +34 677 35 41 97
 opening_hours: ""
-website: "http://www.sabateimur.com/"
+website: http://www.sabateimur.com/

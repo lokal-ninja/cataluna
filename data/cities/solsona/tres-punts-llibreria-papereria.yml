@@ -4,8 +4,8 @@ latitude: 41.99502
 longitude: 1.52134
 postcode: "25280"
 city: Solsona
-street: "Avinguda del Pont"
-housenumber: 4
-phone: "+34 973 481 665"
-opening_hours: "Mo-Su 08:30-13:15"
+street: Avinguda del Pont
+housenumber: "4"
+phone: +34 973 481 665
+opening_hours: Mo-Su 08:30-13:15
 website: ""

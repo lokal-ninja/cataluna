@@ -4,8 +4,8 @@ latitude: 41.54922
 longitude: 2.09873
 postcode: "08201"
 city: Sabadell
-street: "Ronda de Ponent"
-housenumber: 172
-phone: "+34 931 05 07 11"
-opening_hours: "Tu-Sa 10:00-13:30; Tu-Fr 17:00-20:30; Mo 17:00-20:30"
-website: "https://atelierdescans.com/"
+street: Ronda de Ponent
+housenumber: "172"
+phone: +34 931 05 07 11
+opening_hours: Tu-Sa 10:00-13:30; Tu-Fr 17:00-20:30; Mo 17:00-20:30
+website: https://atelierdescans.com/

@@ -4,8 +4,8 @@ latitude: 41.47894
 longitude: 2.31833
 postcode: "08320"
 city: El Masnou
-street: "Carrer Barcelona"
-housenumber: 4
-phone: "+34 935 557 812"
-opening_hours: "Mo-Fr 10:00-13:30,16:30-20:00; Sa 10:00-13:30"
+street: Carrer Barcelona
+housenumber: "4"
+phone: +34 935 557 812
+opening_hours: Mo-Fr 10:00-13:30,16:30-20:00; Sa 10:00-13:30
 website: ""

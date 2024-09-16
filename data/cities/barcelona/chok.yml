@@ -4,8 +4,8 @@ latitude: 41.38466
 longitude: 2.16832
 postcode: "08001"
 city: Barcelona
-street: "Carrer de les Ramalleres"
-housenumber: 26
-phone: "+34 936 817 849"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "http://www.chokbarcelona.com/"
+street: Carrer de les Ramalleres
+housenumber: "26"
+phone: +34 936 817 849
+opening_hours: Mo-Su 09:00-21:00
+website: http://www.chokbarcelona.com/

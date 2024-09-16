@@ -4,8 +4,8 @@ latitude: 41.78589
 longitude: 3.03015
 postcode: "17220"
 city: Sant Feliu de Guixols
-street: "Rambla Generalitat"
-housenumber: 2
-phone: "+34 972327256"
-opening_hours: "Mo-Fr 09:00-13:30,17:00-20:00; Sa 10:00-13:30"
+street: Rambla Generalitat
+housenumber: "2"
+phone: +34 972327256
+opening_hours: Mo-Fr 09:00-13:30,17:00-20:00; Sa 10:00-13:30
 website: ""

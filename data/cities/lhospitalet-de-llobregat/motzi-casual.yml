@@ -4,8 +4,8 @@ latitude: 41.35958
 longitude: 2.10002
 postcode: "08901"
 city: l'Hospitalet de Llobregat
-street: "Plaça de l'Ajuntament"
-housenumber: 6
-phone: "+34  93 115 94 14"
-opening_hours: "Mo-Fr 09:30-13:30,16:30-20:30; Sa 10:00-13:30,17:00-20:00"
+street: Plaça de l'Ajuntament
+housenumber: "6"
+phone: +34  93 115 94 14
+opening_hours: Mo-Fr 09:30-13:30,16:30-20:30; Sa 10:00-13:30,17:00-20:00
 website: ""

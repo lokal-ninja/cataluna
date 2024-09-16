@@ -4,8 +4,8 @@ latitude: 41.37548
 longitude: 2.15586
 postcode: "08015"
 city: Barcelona
-street: "Carrer d'Entença"
-housenumber: 5
-phone: "+34 937 048 651"
-opening_hours: "Mo-Sa 11:00-14:00,17:00-20:30; Sa 11:00-20:30"
-website: "http://www.ancestral.eco/"
+street: Carrer d'Entença
+housenumber: "5"
+phone: +34 937 048 651
+opening_hours: Mo-Sa 11:00-14:00,17:00-20:30; Sa 11:00-20:30
+website: http://www.ancestral.eco/

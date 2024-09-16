@@ -4,8 +4,8 @@ latitude: 41.44787
 longitude: 2.24342
 postcode: "08912"
 city: Badalona
-street: "Avinguda de Sant Ignasi de Loiola"
-housenumber: 9
-phone: "+34 931 45 18 00"
-opening_hours: "Mo-Fr 09:00-13:30, 16:30-20:30; Sa-Su 09:00-14:30, 16:30-20:30"
-website: "https://www.calamariaobrador.com/"
+street: Avinguda de Sant Ignasi de Loiola
+housenumber: "9"
+phone: +34 931 45 18 00
+opening_hours: Mo-Fr 09:00-13:30, 16:30-20:30; Sa-Su 09:00-14:30, 16:30-20:30
+website: https://www.calamariaobrador.com/

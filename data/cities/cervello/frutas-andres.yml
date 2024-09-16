@@ -1,11 +1,11 @@
 id: 903587023
-type: way
+type: node
 latitude: 41.39601
 longitude: 1.95525
 postcode: "08758"
 city: Cervelló
-street: "Carrer Major"
-housenumber: 
-phone: "+34 936600752"
+street: Carrer Major
+housenumber: ""
+phone: +34 936600752
 opening_hours: ""
-website: "https://frutasandres.com/"
+website: https://frutasandres.com/

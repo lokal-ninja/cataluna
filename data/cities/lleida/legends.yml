@@ -4,8 +4,8 @@ latitude: 41.61909
 longitude: 0.6198
 postcode: "25004"
 city: Lleida
-street: "Avinguda de Prat de la Riba"
-housenumber: 4
+street: Avinguda de Prat de la Riba
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-14:00,17:00-20:30+"
+opening_hours: Mo-Sa 10:00-14:00,17:00-20:30+
 website: ""

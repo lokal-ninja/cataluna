@@ -4,8 +4,8 @@ latitude: 41.40243
 longitude: 2.16316
 postcode: "08037"
 city: Barcelona
-street: "Carrer de Bailèn"
-housenumber: 213
+street: Carrer de Bailèn
+housenumber: "213"
 phone: ""
-opening_hours: "Mo 15:00-20:00; Tu-Fr 10:00-20:00; Sa 10:00-14:00"
-website: "https://www.peluqueriasdavid.com/"
+opening_hours: Mo 15:00-20:00; Tu-Fr 10:00-20:00; Sa 10:00-14:00
+website: https://www.peluqueriasdavid.com/

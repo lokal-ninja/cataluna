@@ -4,8 +4,8 @@ latitude: 41.56129
 longitude: 2.00575
 postcode: "08224"
 city: Terrassa
-street: "Carrer d'Antoni Torrella"
-housenumber: 50
+street: Carrer d'Antoni Torrella
+housenumber: "50"
 phone: "+34935123112"
-opening_hours: "Mo-Fr 10:00-13:30,16:00-20:00"
-website: "https://bubumotos.com"
+opening_hours: Mo-Fr 10:00-13:30,16:00-20:00
+website: https://bubumotos.com

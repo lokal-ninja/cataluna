@@ -1,11 +1,11 @@
 id: 721315984
-type: way
+type: node
 latitude: 41.46214
 longitude: 2.23514
 postcode: "08915"
 city: Badalona
-street: "Avinguda del Conflent"
-housenumber: 
-phone: "+34 934003131"
-opening_hours: "Mo-Fr 07:30-21:00; Sa 08:30-21:00"
+street: Avinguda del Conflent
+housenumber: ""
+phone: +34 934003131
+opening_hours: Mo-Fr 07:30-21:00; Sa 08:30-21:00
 website: ""

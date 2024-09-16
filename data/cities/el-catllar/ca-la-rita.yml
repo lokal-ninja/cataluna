@@ -4,8 +4,9 @@ latitude: 41.17524
 longitude: 1.32583
 postcode: "43764"
 city: el Catllar
-street: "Carrer Major"
-housenumber: 26
+street: Carrer Major
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Tu 08:00-13:30; We-Fr 08:00-13:30, 17:00-20:00; Sa 08:00-13:30; Su off"
+opening_hours: Mo-Tu 08:00-13:30; We-Fr 08:00-13:30, 17:00-20:00; Sa 08:00-13:30;
+    Su off
 website: ""

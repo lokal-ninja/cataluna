@@ -4,8 +4,8 @@ latitude: 41.38002
 longitude: 2.18886
 postcode: "08003"
 city: Barcelona
-street: "Carrer del Baluard"
-housenumber: 38
-phone: "+34 93 221 1208"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://baluardbarceloneta.com/"
+street: Carrer del Baluard
+housenumber: "38"
+phone: +34 93 221 1208
+opening_hours: Mo-Sa 09:00-21:00
+website: https://baluardbarceloneta.com/

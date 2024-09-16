@@ -4,8 +4,8 @@ latitude: 41.41627
 longitude: 2.19501
 postcode: "08020"
 city: Barcelona
-street: "Carrer de Huelva"
-housenumber: 48
+street: Carrer de Huelva
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-16:00"
-website: "https://www.superverd.es/"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-16:00
+website: https://www.superverd.es/

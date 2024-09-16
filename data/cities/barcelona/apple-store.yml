@@ -4,8 +4,8 @@ latitude: 41.38795
 longitude: 2.16949
 postcode: "08007"
 city: Barcelona
-street: "Passeig de Gràcia"
-housenumber: 1
+street: Passeig de Gràcia
+housenumber: "1"
 phone: "+34932950500"
-opening_hours: "Mo-Sa 09:30-21:30"
-website: "https://www.apple.com/es/"
+opening_hours: Mo-Sa 09:30-21:30
+website: https://www.apple.com/es/

@@ -4,8 +4,8 @@ latitude: 41.38985
 longitude: 2.1707
 postcode: "08010"
 city: Barcelona
-street: "Carrer de Pau Claris"
-housenumber: 85
-phone: "+34 933 18 17 39"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 10:00-21:00"
-website: "https://laie.es/"
+street: Carrer de Pau Claris
+housenumber: "85"
+phone: +34 933 18 17 39
+opening_hours: Mo-Fr 09:00-21:00; Sa 10:00-21:00
+website: https://laie.es/

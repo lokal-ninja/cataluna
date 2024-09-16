@@ -1,11 +1,11 @@
 id: 948429218
-type: way
+type: node
 latitude: 41.58459
 longitude: 1.62702
 postcode: "08700"
 city: Igualada
-street: "Avinguda Mestre Montaner"
-housenumber: 
+street: Avinguda Mestre Montaner
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.4117
 longitude: 2.16562
 postcode: "08025"
 city: Barcelona
-street: "Ronda del Guinardó"
-housenumber: 34
-phone: "+34 93 435 51 36"
-opening_hours: "Mo-Fr 09:15-14:00,17:00-20:00; Aug off; PH off"
+street: Ronda del Guinardó
+housenumber: "34"
+phone: +34 93 435 51 36
+opening_hours: Mo-Fr 09:15-14:00,17:00-20:00; Aug off; PH off
 website: ""

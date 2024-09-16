@@ -4,8 +4,8 @@ latitude: 41.36131
 longitude: 2.09925
 postcode: "08901"
 city: l'Hospitalet de Llobregat
-street: "Carrer del Centre"
-housenumber: 8
-phone: "+34 93 382 12 23"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
-website: "https://www.corbike.com/"
+street: Carrer del Centre
+housenumber: "8"
+phone: +34 93 382 12 23
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00
+website: https://www.corbike.com/

@@ -4,8 +4,8 @@ latitude: 41.40181
 longitude: 2.20101
 postcode: "08005"
 city: Barcelona
-street: "Carrer de Pujades"
-housenumber: 188
-phone: "+34 93 250 02 68"
-opening_hours: "Mo-Sa 010:00-14:00,17:00-20:30"
+street: Carrer de Pujades
+housenumber: "188"
+phone: +34 93 250 02 68
+opening_hours: Mo-Sa 010:00-14:00,17:00-20:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.39526
 longitude: 2.16697
 postcode: "08009"
 city: Barcelona
-street: "Carrer de València"
-housenumber: 316
-phone: "+34 93 207 27 58"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-14:00"
-website: "https://www.audenis.com"
+street: Carrer de València
+housenumber: "316"
+phone: +34 93 207 27 58
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-14:00
+website: https://www.audenis.com

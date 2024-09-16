@@ -1,11 +1,11 @@
 id: 348103591
-type: way
+type: node
 latitude: 41.19268
 longitude: 1.52213
 postcode: "43700"
 city: el Vendrell
-street: "Carrer de la Tardor"
-housenumber: 
+street: Carrer de la Tardor
+housenumber: ""
 phone: "+34977594851"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.mercadona.es

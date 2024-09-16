@@ -4,8 +4,8 @@ latitude: 41.41815
 longitude: 2.15003
 postcode: "08023"
 city: Barcelona
-street: "Carrer de l'Aldea"
-housenumber: 8
+street: Carrer de l'Aldea
+housenumber: "8"
 phone: ""
-opening_hours: "We 18:00-21:00"
-website: "https://trementinaires.wordpress.com/"
+opening_hours: We 18:00-21:00
+website: https://trementinaires.wordpress.com/

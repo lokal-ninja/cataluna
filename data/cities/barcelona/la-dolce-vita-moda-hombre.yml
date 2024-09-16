@@ -4,8 +4,8 @@ latitude: 41.39048
 longitude: 2.17733
 postcode: "08010"
 city: Barcelona
-street: "Ronda de Sant Pere"
-housenumber: 54
-phone: "+34 935 18 47 73"
-opening_hours: "Mo-Sa 10:30-20:00; Su,PH off"
+street: Ronda de Sant Pere
+housenumber: "54"
+phone: +34 935 18 47 73
+opening_hours: Mo-Sa 10:30-20:00; Su,PH off
 website: ""

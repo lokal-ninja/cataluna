@@ -1,11 +1,11 @@
 id: 1296564732
-type: way
+type: node
 latitude: 41.62845
 longitude: 2.16493
 postcode: "08140"
 city: Caldes de Montbui
-street: "Carrer de Climent Cuspinera"
-housenumber: 26
+street: Carrer de Climent Cuspinera
+housenumber: "26"
 phone: "938654193"
-opening_hours: "Lunes a jueves 8:00h - 13:00h 15:00h 19:00h viernes 8:00h - 13:00h"
+opening_hours: Lunes a jueves 8:00h - 13:00h 15:00h 19:00h viernes 8:00h - 13:00h
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.385
 longitude: 2.15964
 postcode: "08011"
 city: Barcelona
-street: "Carrer de Casanova"
-housenumber: 56
+street: Carrer de Casanova
+housenumber: "56"
 phone: "+34654537690"
-opening_hours: "Mo-Fr 09:00-21:00"
+opening_hours: Mo-Fr 09:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.39224
 longitude: 2.15667
 postcode: "08008"
 city: Barcelona
-street: "Carrer d'Enric Granados"
-housenumber: 70
-phone: "+34 93 511 76 06"
+street: Carrer d'Enric Granados
+housenumber: "70"
+phone: +34 93 511 76 06
 opening_hours: ""
-website: "http://www.fins-de-siecles.es/"
+website: http://www.fins-de-siecles.es/

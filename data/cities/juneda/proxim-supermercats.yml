@@ -4,8 +4,9 @@ latitude: 41.54661
 longitude: 0.82562
 postcode: "25430"
 city: Juneda
-street: "Carrer de La Font"
-housenumber: 38
+street: Carrer de La Font
+housenumber: "38"
 phone: ""
-opening_hours: "Mo 08:00-13:30; Tu 08:00-13:30,17:00-20:00; We 08:00-13:30; Th 08:00-13:30; Fr 08:00-13:30,17:00-20:00; Sa 08:00-13:30; Su off"
+opening_hours: Mo 08:00-13:30; Tu 08:00-13:30,17:00-20:00; We 08:00-13:30; Th 08:00-13:30;
+    Fr 08:00-13:30,17:00-20:00; Sa 08:00-13:30; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 893833377
-type: way
+type: node
 latitude: 41.14494
 longitude: 1.12825
 postcode: "43204"
 city: Reus
-street: "Carrer d'Argentina"
-housenumber: 2
+street: Carrer d'Argentina
+housenumber: "2"
 phone: "+34977194349"
-opening_hours: "Mo-Sa 09:00-21:00; PH off"
-website: "https://www.bonpreuesclat.cat/inici"
+opening_hours: Mo-Sa 09:00-21:00; PH off
+website: https://www.bonpreuesclat.cat/inici

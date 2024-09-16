@@ -4,8 +4,8 @@ latitude: 41.40306
 longitude: 2.15221
 postcode: "08012"
 city: Barcelona
-street: "Carrer Gran de Gràcia"
-housenumber: 167
+street: Carrer Gran de Gràcia
+housenumber: "167"
 phone: ""
 opening_hours: ""
-website: "https://www.sorli.com"
+website: https://www.sorli.com

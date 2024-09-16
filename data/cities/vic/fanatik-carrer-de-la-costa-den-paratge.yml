@@ -1,11 +1,11 @@
 id: 319019056
-type: way
+type: node
 latitude: 41.93862
 longitude: 2.25199
 postcode: "08500"
 city: Vic
-street: "Carrer de la Costa d'en Paratge"
-housenumber: 16
-phone: "+34 93 886 47 25"
+street: Carrer de la Costa d'en Paratge
+housenumber: "16"
+phone: +34 93 886 47 25
 opening_hours: ""
-website: "https://www.fanatik.cat/"
+website: https://www.fanatik.cat/

@@ -4,8 +4,8 @@ latitude: 41.40493
 longitude: 2.16253
 postcode: "08024"
 city: Barcelona
-street: "Carrer de Ramón y Cajal"
-housenumber: 142
+street: Carrer de Ramón y Cajal
+housenumber: "142"
 phone: ""
 opening_hours: ""
-website: "https://amoralibros.es"
+website: https://amoralibros.es

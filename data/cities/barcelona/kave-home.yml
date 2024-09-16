@@ -4,8 +4,8 @@ latitude: 41.39563
 longitude: 2.15497
 postcode: "08006"
 city: Barcelona
-street: "Avinguda Diagonal"
-housenumber: 486
-phone: "+34 93 5220021"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://kavehome.com/es/es/"
+street: Avinguda Diagonal
+housenumber: "486"
+phone: +34 93 5220021
+opening_hours: Mo-Sa 10:00-21:00
+website: https://kavehome.com/es/es/

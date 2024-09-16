@@ -4,8 +4,8 @@ latitude: 41.38092
 longitude: 2.16228
 postcode: "08011"
 city: Barcelona
-street: "Carrer de Villarroel"
-housenumber: 15
+street: Carrer de Villarroel
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.consum.es/"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.consum.es/

@@ -1,11 +1,11 @@
 id: 272649511
-type: way
+type: node
 latitude: 42.01308
 longitude: 2.81494
 postcode: ""
 city: Sarria de Ter
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.37933
 longitude: 2.15579
 postcode: "08015"
 city: Barcelona
-street: "Carrer de Calàbria"
-housenumber: 96
-phone: "+34 934262312"
-opening_hours: "Mo-Fr 12:00-23:00; Sa-Su 15:00-23:00"
-website: "https://boyberry.com/"
+street: Carrer de Calàbria
+housenumber: "96"
+phone: +34 934262312
+opening_hours: Mo-Fr 12:00-23:00; Sa-Su 15:00-23:00
+website: https://boyberry.com/

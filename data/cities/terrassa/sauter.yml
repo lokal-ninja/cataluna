@@ -1,11 +1,11 @@
 id: 613122179
-type: way
+type: node
 latitude: 41.55125
 longitude: 2.02341
 postcode: "08223"
 city: Terrassa
-street: "Avinguda de Santa Eulàlia"
-housenumber: 230
+street: Avinguda de Santa Eulàlia
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

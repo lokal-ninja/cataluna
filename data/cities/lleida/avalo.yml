@@ -4,8 +4,8 @@ latitude: 41.6046
 longitude: 0.63727
 postcode: "25001"
 city: Lleida
-street: "Carrer de Manuel Carrasco i Formiguera"
-housenumber: 11
-phone: "+34 685 872 325;+34 623 112 775"
+street: Carrer de Manuel Carrasco i Formiguera
+housenumber: "11"
+phone: +34 685 872 325;+34 623 112 775
 opening_hours: ""
-website: "https://www.avalo.es/"
+website: https://www.avalo.es/

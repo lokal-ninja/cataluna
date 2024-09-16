@@ -4,8 +4,8 @@ latitude: 41.38485
 longitude: 2.18405
 postcode: "08003"
 city: Barcelona
-street: "Carrer del Comerç"
-housenumber: 60
+street: Carrer del Comerç
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.aldi.es/"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.aldi.es/

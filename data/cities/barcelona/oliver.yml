@@ -4,8 +4,8 @@ latitude: 41.37512
 longitude: 2.14302
 postcode: ""
 city: Barcelona
-street: "Carrer de la Creu Coberta"
-housenumber: 97
+street: Carrer de la Creu Coberta
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30,16:30-20:00; Sa 10:00-13:30"
+opening_hours: Mo-Fr 09:30-13:30,16:30-20:00; Sa 10:00-13:30
 website: ""

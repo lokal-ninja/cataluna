@@ -4,8 +4,8 @@ latitude: 41.40777
 longitude: 2.18809
 postcode: "08018"
 city: Barcelona
-street: "Carrer del Clot"
-housenumber: 49
+street: Carrer del Clot
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa-Su 08:00-20:00"
-website: "https://syra.coffee/"
+opening_hours: Mo-Fr 08:00-20:00; Sa-Su 08:00-20:00
+website: https://syra.coffee/

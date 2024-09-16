@@ -1,11 +1,11 @@
 id: 965426553
-type: way
+type: node
 latitude: 41.62855
 longitude: 0.88459
 postcode: "25230"
 city: Mollerussa
-street: "Avinguda de Jaume I"
-housenumber: 30
-phone: "+34 973679719"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://info.mercadona.es/ca/supermercados?s=Mollerussa.%20Lleida&k=883185315862"
+street: Avinguda de Jaume I
+housenumber: "30"
+phone: +34 973679719
+opening_hours: Mo-Sa 09:00-21:00
+website: https://info.mercadona.es/ca/supermercados?s=Mollerussa.%20Lleida&k=883185315862

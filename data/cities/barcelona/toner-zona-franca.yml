@@ -4,8 +4,8 @@ latitude: 41.35944
 longitude: 2.14166
 postcode: "08038"
 city: Barcelona
-street: "Carrer dels Alts Forns"
-housenumber: 73
+street: Carrer dels Alts Forns
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 222542771
-type: way
+type: node
 latitude: 41.85678
 longitude: 2.76269
 postcode: "17455"
 city: Caldes de Malavella
-street: "Carretera N-ll km 701"
-housenumber: 
-phone: "+34 972 47 29 57"
-opening_hours: "24/7"
-website: "https://www.camiral.com/"
+street: Carretera N-ll km 701
+housenumber: ""
+phone: +34 972 47 29 57
+opening_hours: 24/7
+website: https://www.camiral.com/

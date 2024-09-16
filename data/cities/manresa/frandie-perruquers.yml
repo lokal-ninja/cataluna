@@ -4,8 +4,8 @@ latitude: 41.728
 longitude: 1.83795
 postcode: "08243"
 city: Manresa
-street: "Carrer de Sant Cristòfol"
-housenumber: 43
-phone: "+34 938 740 965"
-opening_hours: "Tu-Fr 09:00-13:00,16:00-20:00+; Sa 08:00-17:00+"
+street: Carrer de Sant Cristòfol
+housenumber: "43"
+phone: +34 938 740 965
+opening_hours: Tu-Fr 09:00-13:00,16:00-20:00+; Sa 08:00-17:00+
 website: ""

@@ -1,11 +1,11 @@
 id: 521744674
-type: way
+type: node
 latitude: 42.34915
 longitude: 2.90972
 postcode: "17723"
 city: Biure
-street: "Carretera Madrid-Barcelona-Frontera Francesa"
-housenumber: 766
-phone: "+34 698576164"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:00-13:00"
+street: Carretera Madrid-Barcelona-Frontera Francesa
+housenumber: "766"
+phone: +34 698576164
+opening_hours: Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:00-13:00
 website: ""

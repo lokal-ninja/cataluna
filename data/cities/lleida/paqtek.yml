@@ -4,8 +4,8 @@ latitude: 41.61197
 longitude: 0.6312
 postcode: "25001"
 city: Lleida
-street: "Carrer de la Doctora Castells"
-housenumber: 2
+street: Carrer de la Doctora Castells
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://paqtek.net/"
+website: https://paqtek.net/

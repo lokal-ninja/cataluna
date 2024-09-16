@@ -4,8 +4,8 @@ latitude: 41.38313
 longitude: 2.18185
 postcode: "08003"
 city: Barcelona
-street: "Carrer de les Caputxes"
-housenumber: 10
+street: Carrer de les Caputxes
+housenumber: "10"
 phone: ""
-opening_hours: "Su-Th 10:00-22:00; Fr-Sa 10:00-23:59"
-website: "https://bubo.es/es/"
+opening_hours: Su-Th 10:00-22:00; Fr-Sa 10:00-23:59
+website: https://bubo.es/es/

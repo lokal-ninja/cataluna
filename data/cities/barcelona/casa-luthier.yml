@@ -4,8 +4,8 @@ latitude: 41.3904
 longitude: 2.16103
 postcode: ""
 city: Barcelona
-street: "Carrer de Balmes"
-housenumber: 73
+street: Carrer de Balmes
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30,16:30-20:00; Sa 10:00-14:00,16:30-20:00"
+opening_hours: Mo-Fr 09:30-13:30,16:30-20:00; Sa 10:00-14:00,16:30-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.40596
 longitude: 2.16329
 postcode: "08025"
 city: Barcelona
-street: "Carrer de Pi i Margall"
-housenumber: 12
+street: Carrer de Pi i Margall
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.78949
 longitude: 0.82202
 postcode: "25600"
 city: Balaguer
-street: "Carrer de Rafael Casanova"
-housenumber: 4
+street: Carrer de Rafael Casanova
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://balmotor.com/"
+website: https://balmotor.com/

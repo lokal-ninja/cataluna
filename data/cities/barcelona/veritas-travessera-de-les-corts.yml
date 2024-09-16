@@ -4,8 +4,8 @@ latitude: 41.38607
 longitude: 2.13344
 postcode: ""
 city: Barcelona
-street: "Travessera de les Corts"
-housenumber: 271
+street: Travessera de les Corts
+housenumber: "271"
 phone: "+34934947593"
-opening_hours: "Mo-Sa 09:15-21:15"
-website: "https://www.veritas.es/"
+opening_hours: Mo-Sa 09:15-21:15
+website: https://www.veritas.es/

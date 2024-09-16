@@ -4,8 +4,8 @@ latitude: 42.00752
 longitude: 2.82478
 postcode: "17007"
 city: Girona
-street: "Passeig de Sant Joan Bosco"
-housenumber: 45
-phone: "+34 661 53 85 51"
-opening_hours: "Fr 08:00-15:00"
+street: Passeig de Sant Joan Bosco
+housenumber: "45"
+phone: +34 661 53 85 51
+opening_hours: Fr 08:00-15:00
 website: ""

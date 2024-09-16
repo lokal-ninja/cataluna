@@ -1,11 +1,11 @@
 id: 1239690314
-type: way
+type: node
 latitude: 41.16242
 longitude: 1.12211
 postcode: ""
 city: Reus
-street: "Carrer de la Tolerància"
-housenumber: 16
+street: Carrer de la Tolerància
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

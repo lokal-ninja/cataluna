@@ -1,11 +1,11 @@
 id: 449880807
-type: way
+type: node
 latitude: 41.30615
 longitude: 2.02559
 postcode: "08840"
 city: Viladecans
-street: "carretera de la Vila"
-housenumber: 90
+street: carretera de la Vila
+housenumber: "90"
 phone: ""
-opening_hours: "10:00-22:00"
-website: "https://viladecans.thestyleoutlets.es/"
+opening_hours: 10:00-22:00
+website: https://viladecans.thestyleoutlets.es/

@@ -4,8 +4,8 @@ latitude: 41.58058
 longitude: 2.02335
 postcode: "08226"
 city: Terrassa
-street: "Avinguda de Béjar"
-housenumber: 381
+street: Avinguda de Béjar
+housenumber: "381"
 phone: "+34937875699"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00"
-website: "https://www.carcondal.com"
+opening_hours: Mo-Fr 08:00-13:00,15:00-18:00
+website: https://www.carcondal.com

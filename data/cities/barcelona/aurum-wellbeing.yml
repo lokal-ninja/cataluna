@@ -1,11 +1,11 @@
 id: 249403845
-type: way
+type: node
 latitude: 41.38282
 longitude: 2.16266
 postcode: "08011"
 city: Barcelona
-street: "Carrer de Casanova"
-housenumber: 18
+street: Carrer de Casanova
+housenumber: "18"
 phone: "+34664477019"
 opening_hours: ""
-website: "https://aurumwellbeing.com/"
+website: https://aurumwellbeing.com/

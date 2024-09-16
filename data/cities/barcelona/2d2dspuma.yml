@@ -4,8 +4,8 @@ latitude: 41.42255
 longitude: 2.17946
 postcode: "08027"
 city: Barcelona
-street: "Carrer de la Manigua"
-housenumber: 8
+street: Carrer de la Manigua
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.2d2dspuma.com/"
+website: https://www.2d2dspuma.com/

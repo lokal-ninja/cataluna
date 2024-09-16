@@ -5,7 +5,7 @@ longitude: 1.71567
 postcode: "08800"
 city: Vilanova i la Geltrú
 street: ""
-housenumber: 124
-phone: "+34 937 682 393"
+housenumber: "124"
+phone: +34 937 682 393
 opening_hours: ""
-website: "http://satbike.es/"
+website: http://satbike.es/

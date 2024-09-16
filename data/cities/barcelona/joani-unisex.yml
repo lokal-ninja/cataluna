@@ -4,8 +4,8 @@ latitude: 41.41951
 longitude: 2.17765
 postcode: "08041"
 city: Barcelona
-street: "Passatge de Llívia"
-housenumber: 37
-phone: "+34 4363646"
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-13:30"
+street: Passatge de Llívia
+housenumber: "37"
+phone: +34 4363646
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-13:30
 website: ""

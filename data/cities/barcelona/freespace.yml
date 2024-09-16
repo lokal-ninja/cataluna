@@ -4,8 +4,8 @@ latitude: 41.37719
 longitude: 2.12663
 postcode: "08028"
 city: Barcelona
-street: "Carrer de Portbou"
-housenumber: 42
+street: Carrer de Portbou
+housenumber: "42"
 phone: "+34606714682"
 opening_hours: ""
-website: "http://www.freespace.cat/"
+website: http://www.freespace.cat/

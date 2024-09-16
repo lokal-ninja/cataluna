@@ -4,8 +4,8 @@ latitude: 41.38622
 longitude: 2.0405
 postcode: "08980"
 city: Sant Feliu de Llobregat
-street: "Carretera de Laureà Miró"
-housenumber: 
+street: Carretera de Laureà Miró
+housenumber: ""
 phone: ""
-opening_hours: "Oct-Jun: Mo-Sa 09:00-21:00; Jul-Sep: Mo-Sa 09:30-21:30"
+opening_hours: 'Oct-Jun: Mo-Sa 09:00-21:00; Jul-Sep: Mo-Sa 09:30-21:30'
 website: ""

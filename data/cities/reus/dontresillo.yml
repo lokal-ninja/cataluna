@@ -4,8 +4,8 @@ latitude: 41.14574
 longitude: 1.1093
 postcode: "43205"
 city: Reus
-street: "Avinguda de Sant Bernat Calbó"
-housenumber: 27
-phone: "+34 613001912"
-opening_hours: "Mo-Sa 10:00-13:30,17:00-21:00,10:00-13:30,16:30-20:30"
-website: "https://www.dontresillo.es"
+street: Avinguda de Sant Bernat Calbó
+housenumber: "27"
+phone: +34 613001912
+opening_hours: Mo-Sa 10:00-13:30,17:00-21:00,10:00-13:30,16:30-20:30
+website: https://www.dontresillo.es

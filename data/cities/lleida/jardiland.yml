@@ -1,11 +1,11 @@
 id: 484505269
-type: way
+type: node
 latitude: 41.64513
 longitude: 0.56751
 postcode: "25198"
 city: Lleida
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+34973232910"
-opening_hours: "Mo-Sa 10:00-20:30; Su 10:00-20:00"
-website: "https://www.jardiland.es/"
+opening_hours: Mo-Sa 10:00-20:30; Su 10:00-20:00
+website: https://www.jardiland.es/

@@ -1,11 +1,11 @@
 id: 183973239
-type: way
+type: node
 latitude: 41.3584
 longitude: 2.12792
 postcode: "08908"
 city: l'Hospitalet de Llobregat
-street: "Avinguda de la Granvia de l'Hospitalet"
-housenumber: 75
-phone: "+34 93 259 15 72"
+street: Avinguda de la Granvia de l'Hospitalet
+housenumber: "75"
+phone: +34 93 259 15 72
 opening_hours: ""
-website: "https://granvia2.com/web/ca/"
+website: https://granvia2.com/web/ca/

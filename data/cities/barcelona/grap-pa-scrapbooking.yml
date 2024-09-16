@@ -4,8 +4,8 @@ latitude: 41.40869
 longitude: 2.18605
 postcode: "08026"
 city: Barcelona
-street: "Carrer de Rogent"
-housenumber: 11
-phone: "+34932 323 213"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:00"
-website: "https://www.grappa-scrapbooking.com/"
+street: Carrer de Rogent
+housenumber: "11"
+phone: +34932 323 213
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:00
+website: https://www.grappa-scrapbooking.com/

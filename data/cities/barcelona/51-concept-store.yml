@@ -4,8 +4,8 @@ latitude: 41.38882
 longitude: 2.17727
 postcode: ""
 city: Barcelona
-street: "Carrer de Sant Pere Més Alt"
-housenumber: 51
+street: Carrer de Sant Pere Més Alt
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://51conceptstore.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://51conceptstore.com/

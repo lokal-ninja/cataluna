@@ -4,8 +4,8 @@ latitude: 41.38813
 longitude: 2.17638
 postcode: ""
 city: Barcelona
-street: "Carrer de Sant Pere Més Alt"
-housenumber: 32
+street: Carrer de Sant Pere Més Alt
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-20:00"
-website: "https://syra.coffee/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-20:00
+website: https://syra.coffee/

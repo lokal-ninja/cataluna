@@ -4,8 +4,8 @@ latitude: 41.99398
 longitude: 2.82103
 postcode: "17007"
 city: Girona
-street: "Carrer de l'Esport"
-housenumber: 11
-phone: "+34 972 20 20 70"
-opening_hours: "Tu-Fr 09:30-19:00"
-website: "https://elrebost.coop"
+street: Carrer de l'Esport
+housenumber: "11"
+phone: +34 972 20 20 70
+opening_hours: Tu-Fr 09:30-19:00
+website: https://elrebost.coop

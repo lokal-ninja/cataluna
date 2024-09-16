@@ -1,11 +1,11 @@
 id: 632998750
-type: way
+type: node
 latitude: 42.01431
 longitude: 2.2438
 postcode: "08512"
 city: Sant Hipòlit de Voltregà
-street: "Carrer Santiago Rusiñol"
-housenumber: 16
+street: Carrer Santiago Rusiñol
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

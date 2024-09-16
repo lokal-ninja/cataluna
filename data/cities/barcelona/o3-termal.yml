@@ -4,8 +4,8 @@ latitude: 41.3974
 longitude: 2.15037
 postcode: "08006"
 city: Barcelona
-street: "Carrer d'Alfons XII"
-housenumber: 7
+street: Carrer d'Alfons XII
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-14:00
 website: ""

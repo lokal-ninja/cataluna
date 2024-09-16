@@ -4,8 +4,8 @@ latitude: 41.39524
 longitude: 2.20005
 postcode: "08005"
 city: Barcelona
-street: "Carrer de Badajoz"
-housenumber: 22
+street: Carrer de Badajoz
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

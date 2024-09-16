@@ -1,11 +1,11 @@
 id: 146901530
-type: way
+type: node
 latitude: 41.61504
 longitude: 0.65604
 postcode: "25190"
 city: Lleida
-street: "Carrer del Cogull"
-housenumber: 1
+street: Carrer del Cogull
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

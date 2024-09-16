@@ -1,11 +1,11 @@
 id: 1020063609
-type: way
+type: node
 latitude: 41.56763
 longitude: 2.24202
 postcode: "08150"
 city: Parets del Vallès
-street: "Carrer de l'Òptica"
-housenumber: 
+street: Carrer de l'Òptica
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.classmotor.net/"
+website: http://www.classmotor.net/

@@ -4,8 +4,8 @@ latitude: 41.39651
 longitude: 2.16682
 postcode: "08009"
 city: Barcelona
-street: "Carrer del Bruc"
-housenumber: 124
+street: Carrer del Bruc
+housenumber: "124"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:30; Sa 09:00-20:00"
-website: "https://www.clarel.es/"
+opening_hours: Mo-Fr 09:00-20:30; Sa 09:00-20:00
+website: https://www.clarel.es/

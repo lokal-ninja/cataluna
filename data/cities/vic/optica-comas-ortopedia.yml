@@ -4,8 +4,8 @@ latitude: 41.93061
 longitude: 2.25299
 postcode: "08500"
 city: Vic
-street: "Rambla de les Davallades"
-housenumber: 5
-phone: "+34 938854722"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://comasonline.cat/"
+street: Rambla de les Davallades
+housenumber: "5"
+phone: +34 938854722
+opening_hours: Mo-Sa 09:00-20:00
+website: https://comasonline.cat/

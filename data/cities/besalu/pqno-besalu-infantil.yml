@@ -1,11 +1,11 @@
 id: 233914706
-type: way
+type: node
 latitude: 42.19871
 longitude: 2.69826
 postcode: "17850"
 city: Besalú
-street: "Carrer Forn"
-housenumber: 6
-phone: "+34 626666132"
+street: Carrer Forn
+housenumber: "6"
+phone: +34 626666132
 opening_hours: ""
-website: "https://www.pqno.com"
+website: https://www.pqno.com

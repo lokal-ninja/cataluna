@@ -4,8 +4,8 @@ latitude: 41.39729
 longitude: 2.15165
 postcode: "08006"
 city: Barcelona
-street: "Travessera de Gràcia"
-housenumber: 80
+street: Travessera de Gràcia
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

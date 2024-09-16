@@ -4,8 +4,8 @@ latitude: 41.41221
 longitude: 2.16763
 postcode: "08025"
 city: Barcelona
-street: "Ronda del Guinardó"
-housenumber: 52
+street: Ronda del Guinardó
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.consum.es/"
+website: https://www.consum.es/

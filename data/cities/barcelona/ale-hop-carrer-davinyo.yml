@@ -4,8 +4,8 @@ latitude: 41.38159
 longitude: 2.17604
 postcode: ""
 city: Barcelona
-street: "Carrer d'Avinyó"
-housenumber: 7
-phone: "+34 936 766 001"
-opening_hours: "Mo-Sa 10:00-22:00; Su off; PH off"
-website: "https://www.ale-hop.org/"
+street: Carrer d'Avinyó
+housenumber: "7"
+phone: +34 936 766 001
+opening_hours: Mo-Sa 10:00-22:00; Su off; PH off
+website: https://www.ale-hop.org/

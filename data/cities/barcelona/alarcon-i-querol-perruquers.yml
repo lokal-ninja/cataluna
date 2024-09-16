@@ -4,8 +4,8 @@ latitude: 41.39987
 longitude: 2.16424
 postcode: "08037"
 city: Barcelona
-street: "Carrer de Girona"
-housenumber: 183
+street: Carrer de Girona
+housenumber: "183"
 phone: "+34934585082"
-opening_hours: "Mo-Fr 09:00-14:00,16:00-20:00"
+opening_hours: Mo-Fr 09:00-14:00,16:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.39967
 longitude: 2.16825
 postcode: "08037"
 city: Barcelona
-street: "Carrer de Provença"
-housenumber: 362
-phone: "+34 93 458 07 69"
-opening_hours: "Mo-Fr 10:00-14:00,16:30-20:30; Sa 10:00-14:00"
-website: "https://germinalbcn.com/"
+street: Carrer de Provença
+housenumber: "362"
+phone: +34 93 458 07 69
+opening_hours: Mo-Fr 10:00-14:00,16:30-20:30; Sa 10:00-14:00
+website: https://germinalbcn.com/

@@ -1,11 +1,11 @@
 id: 298786158
-type: way
+type: node
 latitude: 41.34543
 longitude: 2.10917
 postcode: "08902"
 city: L'Hospitalet de Llobregat, Barcelona
-street: "Avinguda de la Granvia de l'Hospitalet"
-housenumber: 142
+street: Avinguda de la Granvia de l'Hospitalet
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

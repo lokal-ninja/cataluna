@@ -4,8 +4,8 @@ latitude: 41.39524
 longitude: 2.15556
 postcode: "08008"
 city: Barcelona
-street: "Avinguda Diagonal"
-housenumber: 407
+street: Avinguda Diagonal
+housenumber: "407"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

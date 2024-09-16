@@ -4,8 +4,8 @@ latitude: 41.389
 longitude: 2.1779
 postcode: "08003"
 city: Barcelona
-street: "Carrer de Sant Pere Més Alt"
-housenumber: 68
-phone: "+34 932 955 289"
-opening_hours: "Mo-Fr 10:00-14:00,16:00-20:00; Sa 10:00-14:00"
-website: "https://www.musitekton.com"
+street: Carrer de Sant Pere Més Alt
+housenumber: "68"
+phone: +34 932 955 289
+opening_hours: Mo-Fr 10:00-14:00,16:00-20:00; Sa 10:00-14:00
+website: https://www.musitekton.com

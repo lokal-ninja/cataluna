@@ -4,8 +4,8 @@ latitude: 41.35858
 longitude: 2.12849
 postcode: "08908"
 city: L'Hospitalet de Llobregat
-street: "Avinguda de la Granvia de l'Hospitalet"
-housenumber: 75
-phone: "+34 931 78 39 92"
-opening_hours: "Mo-Sa 09:30-22:00"
-website: "https://mi.com/es/"
+street: Avinguda de la Granvia de l'Hospitalet
+housenumber: "75"
+phone: +34 931 78 39 92
+opening_hours: Mo-Sa 09:30-22:00
+website: https://mi.com/es/

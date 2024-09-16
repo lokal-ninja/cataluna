@@ -1,11 +1,11 @@
 id: 1106543261
-type: way
+type: node
 latitude: 41.49499
 longitude: 0.45687
 postcode: "25182"
 city: Aitona
-street: "Carrer de l'Església"
-housenumber: 11
+street: Carrer de l'Església
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

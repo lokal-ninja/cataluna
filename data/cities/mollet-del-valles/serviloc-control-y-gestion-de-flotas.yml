@@ -4,8 +4,8 @@ latitude: 41.54581
 longitude: 2.21968
 postcode: "08100"
 city: Mollet del Vallès
-street: "Carrer de Can Pantiquet"
-housenumber: 69
-phone: "+34 935705176"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:00"
-website: "https://www.serviloc.es/"
+street: Carrer de Can Pantiquet
+housenumber: "69"
+phone: +34 935705176
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-14:00
+website: https://www.serviloc.es/

@@ -4,8 +4,8 @@ latitude: 41.41244
 longitude: 2.19677
 postcode: "08018"
 city: Barcelona
-street: "Carrer d'Andrade"
-housenumber: 58
+street: Carrer d'Andrade
+housenumber: "58"
 phone: "+34933070028"
-opening_hours: "Mo-Sa 09:15-21:15"
-website: "https://www.bonpreu.cat/"
+opening_hours: Mo-Sa 09:15-21:15
+website: https://www.bonpreu.cat/

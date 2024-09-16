@@ -4,8 +4,8 @@ latitude: 41.40855
 longitude: 2.15196
 postcode: "08024"
 city: Barcelona
-street: "Travessera de Dalt, 21"
-housenumber: 21
-phone: "+34 932841866"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.barnaflor.com/"
+street: Travessera de Dalt, 21
+housenumber: "21"
+phone: +34 932841866
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.barnaflor.com/

@@ -4,8 +4,8 @@ latitude: 41.60295
 longitude: 0.64248
 postcode: "25001"
 city: Lleida
-street: "Carrer de Sant Francesc de Sales"
-housenumber: 5
+street: Carrer de Sant Francesc de Sales
+housenumber: "5"
 phone: "+34973045579"
-opening_hours: "Mo-Fr 08:30-13:30, 15:30-19:00"
-website: "https://gbs-automocio.negocio.site/"
+opening_hours: Mo-Fr 08:30-13:30, 15:30-19:00
+website: https://gbs-automocio.negocio.site/

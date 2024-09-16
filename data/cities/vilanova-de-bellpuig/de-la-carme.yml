@@ -4,8 +4,8 @@ latitude: 41.61339
 longitude: 0.96586
 postcode: "25264"
 city: Vilanova de Bellpuig
-street: "Carrer Major"
-housenumber: 84
+street: Carrer Major
+housenumber: "84"
 phone: ""
 opening_hours: ""
-website: "https://delacarme.com/"
+website: https://delacarme.com/

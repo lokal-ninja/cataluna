@@ -4,8 +4,8 @@ latitude: 41.4006
 longitude: 2.15927
 postcode: "08012"
 city: Barcelona
-street: "Carrer del Torrent de l'Olla"
-housenumber: 72
-phone: "+34 935008564"
-opening_hours: "10:00-14:00,17:00-21:00"
-website: "https://aldarull.org/"
+street: Carrer del Torrent de l'Olla
+housenumber: "72"
+phone: +34 935008564
+opening_hours: 10:00-14:00,17:00-21:00
+website: https://aldarull.org/

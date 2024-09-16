@@ -4,8 +4,8 @@ latitude: 41.93384
 longitude: 2.24817
 postcode: "08500"
 city: Vic
-street: "Carrer de la Sagrada Família"
-housenumber: 1
-phone: "+34 93 889 06 79"
-opening_hours: "Mo 16:30-20:00; Tu-Fr 09:30-13:00,16:30-20:00; Sa 09:30-14:00,16:30-20:30"
+street: Carrer de la Sagrada Família
+housenumber: "1"
+phone: +34 93 889 06 79
+opening_hours: Mo 16:30-20:00; Tu-Fr 09:30-13:00,16:30-20:00; Sa 09:30-14:00,16:30-20:30
 website: ""

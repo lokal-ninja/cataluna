@@ -1,11 +1,11 @@
 id: 331539272
-type: way
+type: node
 latitude: 41.62301
 longitude: 0.62698
 postcode: "25004"
 city: Lleida
-street: "Avinguda de Prat de la Riba"
-housenumber: 83
-phone: "+34 973 23 60 44"
+street: Avinguda de Prat de la Riba
+housenumber: "83"
+phone: +34 973 23 60 44
 opening_hours: ""
 website: ""

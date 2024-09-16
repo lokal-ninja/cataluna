@@ -4,8 +4,8 @@ latitude: 41.15747
 longitude: 1.10317
 postcode: ""
 city: Reus
-street: "Avinguda de Prat de la Riba"
-housenumber: 37
+street: Avinguda de Prat de la Riba
+housenumber: "37"
 phone: "+34977328130"
-opening_hours: "Mo-Sa 09:00-20:30; Su 10:00-14:00"
-website: "https://www.bonarea.com"
+opening_hours: Mo-Sa 09:00-20:30; Su 10:00-14:00
+website: https://www.bonarea.com

@@ -1,11 +1,11 @@
 id: 1039553089
-type: way
+type: node
 latitude: 41.88817
 longitude: 2.74297
 postcode: "17185"
 city: Vilobí d'Onyar
-street: "Plaça Nova"
-housenumber: 2
+street: Plaça Nova
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 41.54233
 longitude: 2.26508
 postcode: "08170"
 city: Montornès del Vallès
-street: "Carrer de Jacint Verdaguer"
-housenumber: 3
-phone: "+34 935680661"
-opening_hours: "Tu-Fr 07:00-14:30,16:30-20:00; Sa 07:00-14:30,17:00-20:00; Su 07:00-14:30; Mo 07:00-14:00"
-website: "https://vinyallonga.com/"
+street: Carrer de Jacint Verdaguer
+housenumber: "3"
+phone: +34 935680661
+opening_hours: Tu-Fr 07:00-14:30,16:30-20:00; Sa 07:00-14:30,17:00-20:00; Su 07:00-14:30;
+    Mo 07:00-14:00
+website: https://vinyallonga.com/

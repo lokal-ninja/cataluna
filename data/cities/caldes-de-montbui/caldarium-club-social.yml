@@ -1,11 +1,11 @@
 id: 1296564730
-type: way
+type: node
 latitude: 41.62807
 longitude: 2.16481
 postcode: "08140"
 city: Caldes de Montbui
-street: "Carrer de Llobet i Vall-llosera"
-housenumber: 16
+street: Carrer de Llobet i Vall-llosera
+housenumber: "16"
 phone: "602580249"
-opening_hours: "Lunes - Viernes 9:00h - 23:00h Sabado - Domingo 11:00h - 23:00h"
+opening_hours: Lunes - Viernes 9:00h - 23:00h Sabado - Domingo 11:00h - 23:00h
 website: ""

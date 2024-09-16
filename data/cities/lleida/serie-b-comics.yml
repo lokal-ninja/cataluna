@@ -4,8 +4,8 @@ latitude: 41.61722
 longitude: 0.61863
 postcode: "25006"
 city: Lleida
-street: "Carrer de Vallcalent"
-housenumber: 29
-phone: "+34 973 263 456"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:45"
+street: Carrer de Vallcalent
+housenumber: "29"
+phone: +34 973 263 456
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:45
 website: ""

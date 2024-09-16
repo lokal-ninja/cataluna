@@ -5,7 +5,7 @@ longitude: 2.08829
 postcode: "17512"
 city: Les Lloses
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-14:00"
-website: "https://www.masellladre.cat/"
+opening_hours: Mo-Su 09:00-14:00
+website: https://www.masellladre.cat/

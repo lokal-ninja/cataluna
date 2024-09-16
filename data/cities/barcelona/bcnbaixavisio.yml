@@ -4,8 +4,8 @@ latitude: 41.39393
 longitude: 2.15413
 postcode: "08008"
 city: Barcelona
-street: "Carrer d'Enric Granados"
-housenumber: 139
-phone: "+34 933 688 336"
-opening_hours: "Mo-Fr 10:00-14:00,16:00-20:00"
-website: "https://www.bcnbaixavisio.com"
+street: Carrer d'Enric Granados
+housenumber: "139"
+phone: +34 933 688 336
+opening_hours: Mo-Fr 10:00-14:00,16:00-20:00
+website: https://www.bcnbaixavisio.com

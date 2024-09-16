@@ -4,8 +4,8 @@ latitude: 41.44201
 longitude: 2.22623
 postcode: "08914"
 city: Badalona
-street: "Passeig de la Salut"
-housenumber: 88
+street: Passeig de la Salut
+housenumber: "88"
 phone: "+34933881236"
-opening_hours: "Mo-Fr 09:00-13:30,16:30-20:30; Sa 09:30-13:30,17:00-20:30; PH closed"
-website: "https://www.maxidecor.es/"
+opening_hours: Mo-Fr 09:00-13:30,16:30-20:30; Sa 09:30-13:30,17:00-20:30; PH closed
+website: https://www.maxidecor.es/

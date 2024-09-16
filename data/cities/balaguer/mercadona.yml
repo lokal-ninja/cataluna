@@ -4,8 +4,8 @@ latitude: 41.79095
 longitude: 0.81394
 postcode: "25600"
 city: Balaguer
-street: "Carrer de la Noguera Pallaresa"
-housenumber: 12
+street: Carrer de la Noguera Pallaresa
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.mercadona.es

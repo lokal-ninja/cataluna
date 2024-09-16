@@ -4,8 +4,8 @@ latitude: 41.41188
 longitude: 2.17728
 postcode: "08041"
 city: Barcelona
-street: "Carrer de la Indústria"
-housenumber: 217
-phone: "+34 934331858"
-opening_hours: "Mo-Fr 09:00-13:30,16:00-20:00"
-website: "https://motossalarich.com/"
+street: Carrer de la Indústria
+housenumber: "217"
+phone: +34 934331858
+opening_hours: Mo-Fr 09:00-13:30,16:00-20:00
+website: https://motossalarich.com/

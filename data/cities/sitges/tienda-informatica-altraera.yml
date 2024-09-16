@@ -4,8 +4,8 @@ latitude: 41.24009
 longitude: 1.81047
 postcode: "08870"
 city: Sitges
-street: "Avinguda Camí dels Capellans"
-housenumber: 20
-phone: "+34 935222293"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://altraera.es"
+street: Avinguda Camí dels Capellans
+housenumber: "20"
+phone: +34 935222293
+opening_hours: Mo-Fr 09:00-18:00
+website: https://altraera.es

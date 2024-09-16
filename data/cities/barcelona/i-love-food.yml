@@ -4,8 +4,8 @@ latitude: 41.4025
 longitude: 2.13852
 postcode: "08011"
 city: Barcelona
-street: "Carrer de Muntaner"
-housenumber: 476
-phone: "+34 932000832"
+street: Carrer de Muntaner
+housenumber: "476"
+phone: +34 932000832
 opening_hours: ""
-website: "http://www.ilovefood.com/"
+website: http://www.ilovefood.com/

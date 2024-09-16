@@ -4,8 +4,8 @@ latitude: 41.38693
 longitude: 2.16039
 postcode: "08022"
 city: Barcelona
-street: "Carrer del Consell de Cent"
-housenumber: 246
-phone: "+34 93 3236696"
-opening_hours: "Mo-Sa 09:00-21:00"
+street: Carrer del Consell de Cent
+housenumber: "246"
+phone: +34 93 3236696
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

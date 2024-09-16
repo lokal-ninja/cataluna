@@ -4,8 +4,8 @@ latitude: 41.3903
 longitude: 2.14593
 postcode: "08029"
 city: Barcelona
-street: "Avinguda de Sarrià"
-housenumber: 12
-phone: "+34 900 902 466"
-opening_hours: "Mo-Sa 09:15-21:15"
-website: "https://www.aldi.es"
+street: Avinguda de Sarrià
+housenumber: "12"
+phone: +34 900 902 466
+opening_hours: Mo-Sa 09:15-21:15
+website: https://www.aldi.es

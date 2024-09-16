@@ -1,11 +1,11 @@
 id: 371331101
-type: way
+type: node
 latitude: 41.92941
 longitude: 2.24509
 postcode: "08500"
 city: Vic
-street: "Eix Onze de Setembre"
-housenumber: 26
-phone: "+34 93 883 24 11"
+street: Eix Onze de Setembre
+housenumber: "26"
+phone: +34 93 883 24 11
 opening_hours: ""
 website: ""

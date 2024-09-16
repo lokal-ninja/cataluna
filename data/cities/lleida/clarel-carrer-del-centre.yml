@@ -4,8 +4,8 @@ latitude: 41.60568
 longitude: 0.64355
 postcode: "25001"
 city: Lleida
-street: "Carrer del Centre"
-housenumber: 14
+street: Carrer del Centre
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.clarel.es/"
+website: https://www.clarel.es/

@@ -1,11 +1,11 @@
 id: 711102023
-type: way
+type: node
 latitude: 41.33926
 longitude: 1.68661
 postcode: "08720"
 city: Vilafranca del Penedès
-street: "Carrer de la Múnia"
-housenumber: 32
-phone: "+34 938 90 07 54"
+street: Carrer de la Múnia
+housenumber: "32"
+phone: +34 938 90 07 54
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 443934173
-type: way
+type: node
 latitude: 41.61351
 longitude: 0.64896
 postcode: "25001"
 city: Lleida
-street: "LL-11"
+street: LL-11
 housenumber: KM 9,6
 phone: "+34973224409"
 opening_hours: ""
-website: "https://www.ilermoto.com/"
+website: https://www.ilermoto.com/

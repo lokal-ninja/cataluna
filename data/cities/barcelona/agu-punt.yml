@@ -4,8 +4,8 @@ latitude: 41.39677
 longitude: 2.18077
 postcode: "08013"
 city: Barcelona
-street: "Carrer de Casp"
-housenumber: 158
-phone: "+34 934 57 16 67;+34 934 51 95 61"
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-15:00"
-website: "http://www.agu-punt.com"
+street: Carrer de Casp
+housenumber: "158"
+phone: +34 934 57 16 67;+34 934 51 95 61
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-15:00
+website: http://www.agu-punt.com

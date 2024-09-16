@@ -4,8 +4,8 @@ latitude: 41.38897
 longitude: 2.16494
 postcode: "08007"
 city: Barcelona
-street: "Carrer de la Diputació"
-housenumber: 249
+street: Carrer de la Diputació
+housenumber: "249"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.llibreriafinestres.com/ca/home-catala/"
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.llibreriafinestres.com/ca/home-catala/

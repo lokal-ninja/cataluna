@@ -4,8 +4,8 @@ latitude: 41.56231
 longitude: 2.0869
 postcode: "08206"
 city: Sabadell
-street: "Avinguda d'Estrasburg"
-housenumber: 2
-phone: "+34 937 16 68 50"
-opening_hours: "Mo 17:00-21:00; Tu-Fr 09:00-13:00,17:00-21:00; Sa 09:00-13:00"
-website: "https://www.bicisprint.com/"
+street: Avinguda d'Estrasburg
+housenumber: "2"
+phone: +34 937 16 68 50
+opening_hours: Mo 17:00-21:00; Tu-Fr 09:00-13:00,17:00-21:00; Sa 09:00-13:00
+website: https://www.bicisprint.com/

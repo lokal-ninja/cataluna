@@ -1,11 +1,11 @@
 id: 1110900037
-type: way
+type: node
 latitude: 41.94644
 longitude: 2.239
 postcode: "08503"
 city: Gurb
-street: "Carrer de Mossèn Jacint Verdaguer"
-housenumber: 20
-phone: "+34 938860696"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-14:00; Su 08:00-14:00"
+street: Carrer de Mossèn Jacint Verdaguer
+housenumber: "20"
+phone: +34 938860696
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-14:00; Su 08:00-14:00
 website: ""

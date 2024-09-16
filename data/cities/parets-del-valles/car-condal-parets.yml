@@ -1,11 +1,11 @@
 id: 544320211
-type: way
+type: node
 latitude: 41.57804
 longitude: 2.23692
 postcode: "08150"
 city: Parets del Vallès
-street: "Avinguda de Catalunya"
-housenumber: 236
+street: Avinguda de Catalunya
+housenumber: "236"
 phone: "+34935888355"
-opening_hours: "Mo-Fr 08:00-13:00,14:30-18:00"
-website: "https://www.carcondal.com"
+opening_hours: Mo-Fr 08:00-13:00,14:30-18:00
+website: https://www.carcondal.com

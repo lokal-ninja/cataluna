@@ -4,8 +4,8 @@ latitude: 41.37134
 longitude: 2.12993
 postcode: "08028"
 city: Barcelona
-street: "Carrer d'Esteràs"
-housenumber: 18
+street: Carrer d'Esteràs
+housenumber: "18"
 phone: "+34934229392"
-opening_hours: "Tu-Fr 10:00-14:00,18:00-21:00; Sa-Su 10:00-15:00"
+opening_hours: Tu-Fr 10:00-14:00,18:00-21:00; Sa-Su 10:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.38536
 longitude: 2.13748
 postcode: "08029"
 city: Barcelona
-street: "Carrer del Marquès de Sentmenat"
-housenumber: 43
+street: Carrer del Marquès de Sentmenat
+housenumber: "43"
 phone: ""
-opening_hours: "Tu-Fr 10:00-20:00; Sa 09:00-15:00"
+opening_hours: Tu-Fr 10:00-20:00; Sa 09:00-15:00
 website: ""

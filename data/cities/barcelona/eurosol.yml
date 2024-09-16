@@ -4,8 +4,8 @@ latitude: 41.39185
 longitude: 2.15791
 postcode: "08008"
 city: Barcelona
-street: "Carrer de Provença"
-housenumber: 238
+street: Carrer de Provença
+housenumber: "238"
 phone: ""
-opening_hours: "Mo-Fr 08:00-00:00; Sa-Su 08:00-01:00"
+opening_hours: Mo-Fr 08:00-00:00; Sa-Su 08:00-01:00
 website: ""

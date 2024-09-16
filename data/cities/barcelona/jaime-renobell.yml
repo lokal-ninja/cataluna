@@ -4,8 +4,8 @@ latitude: 41.38624
 longitude: 2.18457
 postcode: "08003"
 city: Barcelona
-street: "Passeig de Picasso"
-housenumber: 34
-phone: "+34 933 197 636"
+street: Passeig de Picasso
+housenumber: "34"
+phone: +34 933 197 636
 opening_hours: ""
-website: "https://jrenobell.es/"
+website: https://jrenobell.es/

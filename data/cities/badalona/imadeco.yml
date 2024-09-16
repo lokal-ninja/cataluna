@@ -4,8 +4,8 @@ latitude: 41.44105
 longitude: 2.22695
 postcode: "08914"
 city: Badalona
-street: "Passeig de la Salut"
-housenumber: 54
+street: Passeig de la Salut
+housenumber: "54"
 phone: "+34931792010"
-opening_hours: "Mo-Sa 10:00-13:30,17:00-20:30; PH closed"
-website: "https://www.imadeco.net"
+opening_hours: Mo-Sa 10:00-13:30,17:00-20:30; PH closed
+website: https://www.imadeco.net

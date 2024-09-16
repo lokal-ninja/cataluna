@@ -4,8 +4,8 @@ latitude: 41.61403
 longitude: 0.62555
 postcode: "25007"
 city: Lleida
-street: "Carrer Major"
-housenumber: 40
-phone: "+34 675 235 701"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 10:00-20:30"
-website: "https://www.orange.es/tiendas/orange/lleida/calle-mayor-40"
+street: Carrer Major
+housenumber: "40"
+phone: +34 675 235 701
+opening_hours: Mo-Fr 10:00-20:30; Sa 10:00-20:30
+website: https://www.orange.es/tiendas/orange/lleida/calle-mayor-40

@@ -4,8 +4,8 @@ latitude: 41.627
 longitude: 0.63074
 postcode: "25005"
 city: Lleida
-street: "Carrer d'Antoni Creus lo Pacheco"
-housenumber: 2
+street: Carrer d'Antoni Creus "lo Pacheco"
+housenumber: "2"
 phone: "+34973101201"
-opening_hours: "Mo-Fr 08:45-13:30,15:30-20:00"
-website: "https://tallersjosmar.com/"
+opening_hours: Mo-Fr 08:45-13:30,15:30-20:00
+website: https://tallersjosmar.com/

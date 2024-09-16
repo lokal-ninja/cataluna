@@ -4,8 +4,8 @@ latitude: 41.40541
 longitude: 2.17699
 postcode: "08013"
 city: Barcelona
-street: "Carrer de Mallorca"
-housenumber: 425
-phone: "+34 902 11 6060"
-opening_hours: "Mo-Sa 09:00-21:00"
+street: Carrer de Mallorca
+housenumber: "425"
+phone: +34 902 11 6060
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

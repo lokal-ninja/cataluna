@@ -1,11 +1,11 @@
 id: 209013041
-type: way
+type: node
 latitude: 41.56785
 longitude: 2.24181
 postcode: "08150"
 city: Parets del Vallès
-street: "Carrer Imprenta"
-housenumber: 5
+street: Carrer Imprenta
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

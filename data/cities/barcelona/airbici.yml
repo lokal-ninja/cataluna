@@ -4,8 +4,8 @@ latitude: 41.39657
 longitude: 2.18514
 postcode: "08013"
 city: Barcelona
-street: "Carrer de la Marina"
-housenumber: 123
+street: Carrer de la Marina
+housenumber: "123"
 phone: "+34935171246"
 opening_hours: ""
-website: "https://airbici.es/"
+website: https://airbici.es/

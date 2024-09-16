@@ -4,8 +4,8 @@ latitude: 41.28648
 longitude: 1.25316
 postcode: "43800"
 city: Valls
-street: "Carrer Germans Sant Gabriel"
-housenumber: 20
-phone: "+34 977608764"
-opening_hours: "Mo-Fr 09:30-20:30"
-website: "https://www.tinvend.com/"
+street: Carrer Germans Sant Gabriel
+housenumber: "20"
+phone: +34 977608764
+opening_hours: Mo-Fr 09:30-20:30
+website: https://www.tinvend.com/

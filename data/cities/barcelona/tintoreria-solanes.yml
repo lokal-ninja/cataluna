@@ -4,8 +4,8 @@ latitude: 41.37699
 longitude: 2.12189
 postcode: "08028"
 city: Barcelona
-street: "Carrer de la Riera Blanca"
-housenumber: 11
+street: Carrer de la Riera Blanca
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30,16:00-20:00"
+opening_hours: Mo-Fr 09:00-13:30,16:00-20:00
 website: ""

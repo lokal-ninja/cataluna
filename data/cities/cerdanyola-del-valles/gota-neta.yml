@@ -4,8 +4,9 @@ latitude: 41.49024
 longitude: 2.14113
 postcode: "08290"
 city: Cerdanyola del Vallès
-street: "Carrer de Lluís Companys"
-housenumber: 10
-phone: "+34 607 65 40 50"
-opening_hours: "Mo-Tu 10:00-13:30, 17:00-20:15; We 17:00-20:15; Th-Fr 10:00-13:30, 17:00-20:15; Sa 10:00-14:00"
+street: Carrer de Lluís Companys
+housenumber: "10"
+phone: +34 607 65 40 50
+opening_hours: Mo-Tu 10:00-13:30, 17:00-20:15; We 17:00-20:15; Th-Fr 10:00-13:30,
+    17:00-20:15; Sa 10:00-14:00
 website: ""

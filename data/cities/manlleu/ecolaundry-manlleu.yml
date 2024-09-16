@@ -4,8 +4,8 @@ latitude: 42.00482
 longitude: 2.28702
 postcode: "08560"
 city: Manlleu
-street: "Avinguda de Roma"
-housenumber: 91
-phone: "+34 634 549 463"
-opening_hours: "08:00-22:00"
-website: "https://ecolaundry.es/lavanderia-autoservicio/manlleu/"
+street: Avinguda de Roma
+housenumber: "91"
+phone: +34 634 549 463
+opening_hours: 08:00-22:00
+website: https://ecolaundry.es/lavanderia-autoservicio/manlleu/

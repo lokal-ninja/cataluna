@@ -4,8 +4,8 @@ latitude: 41.3728
 longitude: 2.10906
 postcode: "08905"
 city: l'Hospitalet de Llobregat
-street: "Carrer de Llevant"
-housenumber: 55
+street: Carrer de Llevant
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Su 09:00-23:00"
-website: "https://www.condis.es/"
+opening_hours: Mo-Su 09:00-23:00
+website: https://www.condis.es/

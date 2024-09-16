@@ -4,8 +4,8 @@ latitude: 41.38675
 longitude: 2.1357
 postcode: "08029"
 city: Barcelona
-street: "Carrer de Numància"
-housenumber: 118
-phone: "+34 93 439 60 49"
+street: Carrer de Numància
+housenumber: "118"
+phone: +34 93 439 60 49
 opening_hours: ""
-website: "https://ktmbarcelona.com/"
+website: https://ktmbarcelona.com/

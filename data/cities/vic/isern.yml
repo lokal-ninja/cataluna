@@ -1,11 +1,11 @@
 id: 698100726
-type: way
+type: node
 latitude: 41.94126
 longitude: 2.25678
 postcode: ""
 city: Vic
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:00+"
+opening_hours: Mo-Sa 09:30-21:00+
 website: ""

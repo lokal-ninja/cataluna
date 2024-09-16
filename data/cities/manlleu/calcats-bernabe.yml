@@ -1,11 +1,11 @@
 id: 676688429
-type: way
+type: node
 latitude: 42.00087
 longitude: 2.28568
 postcode: "08560"
 city: Manlleu
-street: "Carrer de la Font"
-housenumber: 2
+street: Carrer de la Font
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-13:00,16:30-20:00"
+opening_hours: Mo-Sa 09:30-13:00,16:30-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.40228
 longitude: 2.13459
 postcode: ""
 city: Barcelona
-street: "Carrer de Mandri"
-housenumber: 15
+street: Carrer de Mandri
+housenumber: "15"
 phone: "+34932114638"
-opening_hours: "Mo-Sa 09:15-21:15"
-website: "https://www.veritas.es/"
+opening_hours: Mo-Sa 09:15-21:15
+website: https://www.veritas.es/

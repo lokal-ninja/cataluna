@@ -1,11 +1,11 @@
 id: 208267445
-type: way
+type: node
 latitude: 41.57976
 longitude: 2.25094
 postcode: "08150"
 city: Parets del Vallès
-street: "carrer La Bassa"
-housenumber: 
+street: carrer La Bassa
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

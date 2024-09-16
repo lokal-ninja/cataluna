@@ -4,8 +4,9 @@ latitude: 41.43985
 longitude: 2.21625
 postcode: "08913"
 city: Badalona
-street: "Carrer de Pérez Galdós"
-housenumber: 70
+street: Carrer de Pérez Galdós
+housenumber: "70"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:15,17:30-20:00; Sa 09:30-14:00; Mo 09:30-13:00; Su 10:00-13:00; PH closed"
+opening_hours: Tu-Fr 09:30-13:15,17:30-20:00; Sa 09:30-14:00; Mo 09:30-13:00; Su 10:00-13:00;
+    PH closed
 website: ""

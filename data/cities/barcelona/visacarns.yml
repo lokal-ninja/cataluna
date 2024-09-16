@@ -4,8 +4,9 @@ latitude: 41.37256
 longitude: 2.12811
 postcode: "08028"
 city: Barcelona
-street: "Carrer de Carreras i Candi"
-housenumber: 72
+street: Carrer de Carreras i Candi
+housenumber: "72"
 phone: "+34934214198"
-opening_hours: "Mo 09:00-14:00; Tu-Th 09:00-14:30; Fr 09:00-20:00; Sa 09:00-14:00; PH, Su off"
+opening_hours: Mo 09:00-14:00; Tu-Th 09:00-14:30; Fr 09:00-20:00; Sa 09:00-14:00;
+    PH, Su off
 website: ""

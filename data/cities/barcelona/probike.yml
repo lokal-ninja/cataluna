@@ -4,8 +4,8 @@ latitude: 41.38948
 longitude: 2.14456
 postcode: "08029"
 city: Barcelona
-street: "Carrer de Viladomat"
-housenumber: 310
+street: Carrer de Viladomat
+housenumber: "310"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:30"
+opening_hours: Mo-Sa 10:00-20:30
 website: ""

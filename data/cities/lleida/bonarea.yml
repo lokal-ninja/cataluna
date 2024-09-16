@@ -4,8 +4,8 @@ latitude: 41.61234
 longitude: 0.63039
 postcode: "25001"
 city: Lleida
-street: "Avinguda de València"
-housenumber: 6
-phone: "+34 973 20 53 19"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-14:00"
+street: Avinguda de València
+housenumber: "6"
+phone: +34 973 20 53 19
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-14:00
 website: ""

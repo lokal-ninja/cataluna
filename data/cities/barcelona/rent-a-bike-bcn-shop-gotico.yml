@@ -4,8 +4,8 @@ latitude: 41.38118
 longitude: 2.17985
 postcode: "08002"
 city: Barcelona
-street: "Carrer del Regomir"
-housenumber: 33
-phone: "+34 933 193 702"
-opening_hours: "Mo-Su 09:30-20:00"
-website: "https://www.rentabikebcn.com/"
+street: Carrer del Regomir
+housenumber: "33"
+phone: +34 933 193 702
+opening_hours: Mo-Su 09:30-20:00
+website: https://www.rentabikebcn.com/

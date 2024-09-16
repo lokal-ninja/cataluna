@@ -4,8 +4,8 @@ latitude: 41.48239
 longitude: 2.31711
 postcode: "08320"
 city: El Masnou
-street: "Carrer d'Itàlia"
-housenumber: 7
-phone: "+34 937 764 476"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30"
+street: Carrer d'Itàlia
+housenumber: "7"
+phone: +34 937 764 476
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30
 website: ""

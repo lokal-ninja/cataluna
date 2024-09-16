@@ -1,11 +1,11 @@
 id: 799186277
-type: way
+type: node
 latitude: 41.62498
 longitude: 2.67565
 postcode: "08397"
 city: Pineda de Mar
-street: "Carrer del Garbí"
-housenumber: 94
+street: Carrer del Garbí
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

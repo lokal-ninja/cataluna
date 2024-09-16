@@ -4,8 +4,8 @@ latitude: 41.39362
 longitude: 2.17023
 postcode: "08009"
 city: Barcelona
-street: "Carrer del Bruc"
-housenumber: 63
-phone: "+34 935323143"
-opening_hours: "Tu-Sa 10:00-14:00,16:00-20:00"
-website: "https://espaibici.com/"
+street: Carrer del Bruc
+housenumber: "63"
+phone: +34 935323143
+opening_hours: Tu-Sa 10:00-14:00,16:00-20:00
+website: https://espaibici.com/

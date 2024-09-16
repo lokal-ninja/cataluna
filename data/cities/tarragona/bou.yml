@@ -4,8 +4,8 @@ latitude: 41.11559
 longitude: 1.25142
 postcode: "43001"
 city: Tarragona
-street: "Carrer de Fortuny"
-housenumber: 6
-phone: "+34 977 251590"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-13:00"
-website: "https://www.grupbou.com/"
+street: Carrer de Fortuny
+housenumber: "6"
+phone: +34 977 251590
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-13:00
+website: https://www.grupbou.com/

@@ -1,11 +1,11 @@
 id: 1192305710
-type: way
+type: node
 latitude: 41.44897
 longitude: 1.96912
 postcode: "08740"
 city: Sant Andreu de la Barca
-street: "Avinguda Constitució"
-housenumber: 4
+street: Avinguda Constitució
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

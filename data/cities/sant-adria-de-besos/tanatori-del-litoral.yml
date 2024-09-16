@@ -1,11 +1,11 @@
 id: 1024599199
-type: way
+type: node
 latitude: 41.42837
 longitude: 2.21456
 postcode: "08930"
 city: Sant Adrià de Besòs
-street: "Avinguda de la Catalana"
-housenumber: 
+street: Avinguda de la Catalana
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

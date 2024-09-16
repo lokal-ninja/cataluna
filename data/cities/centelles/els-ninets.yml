@@ -4,8 +4,9 @@ latitude: 41.79559
 longitude: 2.21922
 postcode: "08540"
 city: Centelles
-street: "carrer Sant Joan"
-housenumber: 15
+street: carrer Sant Joan
+housenumber: "15"
 phone: ""
-opening_hours: "Sep 01-Jun 24: Tu-Sa 10:00-13:15,17:00-20:00; Su 10:00-13:45; Jun 25-Aug 31: Tu-Sa 10:00-13:15,17:30-20:23; Su 10:00-13:45"
+opening_hours: 'Sep 01-Jun 24: Tu-Sa 10:00-13:15,17:00-20:00; Su 10:00-13:45; Jun
+    25-Aug 31: Tu-Sa 10:00-13:15,17:30-20:23; Su 10:00-13:45'
 website: ""

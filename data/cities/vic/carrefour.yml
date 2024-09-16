@@ -1,11 +1,11 @@
 id: 316081856
-type: way
+type: node
 latitude: 41.92642
 longitude: 2.24565
 postcode: "08500"
 city: Vic
-street: "Carrer de la Llotja"
-housenumber: 6
+street: Carrer de la Llotja
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.carrefour.es/"
+website: https://www.carrefour.es/

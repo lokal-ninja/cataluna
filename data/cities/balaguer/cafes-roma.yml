@@ -4,8 +4,8 @@ latitude: 41.79315
 longitude: 0.81008
 postcode: "25600"
 city: Balaguer
-street: "Carrer d'Urgell"
-housenumber: 14
+street: Carrer d'Urgell
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30,16:30-20:00; Sa 09:00-14:00"
-website: "https://www.cafesroma.com/"
+opening_hours: Mo-Fr 09:00-13:30,16:30-20:00; Sa 09:00-14:00
+website: https://www.cafesroma.com/

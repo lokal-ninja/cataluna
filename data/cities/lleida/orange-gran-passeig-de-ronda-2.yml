@@ -4,8 +4,8 @@ latitude: 41.61815
 longitude: 0.61378
 postcode: "25006"
 city: Lleida
-street: "Gran Passeig de Ronda"
-housenumber: 81
-phone: "+34 654 189 883"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
-website: "https://www.orange.es/tiendas/orange/lleida/paseo-gran-passeig-de-ronda-81"
+street: Gran Passeig de Ronda
+housenumber: "81"
+phone: +34 654 189 883
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00
+website: https://www.orange.es/tiendas/orange/lleida/paseo-gran-passeig-de-ronda-81

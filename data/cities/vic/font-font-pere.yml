@@ -1,11 +1,11 @@
 id: 371331106
-type: way
+type: node
 latitude: 41.92787
 longitude: 2.24625
 postcode: "08500"
 city: Vic
-street: "Carrer de l'historiador Ramon d'Abadal i de Vinyals"
-housenumber: 12
-phone: "+34 93 885 21 08"
+street: Carrer de l'historiador Ramon d'Abadal i de Vinyals
+housenumber: "12"
+phone: +34 93 885 21 08
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.99448
 longitude: 1.516
 postcode: "25280"
 city: Solsona
-street: "Carrer del Castell"
-housenumber: 48
+street: Carrer del Castell
+housenumber: "48"
 phone: "+34661290934"
-opening_hours: "09:30-12:00,16:30-20:00"
-website: "https://www.mansimanigues.cat/"
+opening_hours: 09:30-12:00,16:30-20:00
+website: https://www.mansimanigues.cat/

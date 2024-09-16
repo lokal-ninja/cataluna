@@ -4,8 +4,8 @@ latitude: 41.3838
 longitude: 2.15351
 postcode: "08015"
 city: Barcelona
-street: "Carrer d'Aragó"
-housenumber: 123
-phone: "+34 93 52 50 044"
-opening_hours: "Mo-Fr 10:00-20:00"
+street: Carrer d'Aragó
+housenumber: "123"
+phone: +34 93 52 50 044
+opening_hours: Mo-Fr 10:00-20:00
 website: ""

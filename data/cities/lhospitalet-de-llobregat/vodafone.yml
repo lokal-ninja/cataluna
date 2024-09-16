@@ -4,8 +4,8 @@ latitude: 41.37581
 longitude: 2.12006
 postcode: "08903"
 city: l'Hospitalet de Llobregat
-street: "Carretera de Collblanc"
-housenumber: 26
-phone: "+34 607 100 217"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.vodafone.es/ca/c/particulares/es/"
+street: Carretera de Collblanc
+housenumber: "26"
+phone: +34 607 100 217
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.vodafone.es/ca/c/particulares/es/

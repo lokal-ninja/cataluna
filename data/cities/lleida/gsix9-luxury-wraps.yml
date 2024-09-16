@@ -4,8 +4,8 @@ latitude: 41.60273
 longitude: 0.64304
 postcode: "25001"
 city: Lleida
-street: "Carrer de Sant Francesc de Sales"
-housenumber: 6
+street: Carrer de Sant Francesc de Sales
+housenumber: "6"
 phone: "+34684187032"
 opening_hours: ""
-website: "https://vinilado.es/"
+website: https://vinilado.es/

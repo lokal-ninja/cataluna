@@ -4,8 +4,8 @@ latitude: 41.40342
 longitude: 2.1543
 postcode: "08012"
 city: Barcelona
-street: "Carrer d'Astúries"
-housenumber: 35
+street: Carrer d'Astúries
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:30"
-website: "https://fornmistral.com/"
+opening_hours: Mo-Sa 11:00-20:30
+website: https://fornmistral.com/

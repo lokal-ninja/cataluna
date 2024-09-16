@@ -1,11 +1,11 @@
 id: 350667503
-type: way
+type: node
 latitude: 41.74952
 longitude: 1.80219
 postcode: "08250"
 city: Sant Joan de Vilatorrada
-street: "Carrer de Montcunill"
-housenumber: 
+street: Carrer de Montcunill
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.consum.es"
+website: https://www.consum.es

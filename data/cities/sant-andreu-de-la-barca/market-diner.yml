@@ -1,11 +1,11 @@
 id: 1192018918
-type: way
+type: node
 latitude: 41.44882
 longitude: 1.9689
 postcode: "08740"
 city: Sant Andreu de la Barca
-street: "Avinguda Constitució"
-housenumber: 4
-phone: "+34 93 682 33 31"
-opening_hours: "Mo-Sa 08:30–15:00"
+street: Avinguda Constitució
+housenumber: "4"
+phone: +34 93 682 33 31
+opening_hours: Mo-Sa 08:30–15:00
 website: ""

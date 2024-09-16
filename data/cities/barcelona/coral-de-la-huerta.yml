@@ -4,8 +4,8 @@ latitude: 41.40685
 longitude: 2.16642
 postcode: "08025"
 city: Barcelona
-street: "Travessera de Gràcia"
-housenumber: 329
+street: Travessera de Gràcia
+housenumber: "329"
 phone: "+34658139278"
-opening_hours: "Mo-Fr 09:00-14:00, 17:00-21:00; Sa 09:00-15:00; PH off"
+opening_hours: Mo-Fr 09:00-14:00, 17:00-21:00; Sa 09:00-15:00; PH off
 website: ""

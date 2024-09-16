@@ -1,11 +1,11 @@
 id: 221533518
-type: way
+type: node
 latitude: 41.38184
 longitude: 2.0171
 postcode: "08620"
 city: Sant Vicenç dels Horts
-street: "Carretera de Sant Boi"
-housenumber: 252
-phone: "+34 93 656 68 00"
-opening_hours: "Mo-Fr 08:00-13:00, 15:00-19:00; Sa Sólo por cita; Su off; PH off"
-website: "https://www.autoliveras.com/"
+street: Carretera de Sant Boi
+housenumber: "252"
+phone: +34 93 656 68 00
+opening_hours: Mo-Fr 08:00-13:00, 15:00-19:00; Sa "Sólo por cita"; Su off; PH off
+website: https://www.autoliveras.com/

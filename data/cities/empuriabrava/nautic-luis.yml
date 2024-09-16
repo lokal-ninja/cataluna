@@ -1,11 +1,11 @@
 id: 188282130
-type: way
+type: node
 latitude: 42.256
 longitude: 3.10927
 postcode: "17487"
 city: Empuriabrava
-street: "Avinguda de la República Catalana"
-housenumber: 46
+street: Avinguda de la República Catalana
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

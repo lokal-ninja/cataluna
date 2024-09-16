@@ -4,8 +4,8 @@ latitude: 41.45033
 longitude: 2.20681
 postcode: "08922"
 city: Santa Coloma de Gramenet
-street: "Avinguda de Santa Coloma"
-housenumber: 6
-phone: "+34 930 167 301"
-opening_hours: "Mo-Fr 10:00-13:30, 17:00-20:30; Sa 10:00-13:30"
-website: "https://www.gramabikes.com/"
+street: Avinguda de Santa Coloma
+housenumber: "6"
+phone: +34 930 167 301
+opening_hours: Mo-Fr 10:00-13:30, 17:00-20:30; Sa 10:00-13:30
+website: https://www.gramabikes.com/

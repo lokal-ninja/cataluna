@@ -1,11 +1,11 @@
 id: 418380258
-type: way
+type: node
 latitude: 41.75
 longitude: 2.12161
 postcode: "08183"
 city: Castellterçol
-street: "Carretera de Granera"
-housenumber: 28
-phone: "+34 938 66 66 66"
-opening_hours: "Mo-Sa 09:00-14:00, 17:00-20:30; Su 09:00-14:00"
+street: Carretera de Granera
+housenumber: "28"
+phone: +34 938 66 66 66
+opening_hours: Mo-Sa 09:00-14:00, 17:00-20:30; Su 09:00-14:00
 website: ""

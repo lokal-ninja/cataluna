@@ -4,8 +4,8 @@ latitude: 41.60628
 longitude: 0.6385
 postcode: "25001"
 city: Lleida
-street: "Avinguda de les Garrigues"
-housenumber: 102
+street: Avinguda de les Garrigues
+housenumber: "102"
 phone: "+34973205815"
 opening_hours: ""
-website: "https://www.sicoris-sa.com/"
+website: https://www.sicoris-sa.com/

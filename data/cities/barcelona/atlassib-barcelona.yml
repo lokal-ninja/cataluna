@@ -4,8 +4,8 @@ latitude: 41.3825
 longitude: 2.14557
 postcode: "08029"
 city: Barcelona
-street: "Carrer de Provença"
-housenumber: 38
-phone: "+34 616 16 10 88"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-19:00; Sa,Su 10:00-18:00; PH off"
-website: "http://atlassib.es/"
+street: Carrer de Provença
+housenumber: "38"
+phone: +34 616 16 10 88
+opening_hours: Mo-Fr 09:00-13:00,14:00-19:00; Sa,Su 10:00-18:00; PH off
+website: http://atlassib.es/

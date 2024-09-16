@@ -4,8 +4,8 @@ latitude: 41.39041
 longitude: 2.17501
 postcode: "08010"
 city: Barcelona
-street: "Carrer del Bruc"
-housenumber: 18
-phone: "+34 93 388 47 97"
-opening_hours: "Mo-Sa 10:00-14:00, 16:30-20:30"
-website: "https://casaruizgranel.com"
+street: Carrer del Bruc
+housenumber: "18"
+phone: +34 93 388 47 97
+opening_hours: Mo-Sa 10:00-14:00, 16:30-20:30
+website: https://casaruizgranel.com

@@ -4,8 +4,8 @@ latitude: 41.60576
 longitude: 0.62282
 postcode: "25001"
 city: Lleida
-street: "Avinguda de Barcelona"
-housenumber: 11
+street: Avinguda de Barcelona
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.merkal.com/"
+website: https://www.merkal.com/

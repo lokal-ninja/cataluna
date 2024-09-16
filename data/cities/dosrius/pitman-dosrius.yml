@@ -1,11 +1,11 @@
 id: 997203781
-type: way
+type: node
 latitude: 41.59298
 longitude: 2.4002
 postcode: ""
 city: Dosrius
-street: "Carrer dels Teixidors"
-housenumber: 7
+street: Carrer dels Teixidors
+housenumber: "7"
 phone: "+34937917156"
 opening_hours: ""
-website: "http://www.pitman.pro/"
+website: http://www.pitman.pro/

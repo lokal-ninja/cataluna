@@ -4,8 +4,8 @@ latitude: 41.61357
 longitude: 0.62512
 postcode: "25007"
 city: Lleida
-street: "Carrer Major"
-housenumber: 35
+street: Carrer Major
+housenumber: "35"
 phone: "+34627361129"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.druni.es/"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.druni.es/

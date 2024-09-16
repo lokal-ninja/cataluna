@@ -4,8 +4,8 @@ latitude: 41.3736
 longitude: 2.16599
 postcode: "08004"
 city: Barcelona
-street: "Carrer de Salvà"
-housenumber: 30
-phone: "+34 93 394 74 39"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
+street: Carrer de Salvà
+housenumber: "30"
+phone: +34 93 394 74 39
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00
 website: ""

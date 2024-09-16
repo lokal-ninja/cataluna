@@ -1,11 +1,11 @@
 id: 907629769
-type: way
+type: node
 latitude: 41.54762
 longitude: 0.82524
 postcode: "25430"
 city: Juneda
-street: "Carrer de La Font"
-housenumber: 16
-phone: "+34 973 15 13 68;+34627436991"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-15:00"
+street: Carrer de La Font
+housenumber: "16"
+phone: +34 973 15 13 68;+34627436991
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-15:00
 website: ""

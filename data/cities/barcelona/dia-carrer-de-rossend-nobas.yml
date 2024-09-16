@@ -4,8 +4,8 @@ latitude: 41.40874
 longitude: 2.1895
 postcode: ""
 city: Barcelona
-street: "Carrer de Rossend Nobas"
-housenumber: 27
+street: Carrer de Rossend Nobas
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30; PH,Su 09:00-20:00"
-website: "https://www.dia.es"
+opening_hours: Mo-Sa 09:00-21:30; PH,Su 09:00-20:00
+website: https://www.dia.es

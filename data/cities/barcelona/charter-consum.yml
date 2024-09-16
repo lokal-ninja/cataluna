@@ -4,8 +4,8 @@ latitude: 41.3678
 longitude: 2.13185
 postcode: "08014"
 city: Barcelona
-street: "Carrer de la Riera Blanca"
-housenumber: 195
-phone: "+34 675650056"
-opening_hours: "Mo-Su 09:00-21:30"
-website: "https://www.consum.es/franquiciados"
+street: Carrer de la Riera Blanca
+housenumber: "195"
+phone: +34 675650056
+opening_hours: Mo-Su 09:00-21:30
+website: https://www.consum.es/franquiciados

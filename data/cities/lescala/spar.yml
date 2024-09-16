@@ -1,11 +1,11 @@
 id: 125493217
-type: way
+type: node
 latitude: 42.12541
 longitude: 3.13468
 postcode: "17130"
 city: L'Escala
-street: "Carrer de la Torre"
-housenumber: 45
+street: Carrer de la Torre
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:30"
+opening_hours: Mo-Su 08:00-21:30
 website: ""

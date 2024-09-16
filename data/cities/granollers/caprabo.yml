@@ -1,11 +1,11 @@
 id: 125697820
-type: way
+type: node
 latitude: 41.61112
 longitude: 2.30198
 postcode: "08402"
 city: Granollers
-street: "Carrer Matagalls"
-housenumber: 5
+street: Carrer Matagalls
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

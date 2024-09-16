@@ -4,8 +4,8 @@ latitude: 41.38025
 longitude: 2.15149
 postcode: "08015"
 city: Barcelona
-street: "Carrer del Consell de Cent"
-housenumber: 98
-phone: "+34 93 4242577"
-opening_hours: "Mo-Fr 07:00-14:30,16:30-20:30; Sa 07:00-14:30; Su 08:00-14:00"
+street: Carrer del Consell de Cent
+housenumber: "98"
+phone: +34 93 4242577
+opening_hours: Mo-Fr 07:00-14:30,16:30-20:30; Sa 07:00-14:30; Su 08:00-14:00
 website: ""

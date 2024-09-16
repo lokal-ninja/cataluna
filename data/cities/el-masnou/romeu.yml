@@ -4,8 +4,8 @@ latitude: 41.4797
 longitude: 2.32161
 postcode: "08320"
 city: El Masnou
-street: "Passeig de Prat de la Riba"
-housenumber: 32
-phone: "+34 930 31 93 41"
-opening_hours: "Mo,Tu 09:30-13:30,16:00-20:00; We-Fr 09:30-13:30,17:00-20:00; Sa 09:30-13:30"
+street: Passeig de Prat de la Riba
+housenumber: "32"
+phone: +34 930 31 93 41
+opening_hours: Mo,Tu 09:30-13:30,16:00-20:00; We-Fr 09:30-13:30,17:00-20:00; Sa 09:30-13:30
 website: ""

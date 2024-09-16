@@ -4,8 +4,8 @@ latitude: 41.55523
 longitude: 2.09527
 postcode: "08206"
 city: Sabadell
-street: "Via Aurèlia"
-housenumber: 2
-phone: "+34 937 17 97 25"
-opening_hours: "Mo-Fr 09:00-13:30,16:30-20:30; Sa 09:30-13:30"
+street: Via Aurèlia
+housenumber: "2"
+phone: +34 937 17 97 25
+opening_hours: Mo-Fr 09:00-13:30,16:30-20:30; Sa 09:30-13:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.41077
 longitude: 2.19443
 postcode: "08018"
 city: Barcelona
-street: "Carrer d'Andrade"
-housenumber: 22
-phone: "+34 933031314"
-opening_hours: "Mo-Sa 09:15-21:15"
-website: "https://www.mercadona.es"
+street: Carrer d'Andrade
+housenumber: "22"
+phone: +34 933031314
+opening_hours: Mo-Sa 09:15-21:15
+website: https://www.mercadona.es

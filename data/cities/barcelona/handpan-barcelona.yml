@@ -4,8 +4,8 @@ latitude: 41.40135
 longitude: 2.15873
 postcode: "08012"
 city: Barcelona
-street: "Carrer de Puigmartí"
-housenumber: 3
-phone: "+34 667886407"
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://handpanbarcelona.com"
+street: Carrer de Puigmartí
+housenumber: "3"
+phone: +34 667886407
+opening_hours: Mo-Sa 11:00-20:00
+website: https://handpanbarcelona.com

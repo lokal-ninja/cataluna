@@ -4,8 +4,8 @@ latitude: 41.40216
 longitude: 2.20613
 postcode: "08005"
 city: Barcelona
-street: "carrer Ramon Turro"
-housenumber: 252
+street: carrer Ramon Turro
+housenumber: "252"
 phone: ""
 opening_hours: ""
 website: ""

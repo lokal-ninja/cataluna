@@ -4,8 +4,8 @@ latitude: 41.37722
 longitude: 2.1626
 postcode: "08015"
 city: Barcelona
-street: "Carrer del Comte Borrell"
-housenumber: 47
-phone: "+34 93 669 25 42"
-opening_hours: "Tu-Fr 10:00-21:00; Sa-Mo 10:00-15:30,16:00-21:00"
+street: Carrer del Comte Borrell
+housenumber: "47"
+phone: +34 93 669 25 42
+opening_hours: Tu-Fr 10:00-21:00; Sa-Mo 10:00-15:30,16:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.38335
 longitude: 2.16248
 postcode: "08011"
 city: Barcelona
-street: "Carrer de Sepúlveda"
-housenumber: 173
+street: Carrer de Sepúlveda
+housenumber: "173"
 phone: ""
 opening_hours: ""
-website: "https://lifeinformatica.com"
+website: https://lifeinformatica.com

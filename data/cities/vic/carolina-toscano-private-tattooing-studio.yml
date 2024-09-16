@@ -4,8 +4,8 @@ latitude: 41.93324
 longitude: 2.24552
 postcode: "08500"
 city: Vic
-street: "Carrer de Perot Rocaguinarda"
-housenumber: 29
-phone: "+34 686 74 71 36"
-opening_hours: "con cita previa"
-website: "http://studiotoscano.blogspot.com"
+street: Carrer de Perot Rocaguinarda
+housenumber: "29"
+phone: +34 686 74 71 36
+opening_hours: '"con cita previa"'
+website: http://studiotoscano.blogspot.com

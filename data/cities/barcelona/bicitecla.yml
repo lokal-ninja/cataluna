@@ -4,8 +4,8 @@ latitude: 41.39843
 longitude: 2.16022
 postcode: ""
 city: Barcelona
-street: "Carrer de Bonavista"
-housenumber: 20
+street: Carrer de Bonavista
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-19:00; Sa 10:00-14:00; Su off"
-website: "https://bicitecla.com"
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-19:00; Sa 10:00-14:00; Su off
+website: https://bicitecla.com

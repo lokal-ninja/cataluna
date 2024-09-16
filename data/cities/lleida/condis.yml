@@ -4,8 +4,8 @@ latitude: 41.60753
 longitude: 0.62674
 postcode: "25001"
 city: Lleida
-street: "Avinguda de l'Estudi General"
-housenumber: 8
+street: Avinguda de l'Estudi General
+housenumber: "8"
 phone: "+34973650262"
-opening_hours: "Mo-Su 09:00-23:00"
-website: "https://www.condis.es/ficha/3478#teu-super-c-en-lleida"
+opening_hours: Mo-Su 09:00-23:00
+website: https://www.condis.es/ficha/3478#teu-super-c-en-lleida

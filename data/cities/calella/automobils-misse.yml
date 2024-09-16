@@ -1,11 +1,11 @@
 id: 297311412
-type: way
+type: node
 latitude: 41.62063
 longitude: 2.66636
 postcode: ""
 city: Calella
-street: "Carrer Sant Jaume"
-housenumber: 469
-phone: "+34 937 69 14 04"
+street: Carrer Sant Jaume
+housenumber: "469"
+phone: +34 937 69 14 04
 opening_hours: ""
-website: "https://redoficial.citroen.es/"
+website: https://redoficial.citroen.es/

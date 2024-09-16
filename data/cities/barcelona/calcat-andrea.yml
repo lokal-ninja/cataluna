@@ -4,8 +4,8 @@ latitude: 41.43066
 longitude: 2.18944
 postcode: "08030"
 city: Barcelona
-street: "Carrer Gran de Sant Andreu"
-housenumber: 105
+street: Carrer Gran de Sant Andreu
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

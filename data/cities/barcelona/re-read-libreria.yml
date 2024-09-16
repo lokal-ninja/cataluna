@@ -4,8 +4,8 @@ latitude: 41.4022
 longitude: 2.16632
 postcode: "08037"
 city: Barcelona
-street: "Passeig de Sant Joan"
-housenumber: 152
+street: Passeig de Sant Joan
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Fr 10:30-20:30; Sa,Su 10:30-14:30,16:30-20:30"
-website: "https://re-read.com/"
+opening_hours: Mo-Fr 10:30-20:30; Sa,Su 10:30-14:30,16:30-20:30
+website: https://re-read.com/

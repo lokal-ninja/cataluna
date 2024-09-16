@@ -4,8 +4,8 @@ latitude: 41.40998
 longitude: 2.14017
 postcode: "08023"
 city: Barcelona
-street: "Carrer de Suïssa"
-housenumber: 13
-phone: "+34 932123071"
-opening_hours: "Mo-Fr 09:00-14:30,17:00-20:30; Sa 09:00-14:30"
+street: Carrer de Suïssa
+housenumber: "13"
+phone: +34 932123071
+opening_hours: Mo-Fr 09:00-14:30,17:00-20:30; Sa 09:00-14:30
 website: ""

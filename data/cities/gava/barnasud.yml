@@ -1,11 +1,11 @@
 id: 22754431
-type: way
+type: node
 latitude: 41.29467
 longitude: 2.00722
 postcode: "08850"
 city: Gavà
-street: "Carrer del Progrès"
-housenumber: 69
+street: Carrer del Progrès
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "https://www.barnasud.com/"
+website: https://www.barnasud.com/

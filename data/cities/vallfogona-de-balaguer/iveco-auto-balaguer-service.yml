@@ -1,11 +1,11 @@
 id: 1167735494
-type: way
+type: node
 latitude: 41.78798
 longitude: 0.82698
 postcode: "25680"
 city: Vallfogona de Balaguer
-street: "Carretera de Tàrrega"
-housenumber: 2
-phone: "+34 973 450 107"
+street: Carretera de Tàrrega
+housenumber: "2"
+phone: +34 973 450 107
 opening_hours: ""
-website: "http://www.autobalaguer.com"
+website: http://www.autobalaguer.com

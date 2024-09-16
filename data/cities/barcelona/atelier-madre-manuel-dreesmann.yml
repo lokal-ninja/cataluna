@@ -4,8 +4,8 @@ latitude: 41.38566
 longitude: 2.1824
 postcode: "08003"
 city: Barcelona
-street: "Carrer del Rec"
-housenumber: 20
-phone: "+34 605 575 325"
-opening_hours: "Mo-Su 11:00-20:00"
-website: "https://www.manuel-dreesmann.com"
+street: Carrer del Rec
+housenumber: "20"
+phone: +34 605 575 325
+opening_hours: Mo-Su 11:00-20:00
+website: https://www.manuel-dreesmann.com

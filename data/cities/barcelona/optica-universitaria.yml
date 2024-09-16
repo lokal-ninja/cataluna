@@ -4,8 +4,8 @@ latitude: 41.33122
 longitude: 2.11426
 postcode: "08040"
 city: Barcelona
-street: "Carrer Longitudinal 4"
-housenumber: 22
-phone: "+34 93 336 46 10"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:30"
-website: "https://www.opticauniversitaria.es/"
+street: Carrer Longitudinal 4
+housenumber: "22"
+phone: +34 93 336 46 10
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:30
+website: https://www.opticauniversitaria.es/

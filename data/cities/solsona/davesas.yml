@@ -4,8 +4,8 @@ latitude: 41.99438
 longitude: 1.51806
 postcode: "25280"
 city: Solsona
-street: "Carrer del Castell"
-housenumber: 1
-phone: "+34 973 48 00 40"
-opening_hours: "09:30-13:00,17:00-20:30"
+street: Carrer del Castell
+housenumber: "1"
+phone: +34 973 48 00 40
+opening_hours: 09:30-13:00,17:00-20:30
 website: ""

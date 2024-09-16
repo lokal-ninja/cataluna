@@ -4,8 +4,9 @@ latitude: 41.55964
 longitude: 2.007
 postcode: "08224"
 city: Terrassa
-street: "Carrer de Blasco de Garay"
-housenumber: 10
+street: Carrer de Blasco de Garay
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Tu 09:00-13:30,16:00-20:30; We 09:00-13:30,14:00-20:30; Th-Fr 09:00-13:30,17:15-20:30; Sa 09:30-14:00"
+opening_hours: Mo-Tu 09:00-13:30,16:00-20:30; We 09:00-13:30,14:00-20:30; Th-Fr 09:00-13:30,17:15-20:30;
+    Sa 09:30-14:00
 website: ""

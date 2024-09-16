@@ -4,8 +4,8 @@ latitude: 41.84779
 longitude: 3.12953
 postcode: "17230"
 city: Palamós
-street: "Carrer Major"
-housenumber: 9
-phone: "+34 972 31 42 90"
-opening_hours: "Mo-Su 09:00-13:00"
+street: Carrer Major
+housenumber: "9"
+phone: +34 972 31 42 90
+opening_hours: Mo-Su 09:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.40049
 longitude: 2.20352
 postcode: "08005"
 city: Barcelona
-street: "Ramon Turro"
-housenumber: 201
-phone: "+34 93 127 23 19"
-opening_hours: "Mo 17:00-20:30; Tu-Fr 09:00-20:30; Sa 09:30-14:30"
-website: "https://vidameva.com"
+street: Ramon Turro
+housenumber: "201"
+phone: +34 93 127 23 19
+opening_hours: Mo 17:00-20:30; Tu-Fr 09:00-20:30; Sa 09:30-14:30
+website: https://vidameva.com

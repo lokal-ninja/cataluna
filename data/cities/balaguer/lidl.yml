@@ -4,8 +4,8 @@ latitude: 41.79009
 longitude: 0.81997
 postcode: "25600"
 city: Balaguer
-street: "Carrer d'Urgell"
-housenumber: 123
+street: Carrer d'Urgell
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

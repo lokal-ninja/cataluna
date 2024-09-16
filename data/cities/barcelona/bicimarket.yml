@@ -4,8 +4,8 @@ latitude: 41.37917
 longitude: 2.15924
 postcode: "08015"
 city: Barcelona
-street: "Carrer de Floridablanca"
-housenumber: 83
-phone: "+34 93 182 18 82"
-opening_hours: "Mo-Fr 10:00-14:30,15:30-20:00"
-website: "https://www.bicimarket.com/"
+street: Carrer de Floridablanca
+housenumber: "83"
+phone: +34 93 182 18 82
+opening_hours: Mo-Fr 10:00-14:30,15:30-20:00
+website: https://www.bicimarket.com/

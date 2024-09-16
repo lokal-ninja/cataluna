@@ -4,8 +4,8 @@ latitude: 41.54728
 longitude: 2.10824
 postcode: "08201"
 city: Sabadell
-street: "Carrer de la Rosa"
-housenumber: 7
+street: Carrer de la Rosa
+housenumber: "7"
 phone: "+34937105589"
-opening_hours: "Mo-Sa 10:30-20:30"
+opening_hours: Mo-Sa 10:30-20:30
 website: ""

@@ -1,11 +1,11 @@
 id: 1145721993
-type: way
+type: node
 latitude: 41.72708
 longitude: 0.43626
 postcode: "25100"
 city: Almacelles
-street: "Carrer de Mossèn Cinto Verdaguer"
-housenumber: 34
-phone: "+34 973 74 00 51"
+street: Carrer de Mossèn Cinto Verdaguer
+housenumber: "34"
+phone: +34 973 74 00 51
 opening_hours: ""
 website: ""

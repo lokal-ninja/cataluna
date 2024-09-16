@@ -1,11 +1,11 @@
 id: 690578958
-type: way
+type: node
 latitude: 41.95502
 longitude: 2.80957
 postcode: "17003"
 city: Girona
-street: "Carrer d'Astúries"
-housenumber: 66
-phone: "+34 972754901"
+street: Carrer d'Astúries
+housenumber: "66"
+phone: +34 972754901
 opening_hours: ""
 website: ""

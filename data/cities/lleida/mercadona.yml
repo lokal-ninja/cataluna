@@ -4,8 +4,8 @@ latitude: 41.61157
 longitude: 0.62835
 postcode: "25001"
 city: Lleida
-street: "Carrer de Sant Joan de Mata"
-housenumber: 2
-phone: "+34 973 30 51 49"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.mercadona.es"
+street: Carrer de Sant Joan de Mata
+housenumber: "2"
+phone: +34 973 30 51 49
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.mercadona.es

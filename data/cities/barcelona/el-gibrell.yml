@@ -4,8 +4,8 @@ latitude: 41.37457
 longitude: 2.13394
 postcode: "08028"
 city: Barcelona
-street: "Carrer de Sant Jordi"
-housenumber: 15
-phone: "+34 930 07 85 80"
+street: Carrer de Sant Jordi
+housenumber: "15"
+phone: +34 930 07 85 80
 opening_hours: ""
-website: "https://www.elgibrell.com/botiga/"
+website: https://www.elgibrell.com/botiga/

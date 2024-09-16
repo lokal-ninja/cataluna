@@ -4,8 +4,8 @@ latitude: 41.48099
 longitude: 2.31604
 postcode: "08320"
 city: El Masnou
-street: "Carrer de Navarra"
-housenumber: 51
-phone: "+34 937822297"
-opening_hours: "Mo-Su 90:00-13:30,16:30-20:00"
-website: "https://www.estancarnau.cat"
+street: Carrer de Navarra
+housenumber: "51"
+phone: +34 937822297
+opening_hours: Mo-Fr 90:00-13:30,16:30-20:00
+website: https://www.estancarnau.cat

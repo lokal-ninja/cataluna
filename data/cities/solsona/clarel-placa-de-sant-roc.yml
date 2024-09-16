@@ -4,8 +4,8 @@ latitude: 41.99614
 longitude: 1.5175
 postcode: "25280"
 city: Solsona
-street: "Plaça de Sant Roc"
-housenumber: 1
+street: Plaça de Sant Roc
+housenumber: "1"
 phone: ""
-opening_hours: "09:00-14:00,17:00-20:30"
-website: "https://www.clarel.es/"
+opening_hours: 09:00-14:00,17:00-20:30
+website: https://www.clarel.es/

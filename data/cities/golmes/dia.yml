@@ -1,11 +1,11 @@
 id: 1051102973
-type: way
+type: node
 latitude: 41.62982
 longitude: 0.90767
 postcode: "25241"
 city: Golmés
-street: "Carrer de la Catalunya Nord"
-housenumber: 2
+street: Carrer de la Catalunya Nord
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

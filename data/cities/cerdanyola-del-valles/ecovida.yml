@@ -4,8 +4,8 @@ latitude: 41.49296
 longitude: 2.13846
 postcode: "08290"
 city: Cerdanyola del Vallès
-street: "Passeig Cordelles"
-housenumber: 25
-phone: "+34 628 665 998"
-opening_hours: "Mo-Fr 09:30-14:00,17:00-20:30; Sa 09:30-13:30"
-website: "http://www.ecovida.cat/"
+street: Passeig Cordelles
+housenumber: "25"
+phone: +34 628 665 998
+opening_hours: Mo-Fr 09:30-14:00,17:00-20:30; Sa 09:30-13:30
+website: http://www.ecovida.cat/

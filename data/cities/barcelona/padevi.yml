@@ -4,8 +4,8 @@ latitude: 41.39314
 longitude: 2.14507
 postcode: "08021"
 city: Barcelona
-street: "Avinguda Diagonal"
-housenumber: 600
-phone: "+34 932 00 13 78"
-opening_hours: "Mo-Sa 11:00-14:30, 17:00-20:00"
+street: Avinguda Diagonal
+housenumber: "600"
+phone: +34 932 00 13 78
+opening_hours: Mo-Sa 11:00-14:30, 17:00-20:00
 website: ""

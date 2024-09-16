@@ -4,8 +4,9 @@ latitude: 41.15439
 longitude: 1.11015
 postcode: "43201"
 city: Reus
-street: "Carrer de l'Hospital"
-housenumber: 3
-phone: "+34 977 126 246"
-opening_hours: "Mo-Th 10:00-14:00,17:00-20:30; Fr 10:00-20:30; Sa 10:00-14:30,17:00-20:30; PH off"
-website: "https://www.calsendra.com"
+street: Carrer de l'Hospital
+housenumber: "3"
+phone: +34 977 126 246
+opening_hours: Mo-Th 10:00-14:00,17:00-20:30; Fr 10:00-20:30; Sa 10:00-14:30,17:00-20:30;
+    PH off
+website: https://www.calsendra.com

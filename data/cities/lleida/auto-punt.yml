@@ -1,11 +1,11 @@
 id: 833161205
-type: way
+type: node
 latitude: 41.6321
 longitude: 0.59287
 postcode: ""
 city: Lleida
-street: "N-240"
-housenumber: 94
+street: N-240
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.41166
 longitude: 2.17174
 postcode: "08025"
 city: Barcelona
-street: "Carrer de los Castillejos"
-housenumber: 366
-phone: "+34 934555927"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:30-14:30"
+street: Carrer de los Castillejos
+housenumber: "366"
+phone: +34 934555927
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:30-14:30
 website: ""

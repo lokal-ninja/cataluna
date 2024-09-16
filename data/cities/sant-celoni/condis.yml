@@ -1,11 +1,11 @@
 id: 352521164
-type: way
+type: node
 latitude: 41.69359
 longitude: 2.49754
 postcode: "08470"
 city: Sant Celoni
-street: "Carrer de Jaume I"
-housenumber: 67
+street: Carrer de Jaume I
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 345382700
-type: way
+type: node
 latitude: 41.98168
 longitude: 2.80944
 postcode: "17006"
 city: Girona
-street: "Avinguda de Josep Tarradellas"
-housenumber: 
+street: Avinguda de Josep Tarradellas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:15-21:15"
+opening_hours: Mo-Sa 09:15-21:15
 website: ""

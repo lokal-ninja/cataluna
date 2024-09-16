@@ -1,11 +1,11 @@
 id: 707305727
-type: way
+type: node
 latitude: 41.35644
 longitude: 2.11054
 postcode: "08950"
 city: Esplugues de Llobregat
-street: "Narcís Monturiol"
-housenumber: 6
-phone: "+34 933 35 93 53"
-opening_hours: "Mo-Tu 08:30-13:30,15:00-18:00; Fr 08:30-13:30"
-website: "https://www.dicopex.com"
+street: Narcís Monturiol
+housenumber: "6"
+phone: +34 933 35 93 53
+opening_hours: Mo-Tu 08:30-13:30,15:00-18:00; Fr 08:30-13:30
+website: https://www.dicopex.com

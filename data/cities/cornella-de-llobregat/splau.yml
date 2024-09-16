@@ -1,11 +1,11 @@
 id: 112459309
-type: way
+type: node
 latitude: 41.34824
 longitude: 2.07694
 postcode: "08940"
 city: Cornellà de Llobregat
-street: "Avinguda del Baix Llobregat"
-housenumber: 
+street: Avinguda del Baix Llobregat
+housenumber: ""
 phone: "+34934719080"
-opening_hours: "Mo-Su 09:30-22:00"
-website: "https://www.westfield.com/spain/splau"
+opening_hours: Mo-Su 09:30-22:00
+website: https://www.westfield.com/spain/splau

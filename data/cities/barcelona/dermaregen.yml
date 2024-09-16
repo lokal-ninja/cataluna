@@ -4,8 +4,8 @@ latitude: 41.39033
 longitude: 2.11908
 postcode: "08034"
 city: Barcelona
-street: "Avinguda de Pedralbes"
-housenumber: 32
-phone: "+34 607 292 381"
+street: Avinguda de Pedralbes
+housenumber: "32"
+phone: +34 607 292 381
 opening_hours: ""
-website: "https://dermaregen.es/es/"
+website: https://dermaregen.es/es/

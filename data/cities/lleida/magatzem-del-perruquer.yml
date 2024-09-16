@@ -4,8 +4,8 @@ latitude: 41.60507
 longitude: 0.63737
 postcode: "25001"
 city: Lleida
-street: "Carrer de les Roses"
-housenumber: 10
-phone: "+34 973 27 47 48;+34 973 26 97 71;+34 682 500 800"
+street: Carrer de les Roses
+housenumber: "10"
+phone: +34 973 27 47 48;+34 973 26 97 71;+34 682 500 800
 opening_hours: ""
-website: "http://www.magatzemdelperruquer.com/"
+website: http://www.magatzemdelperruquer.com/

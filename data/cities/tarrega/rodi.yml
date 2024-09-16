@@ -1,11 +1,11 @@
 id: 671240347
-type: way
+type: node
 latitude: 41.65214
 longitude: 1.14999
 postcode: "25300"
 city: Tàrrega
-street: "Avinguda de Barcelona"
-housenumber: 24
+street: Avinguda de Barcelona
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

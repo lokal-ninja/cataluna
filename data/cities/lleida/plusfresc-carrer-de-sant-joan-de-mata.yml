@@ -4,8 +4,8 @@ latitude: 41.6115
 longitude: 0.62906
 postcode: "25001"
 city: Lleida
-street: "Carrer de Sant Joan de Mata"
-housenumber: 3
+street: Carrer de Sant Joan de Mata
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.plusfresc.cat/"
+website: https://www.plusfresc.cat/

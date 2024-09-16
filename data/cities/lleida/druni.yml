@@ -4,8 +4,8 @@ latitude: 41.61534
 longitude: 0.62732
 postcode: "25007"
 city: Lleida
-street: "Plaça de Sant Joan"
-housenumber: 28
+street: Plaça de Sant Joan
+housenumber: "28"
 phone: "+34671650584"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.druni.es/"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.druni.es/

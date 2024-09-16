@@ -4,8 +4,8 @@ latitude: 41.37964
 longitude: 2.14629
 postcode: "08015"
 city: Barcelona
-street: "carrer Llança"
-housenumber: 
+street: carrer Llança
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su off"
-website: "https://www.condis.es/"
+opening_hours: Mo-Sa 09:00-21:00; Su off
+website: https://www.condis.es/

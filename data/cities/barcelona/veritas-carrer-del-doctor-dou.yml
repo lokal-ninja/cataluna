@@ -4,8 +4,8 @@ latitude: 41.38273
 longitude: 2.16855
 postcode: ""
 city: Barcelona
-street: "Carrer del Doctor Dou"
-housenumber: 17
-phone: "+34 933 020 000"
-opening_hours: "Mo-Sa 09:15-21:15"
-website: "https://www.veritas.es/"
+street: Carrer del Doctor Dou
+housenumber: "17"
+phone: +34 933 020 000
+opening_hours: Mo-Sa 09:15-21:15
+website: https://www.veritas.es/

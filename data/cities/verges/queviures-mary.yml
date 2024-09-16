@@ -4,8 +4,9 @@ latitude: 42.0622
 longitude: 3.04543
 postcode: "17142"
 city: Verges
-street: "Carrer Francesc Cambó"
-housenumber: 9
+street: Carrer Francesc Cambó
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:30; Sa 09:00-13:30,17:00-20:00; PH,Su 08:30-13:00; Mo,Tu,Th,Fr 16:30-20:30"
+opening_hours: Mo-Fr 08:30-13:30; Sa 09:00-13:30,17:00-20:00; PH,Su 08:30-13:00; Mo,Tu,Th,Fr
+    16:30-20:30
 website: ""

@@ -1,11 +1,11 @@
 id: 986362659
-type: way
+type: node
 latitude: 41.53762
 longitude: 2.217
 postcode: "08100"
 city: Mollet del Vallès
-street: "Carrer de Can Fàbregas"
-housenumber: 8
+street: Carrer de Can Fàbregas
+housenumber: "8"
 phone: "+34935701349"
-opening_hours: "Mo-Fr 08:30-13:00,16:00-19:00; Sa 10:30-13:00"
-website: "https://pmontcada.com/"
+opening_hours: Mo-Fr 08:30-13:00,16:00-19:00; Sa 10:30-13:00
+website: https://pmontcada.com/

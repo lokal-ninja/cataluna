@@ -4,8 +4,8 @@ latitude: 41.43595
 longitude: 2.18982
 postcode: "08030"
 city: Barcelona
-street: "Carrer de Malats"
-housenumber: 15
+street: Carrer de Malats
+housenumber: "15"
 phone: "+34936771111"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-14:00"
-website: "https://parlem.com/"
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-14:00
+website: https://parlem.com/

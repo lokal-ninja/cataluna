@@ -1,11 +1,11 @@
 id: 711138649
-type: way
+type: node
 latitude: 41.33718
 longitude: 1.68649
 postcode: "08720"
 city: Vilafranca del Penedès
-street: "Avinguda de Tarragona"
-housenumber: 102
+street: Avinguda de Tarragona
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

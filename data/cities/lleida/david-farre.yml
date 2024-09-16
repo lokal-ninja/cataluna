@@ -4,8 +4,8 @@ latitude: 41.60619
 longitude: 0.64281
 postcode: "25001"
 city: Lleida
-street: "Carrer de Palauet"
-housenumber: 30
+street: Carrer de Palauet
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://davidfarre.net/"
+website: https://davidfarre.net/

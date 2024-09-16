@@ -4,8 +4,8 @@ latitude: 41.41169
 longitude: 2.13877
 postcode: "08022"
 city: Barcelona
-street: "Carrer de Craywinckel"
-housenumber: 24
+street: Carrer de Craywinckel
+housenumber: "24"
 phone: ""
-opening_hours: "08:00-21:00"
+opening_hours: 08:00-21:00
 website: ""

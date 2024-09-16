@@ -4,8 +4,8 @@ latitude: 41.40046
 longitude: 2.16111
 postcode: "08012"
 city: Barcelona
-street: "Carrer de Josep Torres"
-housenumber: 4
-phone: "+34 933 68 86 05"
-opening_hours: "Mo off; Tu-Fr 10:00-20:00; Sa 10:00-17:00"
-website: "https://www.laninadelospeines.net"
+street: Carrer de Josep Torres
+housenumber: "4"
+phone: +34 933 68 86 05
+opening_hours: Mo off; Tu-Fr 10:00-20:00; Sa 10:00-17:00
+website: https://www.laninadelospeines.net

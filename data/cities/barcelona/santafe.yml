@@ -4,8 +4,8 @@ latitude: 41.39657
 longitude: 2.16675
 postcode: "08037"
 city: Barcelona
-street: "Carrer del Bruc"
-housenumber: 126
+street: Carrer del Bruc
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-13:30"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-13:30
 website: ""

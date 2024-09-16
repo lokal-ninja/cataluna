@@ -4,8 +4,8 @@ latitude: 41.44972
 longitude: 2.24656
 postcode: "08911"
 city: Badalona
-street: "Carrer de Francesc Layret"
-housenumber: 39
-phone: "+34 93 38 41 607"
-opening_hours: "Mo-Sa 09:00-13:30,16:30-20:00; PH off"
-website: "https://utset.com"
+street: Carrer de Francesc Layret
+housenumber: "39"
+phone: +34 93 38 41 607
+opening_hours: Mo-Sa 09:00-13:30,16:30-20:00; PH off
+website: https://utset.com

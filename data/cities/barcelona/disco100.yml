@@ -4,8 +4,8 @@ latitude: 41.40744
 longitude: 2.16104
 postcode: "08024"
 city: Barcelona
-street: "Carrer de l'Escorial"
-housenumber: 33
-phone: "+34 932840904"
-opening_hours: "Tu-Sa 10:00-13:30,17:00-20:00; Mo 17:00-20:00"
-website: "https://www.disco100.com/"
+street: Carrer de l'Escorial
+housenumber: "33"
+phone: +34 932840904
+opening_hours: Tu-Sa 10:00-13:30,17:00-20:00; Mo 17:00-20:00
+website: https://www.disco100.com/

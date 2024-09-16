@@ -1,11 +1,11 @@
 id: 418542997
-type: way
+type: node
 latitude: 41.75072
 longitude: 2.12333
 postcode: "08183"
 city: Castellterçol
-street: "Carretera de Moià"
-housenumber: 10
+street: Carretera de Moià
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

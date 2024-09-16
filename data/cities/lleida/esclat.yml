@@ -1,11 +1,11 @@
 id: 636505551
-type: way
+type: node
 latitude: 41.60329
 longitude: 0.63118
 postcode: "25001"
 city: Lleida
-street: "Carrer de l'Enginyer Santi Companys"
+street: Carrer de l'Enginyer Santi Companys
 housenumber: 33-35
 phone: "+34973158440"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.bonpreuesclat.cat/"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.bonpreuesclat.cat/

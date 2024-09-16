@@ -4,8 +4,8 @@ latitude: 41.40124
 longitude: 2.15496
 postcode: "08012"
 city: Barcelona
-street: "Carrer de Ros de Olano"
-housenumber: 13
+street: Carrer de Ros de Olano
+housenumber: "13"
 phone: "+34931583174"
-opening_hours: "Mo-Fr 11:00-14:30,17:00-21:00"
-website: "https://mochilas13.com/"
+opening_hours: Mo-Fr 11:00-14:30,17:00-21:00
+website: https://mochilas13.com/

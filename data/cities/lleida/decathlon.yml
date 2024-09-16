@@ -1,11 +1,11 @@
 id: 145262078
-type: way
+type: node
 latitude: 41.60568
 longitude: 0.62909
 postcode: "25001"
 city: Lleida
-street: "Carrer de Miquel Batllori"
+street: Carrer de Miquel Batllori
 housenumber: 6,8
-phone: "+34 973158033"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.decathlon.es"
+phone: +34 973158033
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.decathlon.es

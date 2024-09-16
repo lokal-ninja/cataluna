@@ -1,11 +1,11 @@
 id: 1023994200
-type: way
+type: node
 latitude: 41.36629
 longitude: 0.91489
 postcode: "25471"
 city: la Pobla de Cérvoles
-street: "Carrer de les Sorts"
-housenumber: 
+street: Carrer de les Sorts
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

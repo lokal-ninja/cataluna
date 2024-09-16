@@ -4,8 +4,8 @@ latitude: 41.3993
 longitude: 2.14989
 postcode: "08008"
 city: Barcelona
-street: "Carrer de Laforja"
-housenumber: 24
+street: Carrer de Laforja
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:30"
+opening_hours: Mo-Fr 10:00-20:30
 website: ""

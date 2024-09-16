@@ -1,11 +1,11 @@
 id: 553335816
-type: way
+type: node
 latitude: 42.0844
 longitude: 2.98585
 postcode: "17144"
 city: Colomers
-street: "Carrer Nou"
-housenumber: 
+street: Carrer Nou
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

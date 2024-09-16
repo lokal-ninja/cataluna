@@ -1,11 +1,11 @@
 id: 532096773
-type: way
+type: node
 latitude: 42.00053
 longitude: 2.29296
 postcode: "08560"
 city: Manlleu
-street: "Carrer Miralles"
-housenumber: 1
+street: Carrer Miralles
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

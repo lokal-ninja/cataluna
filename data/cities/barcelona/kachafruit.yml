@@ -4,8 +4,8 @@ latitude: 41.38975
 longitude: 2.12055
 postcode: "08034"
 city: Barcelona
-street: "Passeig de Manuel Girona"
-housenumber: 6
+street: Passeig de Manuel Girona
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

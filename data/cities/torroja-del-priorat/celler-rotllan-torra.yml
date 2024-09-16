@@ -1,11 +1,11 @@
 id: 1207218618
-type: way
+type: node
 latitude: 41.21343
 longitude: 0.81008
 postcode: "43737"
 city: Torroja del Priorat
-street: "Carrer de la Balandra"
-housenumber: 6
-phone: "+34 977 83 92 85"
+street: Carrer de la Balandra
+housenumber: "6"
+phone: +34 977 83 92 85
 opening_hours: ""
-website: "https://www.rotllantorra.com/"
+website: https://www.rotllantorra.com/

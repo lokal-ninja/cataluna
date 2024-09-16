@@ -1,11 +1,11 @@
 id: 371331114
-type: way
+type: node
 latitude: 41.92789
 longitude: 2.24642
 postcode: "08500"
 city: Vic
-street: "Carrer de Perot Rocaguinarda"
-housenumber: 1
-phone: "+34 93 883 30 40"
-opening_hours: "Mo-Fr 09:00-13:30, 15:00-20:00; Sa 10:00-14:00"
-website: "https://www.motormunich.com/"
+street: Carrer de Perot Rocaguinarda
+housenumber: "1"
+phone: +34 93 883 30 40
+opening_hours: Mo-Fr 09:00-13:30, 15:00-20:00; Sa 10:00-14:00
+website: https://www.motormunich.com/

@@ -4,8 +4,8 @@ latitude: 41.41351
 longitude: 2.18094
 postcode: ""
 city: Barcelona
-street: "Passeig de Maragall"
-housenumber: 5
+street: Passeig de Maragall
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:30-14:30"
-website: "https://www.bonarea.com/es"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:30-14:30
+website: https://www.bonarea.com/es

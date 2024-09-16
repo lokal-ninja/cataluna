@@ -4,8 +4,8 @@ latitude: 41.93323
 longitude: 2.24204
 postcode: "08500"
 city: Vic
-street: "Avinguda d'Olímpia"
-housenumber: 5
-phone: "+34 93 516 43 01"
-opening_hours: "Mo-Fr 10:00-14:00,16:30-20:30; Sa 10:00-14:00; Aug off"
-website: "https://www.pcbox.com/"
+street: Avinguda d'Olímpia
+housenumber: "5"
+phone: +34 93 516 43 01
+opening_hours: Mo-Fr 10:00-14:00,16:30-20:30; Sa 10:00-14:00; Aug off
+website: https://www.pcbox.com/

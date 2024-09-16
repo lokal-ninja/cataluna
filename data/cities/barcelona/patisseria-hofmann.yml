@@ -4,8 +4,8 @@ latitude: 41.38505
 longitude: 2.18267
 postcode: "08003"
 city: Barcelona
-street: "Carrer dels Flassaders"
-housenumber: 44
-phone: "+34 932 68 82 21"
-opening_hours: "Mo-Sa 09:00-14:00,15:30-20:00; Su 09:00-14:00"
-website: "https://hofmannpasteleria.com/"
+street: Carrer dels Flassaders
+housenumber: "44"
+phone: +34 932 68 82 21
+opening_hours: Mo-Sa 09:00-14:00,15:30-20:00; Su 09:00-14:00
+website: https://hofmannpasteleria.com/

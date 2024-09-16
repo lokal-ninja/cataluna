@@ -4,8 +4,8 @@ latitude: 41.39531
 longitude: 2.16703
 postcode: ""
 city: Barcelona
-street: "Carrer de València"
-housenumber: 318
+street: Carrer de València
+housenumber: "318"
 phone: "+34932153613"
-opening_hours: "Mo-Sa 10:00-14:00,16:00-20:00; PH off"
-website: "https://www.jaimes.cat/"
+opening_hours: Mo-Sa 10:00-14:00,16:00-20:00; PH off
+website: https://www.jaimes.cat/

@@ -1,11 +1,11 @@
 id: 1251833801
-type: way
+type: node
 latitude: 41.94742
 longitude: 2.26876
 postcode: "08500"
 city: Vic
-street: "Carrer Mas la Mora"
-housenumber: 12
-phone: "+34 93 889 33 52"
+street: Carrer Mas la Mora
+housenumber: "12"
+phone: +34 93 889 33 52
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.43857
 longitude: 2.19601
 postcode: "08030"
 city: Barcelona
-street: "Carrer de São Paulo"
-housenumber: 4
+street: Carrer de São Paulo
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.maquibike.com"
+website: http://www.maquibike.com

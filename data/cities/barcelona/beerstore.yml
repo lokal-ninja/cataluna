@@ -4,8 +4,8 @@ latitude: 41.40675
 longitude: 2.17738
 postcode: "08025"
 city: Barcelona
-street: "Carrer de Provença"
-housenumber: 495
-phone: "+34 931 168 714"
-opening_hours: "Mo-Sa 11:00-14:00,17:00-20:30; Su closed"
-website: "https://www.beerstorebcn.com/"
+street: Carrer de Provença
+housenumber: "495"
+phone: +34 931 168 714
+opening_hours: Mo-Sa 11:00-14:00,17:00-20:30; Su closed
+website: https://www.beerstorebcn.com/

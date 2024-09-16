@@ -4,8 +4,8 @@ latitude: 41.40078
 longitude: 2.17541
 postcode: "08013"
 city: Barcelona
-street: "Avinguda Diagonal"
-housenumber: 322
+street: Avinguda Diagonal
+housenumber: "322"
 phone: "+34932388979"
-opening_hours: "Mo-Fr 10:30-13:30, 16:30-20:00; Sa-Su closed"
-website: "https://www.ciclesbiela.com/"
+opening_hours: Mo-Fr 10:30-13:30, 16:30-20:00; Sa-Su closed
+website: https://www.ciclesbiela.com/

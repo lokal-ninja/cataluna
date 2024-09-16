@@ -1,11 +1,11 @@
 id: 704596973
-type: way
+type: node
 latitude: 41.44289
 longitude: 2.23438
 postcode: "08912"
 city: Badalona
-street: "Avinguda d'Alfons XIII"
-housenumber: 92
-phone: "+34 671 982 124"
+street: Avinguda d'Alfons XIII
+housenumber: "92"
+phone: +34 671 982 124
 opening_hours: ""
-website: "https://autobcn.es/"
+website: https://autobcn.es/

@@ -4,8 +4,8 @@ latitude: 42.0005
 longitude: 2.28514
 postcode: "08560"
 city: Manlleu
-street: "Carrer del Pont"
-housenumber: 3
-phone: "+34 938510691"
-opening_hours: "Su-We, Fr 10:00-15:00, 16:00-20:00; Sa 10:00-13:00"
-website: "http://www.vallsfoto.com"
+street: Carrer del Pont
+housenumber: "3"
+phone: +34 938510691
+opening_hours: Su-We, Fr 10:00-15:00, 16:00-20:00; Sa 10:00-13:00
+website: http://www.vallsfoto.com

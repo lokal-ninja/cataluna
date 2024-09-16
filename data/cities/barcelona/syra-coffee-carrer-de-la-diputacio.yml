@@ -4,8 +4,8 @@ latitude: 41.38433
 longitude: 2.15876
 postcode: ""
 city: Barcelona
-street: "Carrer de la Diputació"
-housenumber: 163
+street: Carrer de la Diputació
+housenumber: "163"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-20:00"
-website: "https://syra.coffee/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-20:00
+website: https://syra.coffee/

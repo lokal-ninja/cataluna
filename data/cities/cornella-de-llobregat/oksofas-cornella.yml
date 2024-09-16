@@ -1,11 +1,11 @@
 id: 680124325
-type: way
+type: node
 latitude: 41.35085
 longitude: 2.08992
 postcode: "08940"
 city: Cornellà de Llobregat
-street: "Avinguda del Maresme"
-housenumber: 72
+street: Avinguda del Maresme
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

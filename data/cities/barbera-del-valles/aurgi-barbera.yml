@@ -1,11 +1,11 @@
 id: 597027207
-type: way
+type: node
 latitude: 41.52238
 longitude: 2.12872
 postcode: "08210"
 city: Barberà del Vallès
-street: "Ronda de Santa Maria"
-housenumber: 234
-phone: "+34 902 23 10 10"
-opening_hours: "Mo-Sa 08:30-20:30"
+street: Ronda de Santa Maria
+housenumber: "234"
+phone: +34 902 23 10 10
+opening_hours: Mo-Sa 08:30-20:30
 website: ""

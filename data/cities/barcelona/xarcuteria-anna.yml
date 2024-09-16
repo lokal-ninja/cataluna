@@ -4,8 +4,8 @@ latitude: 41.40721
 longitude: 2.16701
 postcode: "08025"
 city: Barcelona
-street: "Travessera de Gràcia"
-housenumber: 337
-phone: "+34 932 07 13 97"
-opening_hours: "Mo-Fr 09:00-15:00,17:00-20:45; Sa 09:00-15:00, 18:00-20:45; PH off"
-website: "https://agraciahotrobes.cat/xarcuteria-anna"
+street: Travessera de Gràcia
+housenumber: "337"
+phone: +34 932 07 13 97
+opening_hours: Mo-Fr 09:00-15:00,17:00-20:45; Sa 09:00-15:00, 18:00-20:45; PH off
+website: https://agraciahotrobes.cat/xarcuteria-anna

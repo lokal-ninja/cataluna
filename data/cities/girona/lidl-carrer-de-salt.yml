@@ -1,11 +1,11 @@
 id: 690578969
-type: way
+type: node
 latitude: 41.96452
 longitude: 2.80812
 postcode: "17005"
 city: Girona
-street: "Carrer de Salt"
-housenumber: 2
+street: Carrer de Salt
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

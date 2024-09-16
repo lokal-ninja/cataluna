@@ -4,8 +4,8 @@ latitude: 41.39937
 longitude: 2.15735
 postcode: "08012"
 city: Barcelona
-street: "Carrer de María"
-housenumber: 11
-phone: "+34 637 77 16 75"
-opening_hours: "Mo 16:00-20:00; Tu-Fr 10:00-14:00,16:00-20:00"
-website: "https://www.bicismaria.com"
+street: Carrer de María
+housenumber: "11"
+phone: +34 637 77 16 75
+opening_hours: Mo 16:00-20:00; Tu-Fr 10:00-14:00,16:00-20:00
+website: https://www.bicismaria.com

@@ -1,11 +1,11 @@
 id: 63937545
-type: way
+type: node
 latitude: 41.961
 longitude: 2.80307
 postcode: ""
 city: Girona
-street: "Carretera de Santa Coloma"
-housenumber: 96
+street: Carretera de Santa Coloma
+housenumber: "96"
 phone: ""
 opening_hours: ""
-website: "https://www.electronicabf.com/"
+website: https://www.electronicabf.com/

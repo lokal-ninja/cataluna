@@ -1,11 +1,11 @@
 id: 1065476189
-type: way
+type: node
 latitude: 41.46022
 longitude: 1.95276
 postcode: "08740"
 city: Sant Andreu de la Barca
-street: "Carrer del Comerç"
-housenumber: 48
-phone: "+34 93 653 01 60"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00"
-website: "https://marticanudas.net/"
+street: Carrer del Comerç
+housenumber: "48"
+phone: +34 93 653 01 60
+opening_hours: Mo-Fr 08:00-13:00,15:00-18:00
+website: https://marticanudas.net/

@@ -4,8 +4,8 @@ latitude: 41.72729
 longitude: 1.83793
 postcode: "08243"
 city: Manresa
-street: "Carrer de la Sagrada Família"
-housenumber: 3
-phone: "+34 938 730 948"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,17:00-20:00+; We 17:00-20:00+; Sa 09:00-13:00+"
+street: Carrer de la Sagrada Família
+housenumber: "3"
+phone: +34 938 730 948
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,17:00-20:00+; We 17:00-20:00+; Sa 09:00-13:00+
 website: ""

@@ -1,11 +1,11 @@
 id: 722647198
-type: way
+type: node
 latitude: 41.34946
 longitude: 2.12469
 postcode: "08908"
 city: l'Hospitalet de Llobregat
-street: "Carrer de Montserrat Roig"
-housenumber: 31
+street: Carrer de Montserrat Roig
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.38909
 longitude: 2.17542
 postcode: "08010"
 city: Barcelona
-street: "Carrer de Trafalgar"
-housenumber: 19
+street: Carrer de Trafalgar
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.eugeniomassage.eu"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.eugeniomassage.eu

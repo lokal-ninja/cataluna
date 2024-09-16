@@ -4,8 +4,8 @@ latitude: 41.45673
 longitude: 2.25024
 postcode: "08911"
 city: Badalona
-street: "Carrer de la Seu d'Urgell"
-housenumber: 44
+street: Carrer de la Seu d'Urgell
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 09:15-21:15"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:15-21:15
+website: https://www.mercadona.es

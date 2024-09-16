@@ -4,8 +4,8 @@ latitude: 41.37801
 longitude: 2.13317
 postcode: "08028"
 city: Barcelona
-street: "Carrer de Papin"
-housenumber: 26
+street: Carrer de Papin
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "http://www.printhatshit.com/"
+website: http://www.printhatshit.com/

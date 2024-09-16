@@ -1,11 +1,11 @@
 id: 1039553856
-type: way
+type: node
 latitude: 41.88795
 longitude: 2.74278
 postcode: "17185"
 city: Vilobí d'Onyar
-street: "Plaça Nova"
-housenumber: 9
-phone: "+34 972 47 30 32"
+street: Plaça Nova
+housenumber: "9"
+phone: +34 972 47 30 32
 opening_hours: ""
-website: "https://noguerapastissers.cat/contacte/pastisseria-vilobi-donyar/"
+website: https://noguerapastissers.cat/contacte/pastisseria-vilobi-donyar/

@@ -1,11 +1,11 @@
 id: 63917350
-type: way
+type: node
 latitude: 41.95923
 longitude: 2.81083
 postcode: "17003"
 city: Girona
-street: "Carrer Victoria Gasteiz"
-housenumber: 
-phone: "+34 972 41 42 22"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.bauhaus.es/"
+street: Carrer Victoria Gasteiz
+housenumber: ""
+phone: +34 972 41 42 22
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.bauhaus.es/

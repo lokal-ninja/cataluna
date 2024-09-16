@@ -1,11 +1,11 @@
 id: 988338213
-type: way
+type: node
 latitude: 41.54741
 longitude: 0.82343
 postcode: "25430"
 city: Juneda
-street: "Carrer d'Enric Prat de la Riba"
-housenumber: 144
+street: Carrer d'Enric Prat de la Riba
+housenumber: "144"
 phone: "+34619351298"
 opening_hours: ""
 website: ""

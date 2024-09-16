@@ -4,8 +4,8 @@ latitude: 41.11963
 longitude: 1.25303
 postcode: "43002"
 city: Tarragona
-street: "Avinguda Catalunya"
-housenumber: 10
+street: Avinguda Catalunya
+housenumber: "10"
 phone: "+34977224546"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://bonpreuesclat.cat/"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://bonpreuesclat.cat/

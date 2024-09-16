@@ -4,8 +4,8 @@ latitude: 41.37376
 longitude: 2.16683
 postcode: "08004"
 city: Barcelona
-street: "Carrer del Roser"
-housenumber: 18
+street: Carrer del Roser
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.dia.es"
+website: https://www.dia.es

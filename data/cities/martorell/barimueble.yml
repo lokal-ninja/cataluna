@@ -4,8 +4,8 @@ latitude: 41.46374
 longitude: 1.95067
 postcode: "08760"
 city: Martorell
-street: "Avinguda del Congost"
-housenumber: 34
-phone: "+34 937 74 57 29"
-opening_hours: "Mo-Sa 10:30-13:30, 16:30-20:30"
-website: "https://barimueble.es"
+street: Avinguda del Congost
+housenumber: "34"
+phone: +34 937 74 57 29
+opening_hours: Mo-Sa 10:30-13:30, 16:30-20:30
+website: https://barimueble.es

@@ -4,8 +4,8 @@ latitude: 41.395
 longitude: 2.1621
 postcode: "08008"
 city: Barcelona
-street: "Passeig de Gràcia"
-housenumber: 90
+street: Passeig de Gràcia
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

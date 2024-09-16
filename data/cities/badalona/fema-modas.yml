@@ -4,8 +4,8 @@ latitude: 41.44121
 longitude: 2.22683
 postcode: "08914"
 city: Badalona
-street: "Passeig de la Salut"
-housenumber: 58
+street: Passeig de la Salut
+housenumber: "58"
 phone: "+34933881499"
-opening_hours: "Mo-Fr 10:00-13:30,16:45-20:30; Sa 10:00-14:00,17:00-20:45; PH closed"
-website: "http://fema-modas.com"
+opening_hours: Mo-Fr 10:00-13:30,16:45-20:30; Sa 10:00-14:00,17:00-20:45; PH closed
+website: http://fema-modas.com

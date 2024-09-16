@@ -4,8 +4,8 @@ latitude: 41.4122
 longitude: 2.14642
 postcode: ""
 city: Barcelona
-street: "Carrer de la Farigola"
-housenumber: 24
+street: Carrer de la Farigola
+housenumber: "24"
 phone: ""
-opening_hours: "Fr 18:00-21:00"
-website: "https://biciosxs.noubarris.org/"
+opening_hours: Fr 18:00-21:00
+website: https://biciosxs.noubarris.org/

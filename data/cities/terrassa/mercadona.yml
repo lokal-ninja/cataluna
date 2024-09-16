@@ -1,11 +1,11 @@
 id: 689734971
-type: way
+type: node
 latitude: 41.57108
 longitude: 2.02235
 postcode: "08226"
 city: Terrassa
-street: "Avinguda de Jaume I"
-housenumber: 91
+street: Avinguda de Jaume I
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.40092
 longitude: 2.16267
 postcode: "08012"
 city: Barcelona
-street: "Carrer de Milà i Fontanals"
-housenumber: 28
+street: Carrer de Milà i Fontanals
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr 10:00-14:00, 17:00-20:00; Sa 11:00-14:00; Mo 17:00-20:00"
+opening_hours: Tu-Fr 10:00-14:00, 17:00-20:00; Sa 11:00-14:00; Mo 17:00-20:00
 website: ""

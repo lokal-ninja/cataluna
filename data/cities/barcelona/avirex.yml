@@ -4,8 +4,8 @@ latitude: 41.3945
 longitude: 2.15922
 postcode: "08008"
 city: Barcelona
-street: "Rambla de Catalunya"
-housenumber: 110
+street: Rambla de Catalunya
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

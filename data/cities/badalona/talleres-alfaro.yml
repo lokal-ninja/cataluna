@@ -4,8 +4,8 @@ latitude: 41.43941
 longitude: 2.21879
 postcode: "08913"
 city: Badalona
-street: "Carrer d'Europa"
-housenumber: 49
-phone: "+34 933 97 99 09"
-opening_hours: "Mo-Th 08:00-13:00,15:00-20:00; Fr 08:00-13:00,15:00-19:00; PH closed"
+street: Carrer d'Europa
+housenumber: "49"
+phone: +34 933 97 99 09
+opening_hours: Mo-Th 08:00-13:00,15:00-20:00; Fr 08:00-13:00,15:00-19:00; PH closed
 website: ""

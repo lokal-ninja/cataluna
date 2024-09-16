@@ -1,11 +1,11 @@
 id: 557088521
-type: way
+type: node
 latitude: 40.70118
 longitude: 0.57543
 postcode: "43870"
 city: Amposta
-street: "Carrer d'Antoni Gaudí"
-housenumber: 1
+street: Carrer d'Antoni Gaudí
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi.es/"
+website: https://www.aldi.es/

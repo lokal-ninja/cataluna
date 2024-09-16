@@ -4,8 +4,8 @@ latitude: 41.39262
 longitude: 2.1781
 postcode: "08010"
 city: Barcelona
-street: "Passeig de Sant Joan"
-housenumber: 17
+street: Passeig de Sant Joan
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 10:30-20:30"
-website: "https://www.goblintrader.es"
+opening_hours: Mo-Sa 10:30-20:30
+website: https://www.goblintrader.es
