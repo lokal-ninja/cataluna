@@ -1,6 +1,6 @@
 ---
 title: Vielha
 url: /vielha/
-latitude: 42.703
-longitude: 0.796
+latitude: 42.704
+longitude: 0.794
 ---
