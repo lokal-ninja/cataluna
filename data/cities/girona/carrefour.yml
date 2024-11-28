@@ -7,5 +7,5 @@ city: Girona
 street: Avinguda de França
 housenumber: 42-44
 phone: +34 972223848
-opening_hours: Mo-Sa 09:00-21:00
+opening_hours: 'Oct-May: Mo-Su 09:00-21:00; Jun-Sep: Mo-Su 09:00-22:00'
 website: ""

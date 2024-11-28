@@ -1,5 +1,5 @@
 ---
 title: "Gran Espai"
 url: /girona/gran-espai/
-shop: comodidad
+shop: tienda de variedades
 ---
