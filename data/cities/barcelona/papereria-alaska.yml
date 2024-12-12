@@ -7,5 +7,6 @@ city: Barcelona
 street: Avinguda de Vallcarca
 housenumber: "44"
 phone: "+34932850776"
-opening_hours: Mo-Th 10:00-14:00, 16:30-20:15; Fr 10:00-14:00, 16:30-20:00; Sa 10:00-14:00, 18:00-20:00
+opening_hours: Mo-Th 10:00-14:00, 16:30-20:15; Fr 10:00-14:00, 16:30-20:00; Sa 10:00-14:00,
+    18:00-20:00
 website: https://alaskapapers.business.site/
