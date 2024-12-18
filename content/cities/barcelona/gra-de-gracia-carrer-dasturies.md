@@ -1,5 +1,5 @@
 ---
 title: "Gra de Gràcia"
-url: /barcelona/gra-de-gracia-carrer-del-cigne/
+url: /barcelona/gra-de-gracia-carrer-dasturies/
 shop: supermercado
 ---
