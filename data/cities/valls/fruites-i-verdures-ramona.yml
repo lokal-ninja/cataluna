@@ -1,11 +1,12 @@
 id: 12202805125
 type: node
-latitude: 41.28759
-longitude: 1.25426
+latitude: 41.28758
+longitude: 1.25425
 postcode: "43800"
 city: Valls
 street: Carrer Avenir
 housenumber: "27"
 phone: ""
-opening_hours: ""
+opening_hours: '"Obert dilluns, dimecres, dijous i divendres tot el dia amb descans
+    al migdia i dimarts i dissabte al matí"'
 website: ""

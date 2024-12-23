@@ -1,5 +1,5 @@
 ---
 title: "Gatha"
 url: /valls/gatha/
-shop: ropa
+shop: bolsas y maletas
 ---
