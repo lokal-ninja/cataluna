@@ -1,6 +1,6 @@
 ---
 title: Amposta
 url: /amposta/
-latitude: 40.703
+latitude: 40.706
 longitude: 0.579
 ---
