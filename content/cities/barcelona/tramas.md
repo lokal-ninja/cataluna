@@ -1,5 +1,5 @@
 ---
-title: "Tramas"
+title: "Tramas+"
 url: /barcelona/tramas/
-shop: general
+shop: ropa
 ---
