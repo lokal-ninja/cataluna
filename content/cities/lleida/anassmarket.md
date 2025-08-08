@@ -1,5 +1,5 @@
 ---
 title: "Anassmarket"
 url: /lleida/anassmarket/
-shop: vacante
+shop: charcutería
 ---

@@ -1,5 +1,5 @@
 ---
-title: "DRIM"
+title: "Drim"
 url: /barcelona/drim/
 shop: juguetes
 ---

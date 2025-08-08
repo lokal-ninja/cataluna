@@ -1,6 +1,6 @@
 ---
 title: Lleida
 url: /lleida/
-latitude: 41.617
-longitude: 0.613
+latitude: 41.621
+longitude: 0.628
 ---
