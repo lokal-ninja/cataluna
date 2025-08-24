@@ -1,5 +1,5 @@
 ---
-title: "PrimaPrix"
+title: "Primaprix"
 url: /lleida/primaprix/
-shop: comodidad
+shop: supermercado
 ---
