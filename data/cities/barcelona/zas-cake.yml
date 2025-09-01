@@ -7,5 +7,5 @@ city: Barcelona
 street: Carrer de la Mare de Déu de Port
 housenumber: "272"
 phone: ""
-opening_hours: Mo-Fr 10:00-13:30; Sa 10:00-13:00; Mo-Sa 17:00-20:00
+opening_hours: Mo-Fr 10:00-13:00,17:00-19:00; Sa 10:00-13:00
 website: ""
