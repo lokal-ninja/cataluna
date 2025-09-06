@@ -1,6 +1,6 @@
 ---
 title: Guissona
 url: /guissona/
-latitude: 41.787
-longitude: 1.293
+latitude: 41.782
+longitude: 1.283
 ---
