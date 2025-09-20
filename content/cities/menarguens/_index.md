@@ -1,6 +1,6 @@
 ---
 title: Menàrguens
 url: /menarguens/
-latitude: 41.729
-longitude: 0.743
+latitude: 41.73
+longitude: 0.744
 ---
