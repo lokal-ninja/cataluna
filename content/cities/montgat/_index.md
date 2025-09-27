@@ -1,6 +1,6 @@
 ---
 title: Montgat
 url: /montgat/
-latitude: 41.463
-longitude: 2.272
+latitude: 41.469
+longitude: 2.281
 ---
