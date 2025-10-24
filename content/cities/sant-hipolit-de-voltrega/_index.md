@@ -1,6 +1,6 @@
 ---
 title: Sant Hipòlit de Voltregà
 url: /sant-hipolit-de-voltrega/
-latitude: 42.015
-longitude: 2.243
+latitude: 42.016
+longitude: 2.236
 ---

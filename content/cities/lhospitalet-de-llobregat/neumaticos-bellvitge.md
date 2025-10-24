@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos Bellvitge"
 url: /lhospitalet-de-llobregat/neumaticos-bellvitge/
-shop: neumáticos
+shop: reparación de automóviles
 ---
