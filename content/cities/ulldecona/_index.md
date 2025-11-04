@@ -1,6 +1,6 @@
 ---
 title: Ulldecona
 url: /ulldecona/
-latitude: 40.598
-longitude: 0.448
+latitude: 40.599
+longitude: 0.444
 ---
