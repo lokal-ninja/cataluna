@@ -1,6 +1,6 @@
 ---
 title: Castellterçol
 url: /castelltercol/
-latitude: 41.751
+latitude: 41.752
 longitude: 2.121
 ---
