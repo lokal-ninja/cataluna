@@ -1,5 +1,5 @@
 ---
 title: "Bonpreu"
 url: /cervello/bonpreu/
-shop: comodidad
+shop: supermercado
 ---
