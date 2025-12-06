@@ -1,6 +1,6 @@
 ---
 title: Badalona
 url: /badalona/
-latitude: 41.439
-longitude: 2.22
+latitude: 41.44
+longitude: 2.219
 ---
