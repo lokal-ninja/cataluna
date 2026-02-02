@@ -1,6 +1,6 @@
 ---
 title: Bellpuig
 url: /bellpuig/
-latitude: 41.629
-longitude: 1.01
+latitude: 41.632
+longitude: 1.008
 ---

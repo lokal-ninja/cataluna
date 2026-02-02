@@ -1,5 +1,5 @@
 ---
-title: "Forn MIR"
+title: "Forn MiR"
 url: /lleida/forn-mir/
 shop: panadería
 ---
