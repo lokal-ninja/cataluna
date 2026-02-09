@@ -1,5 +1,5 @@
 ---
-title: "VILA HOME"
+title: "Vila Home"
 url: /vilassar-de-mar/vila-home/
-shop: decoración interior
+shop: tienda de variedades
 ---
