@@ -1,6 +1,6 @@
 ---
 title: Empuriabrava
 url: /empuriabrava/
-latitude: 42.242
-longitude: 3.123
+latitude: 42.254
+longitude: 3.11
 ---
