@@ -1,6 +1,6 @@
 ---
 title: Alella
 url: /alella/
-latitude: 41.494
-longitude: 2.296
+latitude: 41.493
+longitude: 2.295
 ---
