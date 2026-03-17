@@ -1,5 +1,5 @@
 ---
 title: "Druni"
 url: /roses/druni/
-shop: cosméticos
+shop: perfumería
 ---
