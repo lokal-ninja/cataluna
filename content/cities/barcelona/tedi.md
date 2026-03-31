@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /barcelona/tedi/
-shop: menaje del hogar
+shop: tienda de variedades
 ---

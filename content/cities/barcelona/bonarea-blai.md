@@ -1,5 +1,5 @@
 ---
-title: "bonÁrea"
+title: "BonÀrea"
 url: /barcelona/bonarea-blai/
 shop: supermercado
 ---
