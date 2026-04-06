@@ -1,6 +1,6 @@
 ---
-title: El Prat de Llobregat
+title: el Prat de Llobregat
 url: /el-prat-de-llobregat/
-latitude: 41.325
-longitude: 2.096
+latitude: 41.32
+longitude: 2.09
 ---
