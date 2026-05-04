@@ -1,5 +1,5 @@
 ---
-title: "Mobiprix Mobles Rubi"
+title: "Mobiprix Mobles Rubí"
 url: /rubi/mobiprix-mobles-rubi/
 shop: muebles
 ---
