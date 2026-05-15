@@ -1,5 +1,5 @@
 ---
 title: "Druni"
 url: /tarragona/druni/
-shop: cosméticos
+shop: perfumería
 ---

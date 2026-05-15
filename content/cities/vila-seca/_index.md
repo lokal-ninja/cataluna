@@ -1,6 +1,6 @@
 ---
 title: Vila-seca
 url: /vila-seca/
-latitude: 41.096
-longitude: 1.151
+latitude: 41.112
+longitude: 1.147
 ---

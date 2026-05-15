@@ -1,6 +1,6 @@
 ---
 title: Tortosa
 url: /tortosa/
-latitude: 40.811
-longitude: 0.512
+latitude: 40.81
+longitude: 0.523
 ---
