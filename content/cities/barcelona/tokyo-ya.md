@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Ya"
+title: "Tokyo-Ya"
 url: /barcelona/tokyo-ya/
-shop: charcutería
+shop: supermercado
 ---
