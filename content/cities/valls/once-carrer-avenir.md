@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
-url: /valls/once-carrer-vallvera-2/
+url: /valls/once-carrer-avenir/
 shop: lotería
 ---

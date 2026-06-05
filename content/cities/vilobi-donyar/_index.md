@@ -1,6 +1,6 @@
 ---
 title: Vilobí d'Onyar
 url: /vilobi-donyar/
-latitude: 41.888
-longitude: 2.741
+latitude: 41.887
+longitude: 2.742
 ---
