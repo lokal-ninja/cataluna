@@ -1,6 +1,6 @@
 ---
 title: Preixana
 url: /preixana/
-latitude: 41.606
-longitude: 1.038
+latitude: 41.607
+longitude: 1.037
 ---
