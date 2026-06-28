@@ -1,6 +1,6 @@
 ---
 title: Vallirana
 url: /vallirana/
-latitude: 41.389
-longitude: 1.933
+latitude: 41.39
+longitude: 1.939
 ---

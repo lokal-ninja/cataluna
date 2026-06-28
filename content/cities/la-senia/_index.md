@@ -1,6 +1,6 @@
 ---
 title: la Sénia
 url: /la-senia/
-latitude: 40.632
-longitude: 0.293
+latitude: 40.638
+longitude: 0.286
 ---
