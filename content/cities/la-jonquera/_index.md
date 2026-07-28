@@ -1,6 +1,6 @@
 ---
-title: la Jonquera
+title: La Jonquera
 url: /la-jonquera/
-latitude: 42.399
-longitude: 2.882
+latitude: 42.407
+longitude: 2.88
 ---

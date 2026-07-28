@@ -1,6 +1,6 @@
 ---
 title: Tarragona
 url: /tarragona/
-latitude: 41.116
-longitude: 1.246
+latitude: 41.118
+longitude: 1.243
 ---
