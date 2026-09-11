@@ -1,5 +1,5 @@
 ---
-title: "Plusfresc"
+title: "Plusfrésc:"
 url: /barcelona/plusfresc/
 shop: supermercado
 ---

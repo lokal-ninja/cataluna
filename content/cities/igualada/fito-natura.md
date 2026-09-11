@@ -1,5 +1,5 @@
 ---
-title: "FITO NATURA"
+title: "Fito-natura"
 url: /igualada/fito-natura/
-shop: supermercado
+shop: alimentación sana
 ---

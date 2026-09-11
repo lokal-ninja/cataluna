@@ -1,5 +1,5 @@
 ---
 title: "Guiu"
 url: /lleida/guiu/
-shop: pesca
+shop: comodidad
 ---

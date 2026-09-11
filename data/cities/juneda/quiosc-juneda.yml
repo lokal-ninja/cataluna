@@ -7,5 +7,6 @@ city: Juneda
 street: Carrer de Josep Anselm Clavé
 housenumber: "2"
 phone: ""
-opening_hours: Mo-Fr 08:00-13:30,17:30-20:00; Sa-Su 08:30-13:30
+opening_hours: Mo-Fr 08:00-13:30,17:30-20:00; Sa-Su 08:30-13:30; Jul-Aug Mo-Fr 08:00-13:30;
+    Jul-Aug Sa-Su 08:30-13:30
 website: ""

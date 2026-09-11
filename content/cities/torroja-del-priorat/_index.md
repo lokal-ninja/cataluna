@@ -1,6 +1,6 @@
 ---
 title: Torroja del Priorat
 url: /torroja-del-priorat/
-latitude: 41.213
-longitude: 0.81
+latitude: 41.212
+longitude: 0.812
 ---
