@@ -1,6 +1,6 @@
 ---
 title: Sidamon
 url: /sidamon/
-latitude: 41.627
-longitude: 0.835
+latitude: 41.628
+longitude: 0.834
 ---

@@ -7,5 +7,5 @@ city: Santa Maria de Martorelles
 street: Plaça de Matons
 housenumber: "1"
 phone: "+34935931829"
-opening_hours: Mo-Fr 08:00-14:00 17:00-20:00 Sa-Su 08:00-14:00
+opening_hours: Mo-Fr 08:00-14:00 ,17:00-20:00, Sa-Su 08:00-14:00
 website: ""

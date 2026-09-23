@@ -7,6 +7,6 @@ city: Barcelona
 street: Plaça de la Revolució
 housenumber: "5"
 phone: +34 934083696
-opening_hours: Mo Off; Tu-Fri 12:00-14:30, 16:30-20:30; Sa 12:30-16:00, 16:30-20:30,
-    Su 13:00-15:00, 16:00-20:30
+opening_hours: Mo off; Tu-Fr 12:00-14:30,16:30-20:30; Sa 12:30-16:00,16:30-20:30,
+    Su 13:00-15:00,16:00-20:30
 website: ""

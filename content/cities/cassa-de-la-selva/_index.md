@@ -1,6 +1,6 @@
 ---
-title: Cassà de la Selva
+title: Cassa de la Selva
 url: /cassa-de-la-selva/
-latitude: 41.89
-longitude: 2.872
+latitude: 41.884
+longitude: 2.879
 ---
