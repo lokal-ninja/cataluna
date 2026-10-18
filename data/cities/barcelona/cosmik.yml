@@ -7,5 +7,5 @@ city: Barcelona
 street: Carrer de Viladomat
 housenumber: "235"
 phone: +34 655 410911
-opening_hours: Mo-Sa 10:00-14:00; We-Th 17:00-20:00
+opening_hours: Mo-Th 10:00-14:00, Mo-Th 17:00-20:00, Fr 09:00-14:00
 website: https://cosmik.es
