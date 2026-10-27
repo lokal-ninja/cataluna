@@ -1,6 +1,6 @@
 ---
 title: Banyoles
 url: /banyoles/
-latitude: 42.123
-longitude: 2.787
+latitude: 42.112
+longitude: 2.772
 ---
