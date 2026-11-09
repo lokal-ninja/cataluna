@@ -1,6 +1,6 @@
 ---
 title: Berga
 url: /berga/
-latitude: 42.103
-longitude: 1.857
+latitude: 42.101
+longitude: 1.845
 ---
