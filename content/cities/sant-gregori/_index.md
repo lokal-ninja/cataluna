@@ -1,6 +1,6 @@
 ---
 title: Sant Gregori
 url: /sant-gregori/
-latitude: 41.99
-longitude: 2.762
+latitude: 41.991
+longitude: 2.756
 ---
