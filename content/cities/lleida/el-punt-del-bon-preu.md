@@ -1,5 +1,5 @@
 ---
 title: "El Punt del Bon Preu"
 url: /lleida/el-punt-del-bon-preu/
-shop: hardware
+shop: menaje del hogar
 ---

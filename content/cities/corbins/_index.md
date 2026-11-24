@@ -1,6 +1,6 @@
 ---
 title: Corbins
 url: /corbins/
-latitude: 41.692
-longitude: 0.696
+latitude: 41.691
+longitude: 0.693
 ---
